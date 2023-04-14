@@ -1,0 +1,9 @@
+diff --git a/abc.js b/abc.js
+index e114bdf..874ce24 100644
+--- a/abc.js
++++ b/abc.js
+@@ -1,4 +1,4 @@
+
+function [-hi()-]{+lock()+} {
+    
+}

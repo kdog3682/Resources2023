@@ -1,0 +1,133 @@
+               01-19-2023                grader.js
+               01-19-2023      reportCardConfig.js
+               01-19-2023           VueRenderer.js
+               01-20-2023              Prettier.js
+               01-24-2023               physics.js not rly in use
+               01-24-2023                  exam.js empty
+               01-25-2023         VoiceRecorder.js td one day
+               01-25-2023            googleApps.js worth doing i think
+               02-09-2023    googleAppConnector.js connected
+               01-25-2023         vue-shortcuts.js i think delete
+               01-25-2023     ElementController.js del
+               01-25-2023        organizePython.js i think del
+               02-10-2023              compiled.js del
+               02-13-2023                   vim.js del it
+               02-13-2023                   svg.js merge with geo
+               02-13-2023              vue-data.js
+               02-13-2023                 shunt.js del
+               02-14-2023   generateReportCards.js
+               02-15-2023         Templates.txt.js del
+               02-15-2023             deepEqual.js
+               02-15-2023     chatGptDownloader.js
+               02-15-2023                    tt.js del
+               02-16-2023                 ofile.js del
+               02-20-2023                  null.js del
+               02-20-2023                  asdf.js del
+               02-21-2023            getImplied.js
+               02-23-2023              fixProse.js
+               02-23-2023             fixGender.js
+               02-23-2023       geometry.shapes.js merge svg
+               02-23-2023        vue-directives.js del
+               02-28-2023      parser-factories.js used in lineEdit
+               02-28-2023data-parsers.deprecated.js del
+               03-01-2023                  data.js chat gpt data
+               03-01-2023  worksheet-components.js deprecated
+               03-01-2023             latexTree.js dunno how to use
+               03-01-2023         answerPattern.js
+               03-01-2023               mathgen.js see differences with math.js
+               03-01-2023           Interactive.js
+               03-02-2023              fraction.js maybe read Fraction library
+               03-02-2023        mathgen.config.js
+               03-03-2023        javascriptApps.js linked
+               03-07-2023                   App.js linked
+               03-03-2023                  todo.js del
+               03-06-2023 birthdayAnnouncements.js del
+               03-07-2023       base-components.js only wc2 in use
+               03-07-2023           HTMLBuilder.js del
+               03-08-2023  vueComponentWrappers.js mmm...
+               03-08-2023          StateContext.js sc2 doesnt work
+               03-08-2023            birdRouter.js
+               03-08-2023            animations.js
+               03-08-2023         studentRouter.js
+               03-08-2023           parseGrades.js
+               03-09-2023                   pdf.js dep
+               03-09-2023               mathcha.js  del
+
+               03-09-2023            serverApps.js
+               03-09-2023          simpleServer.js
+
+               03-10-2023                uglify.js
+               03-10-2023            unit-tests.js
+               03-10-2023      ProblemGenerator.js dep definitely because it is in pg
+               03-10-2023              mathApps.js
+               03-14-2023              advanced.js
+               03-14-2023                  math.js
+               03-15-2023       googleAppScript.js
+               03-15-2023            node-utils.js
+               03-15-2023           hello_world.js dep ... was used for typescript test
+               //03-15-2023                 latex.js
+               //03-16-2023               fixMath.js
+               //03-16-2023            nerdSolver.js
+               //03-16-2023            directives.js
+               //03-16-2023generateMultipleChoice.js
+               03-16-2023                    ma.js
+               03-16-2023                  temp.js del
+               03-16-2023               vueData.js helps understand markdown parser
+               03-17-2023               globals.js 
+               03-17-2023                  main.js
+               03-17-2023               OX3HTML.js
+               03-17-2023              LineEdit.js
+               03-17-2023           color-utils.js
+               03-17-2023             css-utils.js
+               03-17-2023                    ec.js
+               03-17-2023             Puppeteer.js
+               03-17-2023         browser-utils.js
+               03-20-2023            DateObject.js
+               03-20-2023               wob.ini.js
+               03-20-2023         wob.worksheet.js
+               03-20-2023                 clock.js
+               03-20-2023                server.js
+               03-20-2023                  clip.js
+               03-20-2023         vob.worksheet.js
+               03-20-2023worksheet-components-2.js
+               03-20-2023     QuestionGenerator.js
+               03-20-2023             vue-utils.js
+               03-21-2023         CodeOrganizer.js
+               03-21-2023             variables.js
+               03-21-2023                 Lezer.js
+               03-21-2023                     a.js eh keep 
+               03-21-2023                     b.js keep
+               03-21-2023                  test.js what im currently testing
+               03-21-2023             Classroom.js
+               03-21-2023                   env.js
+               03-21-2023              markdown.js
+               03-21-2023            splitKatex.js
+               03-21-2023                 parse.js
+               03-21-2023         hammyDialogue.js
+               03-21-2023              dialogue.js
+               03-21-2023              textEdit.js
+               03-21-2023         codeOrganizer.js
+               03-21-2023           htmlBuilder.js
+               03-21-2023                 utils.js
+               03-21-2023             compileRE.js
+               03-21-2023            scratchpad.js
+               03-21-2023       consumableParse.js
+               03-21-2023             createRNG.js
+
+
+# Draw a picture of a cake
+Ham eats half a cake. The rest is shared equally between Sam and Pam. What fraction of the cake does Sam get?
+
+
+# Draw a picture of a pizza
+
+Sam has a pizza with 10 slices.
+He eats 2 slices.
+What fraction of the pizza is left?
+
+
+For quizzes, you can start right when you get it.
+For exams, we will wait for everyone before starting.
+It is correct to start qzes right away and for exams to be waited for.
+
+It is very correct to be sparse with the letters you send. It was correct to not send Vincent a letter about comparisons.

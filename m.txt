@@ -1,0 +1,99 @@
+# Sam and Ham Cakes
+
+Every time Sam eats a cake, Ham eats 3 times as many cakes.
+
+## Which equation below shows the correct relationship between Sam and Ham?
+
+S represents Sam Cakes.
+H represents Ham Cakes.
+
+S = H + 3
+H = S div 3
+S = H div 3
+H = S times 3
+
+## On Monday, Sam and Ham eat a total of 12 cakes. How many cakes does Sam eat?
+
+
+
+## On Tuesday, Sam and Ham eat a total of 120 cakes. How many cakes does Ham eat?
+
+
+## @dialogue @skip
+
+Hammy, no more cakes! 120 cakes is too many cakes!
+
+But Hammy didn't listen. Bonnie's Bakery has the best cakes.
+At 9:08PM, Hammy noticed Shujing was soon to fall asleep.
+It was time for Ham and Sam's great adventure.
+They would sneak off to Bonnie's Bakery for more cakes.
+
+If the journey takes 17 minutes, Sam's bathroom break takes 1 minute, and Ham's snack break takes 3 minutes, what time will Ham and Sam arrive at Bonnie's Bakery?
+
+(9:08PM + 17 + 1 + 3)
+
+
+# Bonnie's Bakery
+
+Every day, Bonnie's bakery has lots and lots of customers. That's why before the day even starts, Bonnie has to do lots of prep work to make sure everything runs smoothly.
+
+The night before, she completes 3/5 of her prep work. How much more prep work does Bonnie need to complete in the morning in order to finish all of it?
+
+(equivalent(3/5))
+
+
+# block
+
+3/5 + 2/5 - 1/5
+roundingNumbers(42754)
+numberPattern(106, 102, 98, null, 94)
+fractionDecomposition(7/12)
+1248 / 7
+
+# 
+
+The area of a rectangle is base times height.
+The perimeter of a rectangle is add up all of the sides.
+
+Rectangle A has an area of 40. Which of the following could be its perimeter?
+@ai
+
+
+# Hammy's Math Investigation
+
+Why Doesn't Mingrui's Math Trick Work?
+
+Hammy was doing homework
+
+21 * 23
+
+1 times 3 = 3
+1 + 3 = 4
+The answer is 243!
+
+What time is it?
+It's Hammy Time.
+
+What ... ?
+What's going on?
+Why doesn't the Hammy trick work?
+But the answer is not 243.
+The answer is actually 283.
+
+What's going on? Why is the answer 283?
+
+
+
+----------------
+#unsorted
+
+New York is 3 hours later than California and 4 hour laters than Alaska. When it is midnight in Alaska, what time is it in California?
+
+Sam buys as many 37-cent pens as he can with 5 dollars. How much change does Sam get?
+
+A + 11 = 35. What does A - 11 equal?
+The price of a tomato minus the price of a potato equals 51 cents. Add the prices together and you will get 67 cents. How much does a potato cost?
+
+How many months is 2 1/2 years?
+
+----------------

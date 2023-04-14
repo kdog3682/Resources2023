@@ -1,0 +1,253 @@
+
+    key: sfx 
+    title: Solve for X
+    title: Find the value of X
+    functional: emGuessForX 
+    optionLevels:
+        template: f:randomLinear
+        firstCoefficientMax: 1
+        numberRange: [3, 10]
+
+        template: f:randomLinear
+        firstCoefficientMax: 2
+        numberRange: [10, 20]
+
+        template: f:randomLinear
+        firstCoefficientMax: 3
+        numberRange: [10, 20]
+
+    key: mult1
+    title: Multiplication Level 1
+    component: katex
+    answerTemplate: a * b
+    answerFunction: nerdEval
+    questionTemplate: a * b
+    numberRequirements:
+        2 < a < 10
+        2 < b < 10
+
+        2 < a < 10
+        2 < b < 60
+
+    key: mult2 
+    title: Multiplication Level 2
+    component: katex
+    instructions: 
+    answerTemplate: a * b
+    amount: 3
+    questionFunction: katexVerticalMultiplication
+
+    numberRequirements:
+        10 < a < 20
+        100 < b < 999
+
+    key: facs 
+    title: Finding Factors
+    component: VMathMultiples 
+    functional: emMathMultiples 
+    instructions: 
+        Look at the pattern between the numbers.
+        Use the pattern to fill in the missing blanks.
+
+    key: np 
+    title: Number Patterns
+    component: VMathMultiples 
+    functional: emMathMultiples 
+    instructions: 
+        Look at the pattern between the numbers.
+        Use the pattern to fill in the missing blanks.
+
+    optionLevels:
+        amount: 8,
+        from: 250
+        increment: 30
+        numBlanks: 2
+
+        amount: 12,
+        from: 5
+        increment: 7 
+        numBlanks: 5
+
+    key: myst
+    title: Mystery Addition
+    component: VMysteryArithmetic
+    functional: emMysteryAlphabetAddition
+    instructions:
+        Yeah yeah!
+
+    optionLevels:
+        template: 22 - 13
+        mysteryLetterCount: 2
+
+        template: 25 + 13
+        mysteryLetterCount: 1
+
+        template: 25 + 13
+        mysteryLetterCount: 2
+
+        template: 123 + 13, 
+        mysteryLetterCount: 2
+
+        template: 123 + 133 + 45
+        mysteryLetterCount: 3
+
+    key: longdiv
+    title: Long Division
+    answerTemplate: a/b
+    questionFunction: katexLongDivision
+    amount: 20
+    answerFunction: nerdEval
+    answer: nerdEval(a/b)
+    answerType: number 
+    numberRequirements:
+        100 < a < 1000
+        3 < b < 10
+        a % b == 0
+
+    key: divwu
+    title: Division Warm Up
+    questionTemplate: a \div b
+    answerTemplate: a/b
+    answerFunction: nerdEval
+    answerType: number 
+    numberRequirements:
+        1 < a,b < 40
+        a % b == 0 && a > b
+
+        1 < a,b < 100
+        a % b == 0 && a > b
+
+    key: missingfactors
+    title: Find the missing Factors
+    amount: 8
+
+    instructions:
+        Factors are the numbers that can multiply together to make a number.
+        The ways to make 16 are 1t16, 2t8, 4t4.
+        That means the factors of 16 are 1, 16, 2, 8 and 4.
+
+
+    key: subtractf 
+    amount: 5
+    title: Subtracting Fractions
+    description: not sure what the descrption is
+    notes: what should it be transformed as?
+    instructions: 
+        The first step for subtracting fractions is to make sure you have a common denominator. After the denominators match, now you can do normal subtraction.
+
+    standAloneInstructions: 
+
+        The first step for subtracting fractions is to make sure you have a common denominator.
+        1/2 - 1/4 
+        @warn cant do it because the denoms dont match.
+        first we convert 1/2 into 2/4
+        now the denominators match!
+        2/4 - 1/4 = box(1/4)
+
+    answerTemplate: a/b - c/d
+    questionTemplate: a/b - c/d
+    answerFunction: nerdEval
+    answerType: fraction 
+    answerRequirements:
+        a > 0
+    numberRequirements:
+        1 < a,b,c,d < 10
+        b % d == 0 && b > d
+        a < b
+        c < d
+
+        5 < b,d < 10
+        1 < a,b < 5
+
+    key: gfx
+    instructions: 
+        Choose a number for "x" and plug it into the equation everywhere there is "x". You will know your number is the correct number when both sides of the equation match up.
+    title: Guess for X
+    functional: emGuessForX 
+    optionLevels:
+        template: f:randomLinear
+        firstCoefficientMax: 1
+        numberRange: [3, 10]
+
+        template: f:randomLinear
+        firstCoefficientMax: 2
+        numberRange: [10, 20]
+
+        template: f:randomLinear
+        firstCoefficientMax: 3
+        numberRange: [10, 20]
+
+    key: sfwn
+    amount: 5
+    title: Subtracting Fractions from whole numbers
+    questionTemplate: a - b/c
+    answerTemplate: a - b/c
+    answerFunction: nerdEval
+    answerType: fraction 
+    answerRequirements: {}
+    numberRequirements:
+        1 < a < 10
+        1 < b,c < 10
+        b < c
+
+
+    key: addf 
+    amount: 5
+    title: Adding Fractions
+    questionTemplate: a/b + c/d
+    answerTemplate: a/b + c/d
+    answerFunction: nerdEval
+    answerType: fraction 
+    answerRequirements: {}
+    numberRequirements:
+        1 < a,b,c,d < 10
+        d % b == 0 && d > b
+        a < b
+        c < d
+
+        10 < a,b < 100
+        gcf(a, b) > 5
+
+    key: simplify 
+    amount: 5
+    title: Simplifying Fractions
+    question: a/b
+    answerFunction: nerdEval
+    answerType: fraction 
+    answerRequirements: {}
+
+    numberRequirements:
+        a < b
+        1 < a,b < 100
+        gcf(a, b) > 2
+
+        10 < a,b < 100
+        gcf(a, b) > 5
+
+    key: cfm 
+    amount: 5
+    title: converting fractions to mixed numbers
+    question: a/b
+    answer: a/b
+    answerType: mixed 
+    answerRequirements: {}
+    numberRequirements:
+        a > b
+        1 < a,b < 10
+        a % b != 0
+
+    key: cmn
+    title: converting mixed numbers to fractions
+    question: a b/c
+    answer: (a*c+b)/c
+    answerType: fraction
+    
+    answerRequirements: {}
+    numberRequirements:
+        a,b,c < 7
+        b < c
+        a = 1
+
+        a,b,c < 10
+        b < c
+        a < 3

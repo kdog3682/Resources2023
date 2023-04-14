@@ -1,0 +1,17 @@
+
+shell returned 2
+
+
+Vim(read):E485: Can't read file /tmp/v9Uo7Oh/1
+0-- INSERT --
+
+
+"~/.vimrc" 
+"~/.vimrc" 8553L, 244500B written
+"~/.vimrc" 8553L, 244500B written
+
+vim
+:ec Redir('Declare Your own FunctionCall Value')
+ :redir! > variable :silent $r!verbose imap <CR>
+ :redir END
+ 

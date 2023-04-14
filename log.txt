@@ -1,0 +1,32 @@
+--------------------------------------------------
+
+date: 03-07-2023
+caller: WorkSummary 
+file: /home/kdog3682/2023/scratchpad.js
+work: 
+    Pos
+    CoordinateCursor
+    CoordinateGrid
+    addFromBottom
+    viewGrid
+    flipOrientation
+
+const grid = new CoordinateGrid(10, 7)  
+addFromBottom(grid, 'howdy')
+addFromBottom(grid, 1234)
+addFromBottom(grid, '-------')
+console.log(viewGrid(grid))
+
+@grid x = 10 wide, y = 7 high
+viewGrid uses 
+
+Often times
+--------------------------------------------------
+date: 03-07-2023
+caller: WorkSummary 
+file: /home/kdog3682/2023/css-utils.js
+
+styleParser returns an object. 
+getStylePayload is the main worker for many css transformer functions.
+----------------
+

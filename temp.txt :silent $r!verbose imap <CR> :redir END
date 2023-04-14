@@ -1,0 +1,12 @@
+
+-- INSERT --
+
+
+"~/.vimrc" 
+"~/.vimrc" 8554L, 244513B written
+"~/.vimrc" 8554L, 244513B written
+
+vim
+:ec Redir('Declare Your own FunctionCall Value')
+['r!verbose imap \<CR>']
+ :redir! > temp.txt\n :silent $r!verbose imap <CR>\n :redir END\n 

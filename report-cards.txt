@@ -1,0 +1,374 @@
+const ProgressReportRef = {
+  faith: 'This midterm exam was a hard test. $1 did not do that well. I will give $1 some extra help. $1 will do some extra homework. I know $1 will do better next time.',
+  careless: 'There were many careless mistakes on $1\'s test. He could have done so much better by being a little more careful.',
+  fast: '$1 is talented at calculation and doing work in his mind, but sometimes, this leads to careless mistakes. I ',
+  /** prr **/
+  bitbetter: '$1 will definitely do better next time because I know she is talented.',
+  happy: '$1 gives great explanations.',
+  explainer: '$1 gives great explanations.',
+  verbal: '$1 is really good at reading out loud and giving explanations.',
+  diligent: '$1',
+  online: '$1',
+  hardworking: '$1 is smart, hard-working, and a joy to have in class.',
+  smart: '$1 is smart, kind, and a joy to have in class.',
+  popular: '$1 brings a happy energy. All of his classmates like him very much.',
+  quiet: '$1 is always focused and attentive to his work.',
+  humor: '$1 has a great sense of humor.',
+  funny: '$1 has a great sense of humor. His classmates enjoy him a lot.',
+  wonderful: '$1 is wonderful.',
+  littlemore: 'Keep working hard $1. I know your scores will get better and better.',
+  enjoy: 'All of $1\'s classmates enjoy him very much.',
+  keepitup: 'Keep up the good work $1.',
+  awesome: 'Keep up the good work $1.',
+  exceptional: 'very smart, but smart is not everything',
+  kind: '$1 is always kind and helpful. Her classmates like her very much.',
+  proud: 'I am very proud of $1.',
+  messy: '$1 is a little bit messy. I know $1 will score much better on his next test if he is able to become a little bit neater.',
+  pleased: 'I hope $1 continues to grow stronger and stronger.',
+  talkative: '$1 talks a lot in class. That is great. Sometimes, though he talks when he shouldn\'t. Otherwise, keep talking $1! You brings a great energy to the class.',
+  onlineIntro: '$1 does a wonderful job on his classwork, homework, and quizzes. Even though it is sometimes harder to learn from online class than in-person class, $1 is still able to do many of the more difficult questions.',
+  onlineExtro: 'Keep up the good work $1 and please feel free to email me or message me at any time to ask any questions.',
+  creative: 'I enjoy reading.',
+  onlineExtro: 'Keep up the good work $1',
+  neat: '$1 has a very organized notebook and it is absolutely a job to read her handwriting and work.',
+  outstanding: '$1 does outstanding work.',
+  messy: "$1 is a little bit messy in his work, but the important thing is that he still often gets the right answer."
+}
+
+
+badexam=$ did not do well on this last exam. I will give $ extra help.
+Next time, $ will definitely do better.
+cares=$ cares about his work. That is one of the most important traits for a student to have.
+keep=Keep up the good work $.
+hardworking=$ is hardworking. His homework is always completed well. 
+$ often does extra assignments in class, as well as extra homework worksheets. 
+
+I am proud of $'s work ethic.
+struggle=
+
+$ has not been doing very well this semester. We have been learning fractions and it is a little bit hard for $.
+
+But $ has a very good attitude.
+I hope $ will believe in herself that it is all going to make sense.
+
+All she needs is a little more practice.
+
+joy=
+$ is wonderful.
+$ is kind, sincere, and is a joy to have in class.
+
+messy=
+$ is strong at math. He picks up new ideas quickly and has a good feeling for numbers.
+But $ has a big weakness: His work is messy.
+
+This messiness often leads to careless mistakes.
+
+Try to be a little bit neater $. 
+You will make less careless mistakes. You will see big improvements in your math.
+fast=
+
+$ is a good student.
+Sometimes, he works too fast and makes mistakes.
+
+Try to slow down $.
+By slowing down, you will be able to be more careful.
+More importantly, your brain will grow stronger.
+
+Slowing down is not fun or easy.
+But it is important.
+
+
+
+quietjoy=
+$ is wonderful.
+$ is kind, sincere, and is a joy to have in class.
+
+She is neat and studious and a strong learner.
+I am very proud of her effort and consistent work.
+
+Keep it up $1.
+Keep growing stronger and stronger and stronger.
+
+
+struggles= Sometimes, $ doesnt do well. As the teacher, I will do better to go at a slower pace and provide more examples.
+
+
+happyenergy=
+
+$ has a fun sense of humor and brings a happy feeling to the class.
+
+fastlearner=
+$1 is a fast learner. He p
+
+morepractice=
+$1 is going to practice more and she is definitely going to do better on the next exam.
+
+didntdowell=
+
+$1 didnt do very well on our last exam.
+But I know $1 can do much better.
+
+
+excellent=
+$ is an excellent student. He alway does good work and 
+keepstrong=
+Keep up the good work $.
+Keep growing stronger and stronger and stronger.
+superjoy=
+$ is wonderful.
+$ is kind and considerate, and is a joy to have in class.
+friendly=$1 is friendly and has lots of friends in class. 
+mood=
+boop
+
+talentedmessy= $1 has a talent for math. He is very good at calculations. But something that is not good is ... the aspect.
+
+happy= $1 is wonderful. He is a joy to have in class.
+rebel=Sometimes $ doesn't follow class rules. 
+But I know $ doesn't do it on purpose.
+
+caring=$ is caring. He often looks out for his classmates.
+
+----------------
+
+Stephanie:
+
+Stephanie is wonderful.
+Stephanie is kind and considerate, and is a joy to have in class.
+You can always count on Stephanie to take care of her friends.
+
+Sometimes, Stephanie is super neat, and her work is super good. 
+Sometimes, Stephanie is a potato.
+
+Stephanie didn't do that well on our first exam.
+I know Stephanie will do better on the next one because Stephanie is going to have extra practice.
+
+----------------
+Haojun:
+
+fast
+
+badexam
+
+----------------------------------------------------------------------
+
+Shujing:
+
+joy
+
+$ is very funny. She has a playful nature and a great sense of humor.
+
+$ is creative. She often has interesting solutions for her math problems.
+
+One of Shujing's weaknesses is calculations.
+Sometimes, Shujing makes simple mistakes.
+
+But I know Shujing knows how to do it.
+All she needs to do is focus more, and I know 100%, these simple mistakes will disappear.
+
+keep
+
+----------------------------------------------------------------------
+
+Austin:
+
+joy
+hardworking
+
+cares
+
+keep
+
+
+----------------------------------------------------------------------
+
+Anderson:
+
+joy
+
+Anderson brings a fun sense of humor to class. When we do math readings, Anderson often reads with an australian accent that makes all of his classmates laugh.
+
+When Anderson is in the mood, he does excellent work.
+On these days, he is super productive and it is wonderful.
+
+Sometimes during class, Anderson likes to brag.
+I hope Anderson will brag a little bit less.
+
+$ is a strong student.
+But the secret to growing stronger and stronger and stronger is to be humble.
+
+
+----------------------------------------------------------------------
+
+Alexander:
+
+joy
+rebel
+
+caring
+When Anderson's shoe isn't tied, Alexander ties it for him.
+When one coloring picture is saved for Felix, Alexander takes it out of the pile and gives it to the teacher so that no one else take Felix's picture.
+When the classroom board is dirty, Alexander will often wipe it down, even when the teacher doesn't want him to.
+
+When Alexander wants to be, he can be a very mature young man.
+Mr. Lee is always happy to see it.
+
+
+----------------------------------------------------------------------
+
+Mingrui:
+
+joy
+fast
+----------------------------------------------------------------------
+
+Bonnie:
+
+joy
+
+Bonnie does good neat work.
+She has excellent handwriting.
+She has many different colored pens that she likes to write with.
+
+Sometimes Bonnie talks too much to her friends.
+But most of the time, Bonnie is a very good student.
+
+Bonnie is capable of a lot.
+I hope she will push herself 1 inch further because she can definitely do it.
+
+
+----------------------------------------------------------------------
+
+Stephen:
+
+
+Stephen is wonderful.
+Stephen has a fun sense of humor and brings a happy feeling to the class.
+
+Sometimes Stephen goofs off too much, but for the most part, Stephen's classroom behavior has been excellent.
+
+For this exam, Stephen could've done much better.
+Stephen usually does very well with fractions.
+Somehow on this exam, Stephen seems to have forgotten it.
+
+
+Stephen doesn't show much work and still often gets the answer correct. This is a bad habit. For 4th grade, it is okay. But math will get much harder. Showing work is a very important skill.
+
+----------------------------------------------------------------------
+
+Felix:
+
+Felix is a good student who cares very much about his work.
+He often asks questions, and after school, will do extra work with the teacher.
+
+Sometimes, Felix does not get a good score on quizzes or exams.
+However, Felix is very capable of doing them. One time, he solved a super long division question over 10 digits that he wrote all for himself.
+
+When Felix is focused and attentive, Felix's abilities are much stronger.
+
+I know Felix will do much better on the next exam.
+We will do extra practice and make it happen.
+
+
+----------------------------------------------------------------------
+
+Jayden:
+
+Usually, Jayden is sweet, caring, and wonderful. 
+Sometimes, Jayden is a grumpy potato.
+
+But that's okay.
+Everyone has good days and bad days.
+
+Jayden is very capable of mathematics.
+But when he is in the mood to work, he can do very good work.
+
+
+----------------------------------------------------------------------
+
+Ivy:
+
+superjoy
+
+I am very proud of Ivy always asking lots of questions.
+I am very proud of Ivy always being focused.
+
+Ivy always does great work when she believes in herself.
+
+Keep believing in yourself Ivy.
+Keep growing stronger and stronger and stronger.
+
+----------------------------------------------------------------------
+
+Vincent:
+
+joy
+
+Vincent is a strong student.
+
+Sometimes, strong students fall into the trap of over-confidence.
+I hope Vincent doesnt fall into this trap.
+I hope Vincent stays calm like a cucumber.
+
+Keep growing stronger and stronger and stronger Vincent.
+There are many more things to discover.
+
+
+----------------------------------------------------------------------
+
+Alex:
+quietjoy
+
+----------------------------------------------------------------------
+
+Jeffery:
+quietjoy
+
+----------------------------------------------------------------------
+
+Sandy:
+
+joy
+struggle
+
+
+
+----------------------------------------------------------------------
+
+Leon:
+
+
+joy
+fast
+
+
+----------------------------------------------------------------------
+
+Olivia:
+
+quietjoy
+
+----------------------------------------------------------------------
+
+Jamin:
+
+quietjoy
+
+----------------------------------------------------------------------
+
+Daphne:
+quietjoy
+----------------------------------------------------------------------
+
+Emerson:
+
+joy
+
+struggle
+
+----------------------------------------------------------------------
+
+Owen:
+
+joy
+messy

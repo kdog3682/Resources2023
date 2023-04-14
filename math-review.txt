@@ -1,0 +1,291 @@
+#Big Multiplication
+What does 1 trillion times 2 trillion times 3 trillion equal?
+
+When you see a big question like this, usually there is a simple answer. 
+
+Trillion has 12 zeroes.
+
+When  you multiply big numbers, put all of the zeroes into your pocket.
+
+12 zeroes into your pocket for the first million.
+12 for the second.
+And 12 for the third.
+
+In total, that is 36 zeroes.
+
+Now, just do 1 times 2 times 3.
+Take the 36 zeroes out of your pocket and put it onto your answer.
+
+The final answer is a 6 with 36 zeroes.
+
+
+----------------
+#Converting Minutes
+How many minutes are there in 90 seconds? 
+
+The answer is 1 minute and 30 seconds.
+
+This is an OKAY answer.
+
+But we can have a better answer.
+
+Is there a way to turn 30 seconds into minutes?
+
+There is! 30 seconds is HALF of a minute.
+
+The final answer is 1 1/2 minutes.
+
+
+----------------
+#Finding the Missing Number
+400 times X equals 40,000. What number does X equal?
+
+What is the difference between 400 and 40,000?
+
+The 40,000 has 3 extra zeroes.
+
+I think the answer is 1,000 because 1,000 has 3 extra zeroes.
+
+Let's check our answer and do 400 times 1,000. If it works, we will get 40,000.
+
+4 times 1 = 4. 
+There are 5 zeroes in total.
+The answer is 4 with five zeroes: 40,000.
+Our answer is correct!
+----------------
+# Solving Variables
+
+A + B = 18
+A and B are different numbers.
+A is FIVE TIMES as big as B.
+What number could A be and what number could B be?
+
+This question is called a multi-variable question.
+
+"multi" means multiple.
+
+"variable" is referring to the letters A and B.
+
+We have seen variables a lot already. Every time we solve for "X", we are actually doing a variable question.
+
+$, guess a number for B.
+
+I'll guess B = 1. 
+The rule is A is 5 times B. That means A = 5.
+
+But this doesn't work. 1 + 5 doesn't equal 18. $, guess again.
+
+This time, I'll guess B = 2.
+But it still doesn't work.
+If B = 2, and A is 5 times more, that means A is 10.
+But 10 + 2 doesn't equal 18.
+
+This time, I'll guess B = 3.
+That means A = 15.
+It works! 15 + 3 = 18.
+The final answer is A = 15 and B = 3.
+----------------
+#Number Pattern
+Each number in the pattern has an additional 2.
+q
+Level 1 2
+Level 2 22
+Level 3 222
+Level 4 2222
+q
+How many digits will the number in Level 10 have?
+
+$, how many digits, do you think Level 5 will have?
+
+Level 5 will probably be 22,222. That is 5 digits.
+
+Don't we have to add 2 + 2 + 2 + 2 + 2?
+
+We dont have to do that. The question just wants the number of digits.
+
+In that case, I think I know what to do. 
+Each level basically tells you the number of digits. Level 1 has only one 2. Level 2 has two 2s.
+The final answer for Level 10 will be TEN 2s.
+
+----------------
+#Sammy the Snail
+
+Every day Sammy the snail climbs one inch.
+How many weeks will it take Sammy to climb 6 feet?
+
+Is it possible to do this question? They give us days, but they want weeks.
+
+This type of question is called a "conversion" question. We just have to convert the days to weeks, and then we can do it.
+
+But first, let's convert feet into inches.
+There are 12 inches in one feet and we have 6 feet.
+
+12 times 6 equals 72 inches.
+
+What we have is Sammy climbing one inch a day, and he needs to get to 72 inches.
+
+Week 1 = Sammy climbs 7 inches.
+Week 2 = 14 inches
+Week 3 = 21
+
+Basically, we are counting by 7s because Sammy does 7 inches in a week.
+
+7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77
+
+7 * 10 = 70. Is the answer 10 weeks?
+
+Sammy needs 72 inches. 10 weeks is not enough. 
+
+The answer is 11 weeks!
+----------------
+#Apples and Oranges
+An apple costs 1 dollar more than an orange.
+Together, they cost 2 dollars. How many quarters does the orange cost?
+
+Each X represents a quarter. 
+q
+X X X X
+X X X X
+q
+The apple costs 1 dollar more.
+
+The apple is going to be 6 quarters. That's $1.50.
+The orange is going to cost 2 quarters. That's $0.50.
+The answer is correct because 1.5 + 0.5 adds up to 2 dollars.
+
+
+
+----------------
+
+#Cake
+
+We start with one whole cake. Sam eats 1/3 of the cake. How much cake is left?
+
+At the very start, before Sam starts eating we have a WHOLE cake.
+
+WHOLE means 1.
+
+And 1 means anything/anything.
+
+Does 1 equal 1/1 ?
+
+Yup
+
+1 = 153/153 ?
+
+Yup. But for this question, we will choose 1 = 3/3 so that the denominators match.
+
+The final answer is 3/3 - 1/3 = 2/3
+----------------
+
+#Fractions and Division are the Same
+
+I have a question $. Why does 1 = anything/anything?
+
+It is because fractions and division are the same thing. 
+When you divide 153 by 153, the answer is 1.
+When you divide anything by the same number, the answer is always 1.
+
+----------------
+
+#Fraction with Different Denominators
+
+What does 3/5 - 1/6 equal?
+
+This is one of the most popular fraction questions.
+
+It is more advanced than simple fractions because both of the denominators are DIFFERENT.
+
+When the denominators are different, we have to get them to become the same.
+
+But how?
+
+There are a few ways. 
+Felix's favorite way is called "cross-multiply." This is the fastest way of doing it.
+Bonnie's favorite way is called "guess and match." This is the medium way of doing it.
+Mr. Lee's favorite way is called "convert one step at a time." This is the slowest way.
+
+Can we do it Felix's fast way?
+
+We are going to do it Mr. Lee's way.
+
+Mommmmmy I don't want to! I don't want to do it the slow way.
+
+I'm not your mommy $.
+
+Please $, Not the slow way. Anything but the slow way. I don't want to be a turtle.
+
+Okay fine. We will do it Bonnie's way: guess and match.
+
+$, How do we do Bonnie's guess and match method?
+
+Our question is 3/5 - 1/6.
+The first step is to guess a number that both denominators can go into.
+
+Hmm. 5 and 6 can both go into ... 15?
+No. 6 doesn't go into 15.
+5 and 6 can both go into 30!
+
+The second step is to match 3/5 to 30.
+The rule is anything you multiply to the bottom, you also have to multiply to the top.
+
+5 times 6 equals 30.
+Therefore, we also multiply the top by 6.
+3 times 6 = 18.
+
+The fraction 3/5 becomes the new fraction 18/30.
+We are almost there.
+Now, we do it again for the other fraction.
+
+1/6 times 5 on top and bottom will match with 30.
+1/6 becomes 5/30.
+
+We put everything together.
+3/5 - 1/6 becomes 18/30 - 5/30.
+The final answer is 18 - 5 = 13/30.
+
+
+----------------
+#Equivalent Fractions
+
+How do you urn 3/5 into an equivalent fraction with denominator 20?
+
+It's like this, $. 3/5 becomes 6/10 becomes 9/15 becomes 12/20.
+The answer is 12/20
+
+I don't really get it.
+
+To make an equivalent fraction, take your starting fraction and multiply it by any number on top and bottom.
+
+3/5 times 1 on top and bottom is 3/5.
+3/5 times 2 on top and bottom is 6/10.
+3/5 times 3 on top and bottom is 9/15.
+3/5 times 4 on top and bottom is 12/20.
+q
+I get it!
+
+----------------
+#Divisibility Rules
+Is 123,418 divisible by 4?
+
+The first 2 digits are the ONES place and the TENS place.
+I don't think 18 is divisible by 4.
+
+Great job. That means 123,418 is NOT divisible by 4.
+
+----------------
+#Divisibility
+
+I am divisible by 1,2,3,4,5,6. What number am I?
+
+Well, the answer is not 10.
+
+Maybe 15? Nope. It's not 15.
+
+How do we do this problem?
+
+I guess we just have to keep guessing.
+
+... 5 hours later.
+
+The answer is 60!

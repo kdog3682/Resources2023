@@ -1,0 +1,70 @@
+
+
+[February 2023] /home/kdog3682/2023/null.js:
+[
+    "let asdf = \"sf\""
+]
+----------------------------------------------------------------------
+
+
+[February 2023] /home/kdog3682/2023/scratchpad.js:
+[
+    "let str0217 = `\n    \n\n`",
+    "// hi",
+    "// hi",
+    "// hi",
+    "// hi",
+    "//",
+    "// hi",
+    "//",
+    "// hi",
+    "doStuff(doStuffOptions)"
+]
+----------------------------------------------------------------------
+
+
+[02-28-2023] codeOrganizer.js:
+[
+    "// } from \"./CodeOrganizer.js\"",
+    "//organizeStuff(null, '/home/kdog3682/2023/a.js', false)",
+    "//setExportAsLastCallable(state)",
+    "let str0223 = `\n\nimport {\n    test,\n} from '..........asdf/utils.js'\nfunction foo() {\n    findall()\n    calc()\n}\n// adfasdf\n// asdfasdfasdf\nimport {\n    isInteger,\n} from '..........asdf/ma.js'\nconsole.log(sdfsdf)\n`",
+    "//const lib = new CodeLibrary(str0223)",
+    "//const deps = lib.getRecursiveDependencies('foo')",
+    "//console.log(lib.keys)",
+    "// htmlBuilder.js",
+    "//organizeStuff(organizeDateObjectOptions, '/home/kdog3682/2023/DateObject.js', true)",
+    "//console.log(addMissingImports('vueObjectBuilder.js'))",
+    "//console.log(seeFileContents('vue-utils.js'))",
+    "//console.log(getJavascriptDependencies())",
+    "//addToFrom('vueData.js', 'vueObjectBuilder',  '/home/kdog3682/2023/HTMLBuilder.js')",
+    "//addMissingImportsFromDependencyLibrary('vueData.js')",
+    "//console.log(addMissingImports('vueData.js'))",
+    "organizeStuff(organizeStuffOptions, 'codeOrganizer.js', false)"
+]
+----------------------------------------------------------------------
+
+
+[03-01-2023] ma.js:
+[
+    "//const f = new Fraction(3, 4)",
+    "//clip(f.sequence(8).blank('X').blank('X').blarg())",
+    "//console.log(f)",
+    "//console.log(f.toMixedNumber().toImproperFraction())",
+    "//console.log(f.magnify(0.5).simplify().convertByNumerator(9).convertByDenominator(2).toMixedNumber())",
+    "//classMixin(Fraction, FractionApplicators)",
+    "//console.log(F('conversionSequence', 8))",
+    "//Today is Friday ... and I have to turn in the assignments.",
+    "//The weakness of my voice fluctuates.",
+    "//The new year.",
+    "//console.log(latexTemplater('a/b + b', [1,2]))",
+    "//let s = buildMathConfig(str1122)",
+    "//console.log(buildMathConfig(str1122))",
+    "//console.log(interweave('x', '+', 3))",
+    "//console.log(latexTemplater('a/b + b', [1,2]))",
+    "//console.log(rangeFromString('2 3  4 4 4 4-5 6 7 8-11'))",
+    "//console.log(rngAround(84.4))",
+    "//console.log(generate1213())",
+    "//console.log(numbergen({n: 8, prime: true, min: 6, max: 155}))"
+]
+----------------------------------------------------------------------

@@ -1,0 +1,217 @@
+09-30-2022  
+
+app2.js.extracts
+
+/* Create a check to make sure that both sides line up */
+/* Get Student Listings */
+/* Update Number Indexes */
+/*** 08-08-2022
+  
+***/
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+// ------------------------------------------
+// it doesnt work
+// sliceRows
+// works
+//bb(getFilesFromFolder('OUTBOUND'))
+//cleanup()
+//createFolder()
+//doc()
+//email2()
+//email2(emailObject)
+//email3()
+//email4()
+//exportToDrive(getBlob(activeSheet()))
+//getAllMessages()
+//getDocuments(1000) api
+//getEmailData(query, max)
+//getLastDocument() /* gets the last google doc as text file */
+//getMyLikedVideos()
+//getUploads(id)
+//id = 'UClOR1BiPyOkkIAnv9Cmj4iw', /* mario math */
+//let max = 100
+//let query = "is:inbox after:2022/2/01 before:2023/11/01"
+//query = 0
+//retrieveMyUploads()
+//rowOf(getSpreadsheet(citiwidesheet), 'Austin Wang')
+//saveAttachments()
+//test3()
+//toObject(getAttachments2, 'a.pdf')
+//translater('hi')
+//uploadStudentScoreData(studentScoreDataRef)
+//zooka()
+Math ...
+_asset('quotes.js', data)
+_cleandir()
+_cleanup()
+_sweep(os.listdir(drivedir))
+_sweep(os.listdir(drivedir))
+a = pkg_resources.resource_filename("symspellpy", "frequency_dictionary_en_82_765.txt")
+a=read(dataFile())
+build_my_functions('py')
+cfile(f, pubdir + tail(f))
+cfile(glf(), drivedir)
+chdir(drivedir)
+chdir(pubdir)
+cleandir(dldir, css=1, biggerThan=20)
+cleandir2(pdfdir, isRemovablePdfFile)
+createGoogleSecret()
+d = drivedir + 'GOOGLE-DOCS (1)'
+data = request(queryString(ref={'page': 1, 'limit': 150, 'tag': 'motivation'}))
+data=read(pubzipdir + 'geogebra.xml')
+emailMathMaterials()
+end = 'x'
+f = drivedir + input + '.js'
+f = glf()
+ff('dl pdf')
+ff('js "var vdate"')
+ff('js name=ken|sudoku')
+ff('js pub')
+ff('js t = combined')
+ff('js text=pokeHoles')
+ff('js')
+ff('js')
+ff('noe txt cwf "the product of a and b" o')
+ff('py cwf')
+ff('py cwf')
+ff('py cwf')
+ff('py text=youtube_dl cwf')
+ff('root json')
+ff(js=1, sort=1)
+filePicker()
+files = (getFileDependencies("/home/kdog3682/CWF/build.js"))
+files = choose(absdir(satdir))
+files = ff('js pub')
+files.sort(key=mdate)
+google()
+googleAppScript()
+googleAppScript(fn = 'aggEmails')
+gr()
+hread('py.functions.json')
+hwrite('small-words.json', words1 + words2 + words3)
+input = 'new'
+interesting ... this may be where youre supposed to put it
+jsonToHtml()
+jxsondir = "/mnt/chromeos/GoogleDrive/MyDrive/JSONS/"
+lib = read('/home/kdog3682/CWF.files.json')
+map(absdir(d), mfile, drivedir + 'GDOC')
+map(files, ofile)
+map(filter(absdir(d), lambda x: getExtension(x) == 'js' and not isfile(df + tail(x))), lambda x: mfile(x, df))
+map(filter(files, lambda x: isfile(d+x)), lambda x: mfile(d + x, '/home/kdog3682/CWF/'))
+mfile('brute.py', cwfdir)
+mfile(df + 'files.json', homedir + 'CWF.files.json')
+mfile(f, t)
+mfile(glf(cfdir), cfdir)
+mfiles()
+misspelled = spell.unknown(['something', 'yex', 'af', 'hapenning', 'here'])
+mkdir(logdir)
+mkdir(pdfdir)
+mkdir(picdir)
+name = 'weather'
+ofile("https://docs.google.com/spreadsheets/d/1dkBWloXH_XlY7-sSxa_EvNvSKHiaqr_OxCoh_bXzqws/edit#gid=85829621")
+ofile('a.json')
+ofile('m1.mp4')
+ofile('workbook-grade-4.pdf')
+ofile('workbook-grade-5.pdf')
+ofile(a)
+ofile(choose(ff('json'), 1))
+ofile(dataFile())
+ofile(find(lib, 'm2.txt'))
+ofile(s)
+outpath = "/home/kdog3682/NOTES/hi.txt"
+pages = [parser(a[i - 2]) for i in s]
+pages=[read('/home/kdog3682/CWF/temp.py')]
+partitionByDate(recentPdfs())
+pprint(_cleanup_base())
+pprint(downloadYoutube('https://www.youtube.com/watch?v=ZY16E9gstQA&list=RDZY16E9gstQA&start_radio=1&ab_channel=%E8%94%A1%E4%BD%A9%E8%BB%92ArielTsai'))
+pprint(emailMathMaterials())
+pprint(ff('dl pdfjson'))
+pprint(fileInfo(glf(budir)))
+pprint(filtered(getfiles(dir='drivecwf'), 'json\d'))
+pprint(functiongetter(read('/home/kdog3682/CWF/public/a.js')))
+pprint(functiongetter(read('/home/kdog3682/CWF/public/a.js')))
+pprint(incorporateCss('interactive'))
+pprint(read(dldir + 'MathPractice.mathcha'))
+pprint(store)
+pprint(uploadResume())
+print('hi')
+print(edit([1,2,3], lambda x: x + 2 if x < 3 else ''))
+print(edit({"a":1, "b":2, "c":3}, lambda x,k:  k + 2))
+print(fileInfo(mostRecent(budir)))
+print(getExtension('ggg'))
+print(isdir('GDOC'))
+print(isfile('credentials.json'))
+print(m)
+print(map(a, lambda x: isfile(d+x)))
+print(map(a, lambda x: mfile(d+x, '/home/kdog3682/CWF/')))
+print(map(jchdir + 'jshint.js', mfile, pubdir))
+print(misspelled)
+print(read(glf()))
+print(read(pubzipdir + 'geogebra_javascript.js'))
+print(read(s))
+print(sorted(['a', 'b', 'c', 'd', 'e'], key=identity))
+print(test('\\\\u2013', s))
+print(type(test))
+printdir( '/usr/share/fonts/chromeos')
+printdir('/home/kdog3682/.vim/ftplugin')
+printdir('root')
+printdir(dldir)
+printdir(pubzipdir)
+printer()
+read('sudoku.json')
+removeFiles(ff('py'))
+renameQuizzes()
+review('py cwf old')
+review()
+review10(ff('json'))
+rfile(f)
+rmdir(d)
+runMacbook()
+s = gr('view-source:https://en.wiktionary.org/w/index.php?title=Category:English_two-letter_words&pagefrom=rod#mw-pages', r = 2)
+s = read('pages2.json').get('answers')
+s = read(f)
+s = read(publicfile)
+s,m = mreplace('^((?:hola|howdy)[\w\W]+?)\n' + end +'(?:\n|$)', s, flags = re.M | re.I)
+s=gr(a, , flags=re.I)
+s=xmltodict.parse(data)
+satdir = '/home/kdog3682/CWF/todo/SAT/sat-practice-test-$1.pdf'
+self(ff(dir=dir, json=1))
+sendEmail()
+sendTextMessages()
+sendToDrive()
+spell = SpellChecker()
+store = []
+super(superstring)
+t = '/home/kdog3682/CWF/public/api-' + name + '.js'
+tempest(pages)
+tempest(request(url))
+tempest(s)
+textanalysis.py",
+thlendir(cdir)
+unmove()
+uploadMathHomework()
+uploadMathHomework()
+uploadResume()
+url  =  "https://newyork.craigslist.org/mnh/apa/d/new-york-spacious-br-its-gorgeous-east/7505255531.html"
+write('a.json', sort(map(data, p)))
+write('drive.files.json', getfiles(drivedir, recursive=1, sort=datestamp)) # pretty useful
+write(outpath, 'hi')
+
+735AM leave the house.
+700AM breakfast.
+630AM
+have everything packed and ready to go.
+Money brings it down.
+Different.
+sheltered

@@ -1,0 +1,6 @@
+js I would like to recreate this feeling wheel using html/svg. Any suggestions on how to get started?
+
+https://www.reddit.com/r/Design/comments/117lelw/is_there_a_better_way_to_visualize_this_content/
+
+I feel like this is a task for SVG... I'm just a little bit lost on where to begin. Your advice is much appreciated.
+

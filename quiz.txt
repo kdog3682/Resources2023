@@ -1,0 +1,183 @@
+hammys cakes
+
+h has 1000 cakes.
+hammy eats one of them, then gives two-thirds of the cakes away.
+How many cakes are there left?
+
+ 333
+
+---------------------Volume of a Cube
+
+The volume of a prism is LWH which stands for length times width times height. A cube is a special type of prism where all the sides are equal.
+
+Sam's cube has a volume of 64 inches cubed.
+What is the length of 1 side?
+4
+
+---------------------peachy cakes
+
+one-fifth of Ham's cakes are chocolate.
+two-sevenths are strawberry.
+The rest are blueberry or peach.
+
+The fraction of blueberry is twice the fraction of peach. What is the fraction of peach?
+
+(1 - 1/5 - 2/7)/3
+
+---------------------cake shapes
+
+Ham has a parallelogram cake.
+Pam has a rhombus cake.
+Sam has a trapezoid cake.
+Jam has a square cake.
+
+Which statement is always true?
+
+Ham's cake has all sides the same.
+Pam's cake never has parallel lines.
+Sam's cake has a right angle.
+Jam's cake is bigger than Sam's cake.
+
+b
+
+---------------------meter conversions
+
+There are 1000 millimeters in a meter.
+There are 1000 meters in a kilometer.
+How many millimeters are there in 1000 kilometers?
+
+1000^3
+
+---------------------strawberry shortcake
+
+Ham's strawberry shortcake has 3 layers and each layer is twice as thick as the previous layer. The volume of the last layer is 18 cubic centimeters.
+
+What is the volume of Ham's cake?
+
+18 + 9 + 4.5
+
+---------------------cups in cups P1
+
+How many 1/3 cup servings are in 3 cups?
+
+9
+
+---------------------cups in cups P2
+
+How many 1/3 cup servings are in half of a cup?
+
+
+1/2 div 1/3
+
+---------------------angles of a triangle
+
+The 3 angles of a triangle always add up to 180 degrees.
+
+Sam has a triangle where each angle is 30 degrees more than the previous angle. What is the degree measure of the smallest angle?
+
+x + x + 30 + x + 60 = 180
+
+---------------------cupcakes goals
+Ham wants to eat 8 cupcakes every day.
+Sam packed 3.125 cupcakes into Ham's launch box.
+
+How many more cupcakes does Ham need to eat to meet his goal?
+
+8-3.125 frac
+
+---------------------unit cube
+
+The word "unit" in math often means "1".
+For example, a "unit circle" is a circle with radius 1.
+A "unit cube" is a cube where all the sides are 1.
+
+How many unit cubes can you fit in a 4 by 4 by 4 cube?
+
+64
+
+---------------------ham exercise
+
+After eating lots and lots of cakes, it's time to exercise.
+Ham runs laps around a 100 meter track.
+It takes him 10 minutes to run 3 laps.
+How many seconds did 1 lap take?
+
+10 * 60 div 3
+
+---------------------shifting the decimal place
+
+how can you turn the number 1432 into 1.432?
+
+multiply 1432 by 1000
+divide 1432 by 100
+multiply 1432 by 100
+divide 1432 by 1000
+d
+---------------------poundcake
+
+The first cake weighs 60 pounds and is cut into 6 slices.
+The second cake weighs 80 pounds and is cut into 4 slices.
+
+Ham is allowed to take 2 slices of cake.
+What is the greatest amount of cake Ham can get?
+
+40 pounds
+
+---------------------table area
+
+A table is 1 1/3 yards long and 2 2/3 yards wide. 
+What is the area of this table in square feet?
+
+def(yard, feet)
+
+9ab
+----------------
+cake sharing
+
+Ham shares half of his cake with 3 friends.
+Each friend gets 1 equal slice.
+
+If the starting weight of the cake is 2.4 pounds, how much does 1 friend get?
+
+2.4 div 8
+
+
+----------------
+cake ratios P1
+
+The cake recipe calls for 3 pounds of sugar for every 5 pounds of flour.
+Sammy uses 18 pounds of flour. How many pounds of sugar does he use?
+
+c * b / a
+
+
+
+----------------
+
+cake ratios P2
+
+The cake recipe calls for 3 pounds of sugar for every 5 pounds of flour.
+Sammy uses 6 pounds of flour. How many pounds of sugar does he use?
+
+c * b / a
+
+----------------
+sugar cubes
+
+Sam has 4 unit cubes of sugar.
+Each cube weighs 2 ounce.
+
+How many more ounces of sugar does Sam need to make a sugar cube that is 2 units on each side?
+
+8
+----------------
+
+Cubic prices
+
+A unit cube of butter costs twice as much as a unit cube of sugar.
+A unit cube of sugar costs 8 times as much as a unit cube of flour.
+
+How much more expensive is a 4 by 4 by 4 cube of butter, than a 4 by 4 by 4 cube of flour?
+
+64 * 16
+

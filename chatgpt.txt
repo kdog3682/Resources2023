@@ -1,0 +1,12 @@
+//data = os.listdir(colordir + datestamp())
+//Remove the redundant text from each of the files in the data shown above.
+//create a file name for each item in the above data
+//Remove the redundant words for each of the files in the above data.
+
+online
+
+Please follow the following instructions:
+
+1. Generate HTML & JAVASCRIPT.
+2. Use the vue library.
+3. The purpose is to create a GUI that lets users make svg arrows.
