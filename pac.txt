@@ -67,3 +67,5 @@ usb(ff(js=1, today=1))
 findFile('emoji.json')
 
 cfile('$1.js', '$1.v1.js')
+
+Github(key = 'kdog3682', repo = 'public', upload='jsbin.css')

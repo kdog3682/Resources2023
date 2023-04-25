@@ -1,0 +1,4 @@
+firebase_admin
+uninstall firebase_admin
+firebase-admin
+firebase_admin

@@ -1,22 +1,29 @@
+textcal = 1
+@this text sucks for multiple reasons
+TEXT-CALIBRATION
+
 The words that you are reading right now, were not written by a human.
 Who were they written by?
 They were written by ChatGPT.
+@cliche
 
 The game has changed.
+@
 
 When you are stuck on a problem, 
+@neg
 You should ask ChatGPT for help.
+@shudwudcud
 
 With the power of technology, it possible to learn 1000 things a month.
+@possible @forecast
 
 5 topics an hour.
 10 hours a day.
 30 days a month.
 That is 1500 topics.
-
 1000 is definitely doable.
 All it takes is time, energy, and effort.
-
 Learning a foundation for coding should take a year.
 But let's see if we can do it in one month.
 

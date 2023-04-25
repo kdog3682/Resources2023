@@ -1,0 +1,161 @@
+
+Data Structures
+
+//RootElements
+//LeafElements
+
+
+
+Data Structures
+
+Data structures are a way
+
+
+Backpacks.
+
+You could.
+
+I can't bring my school books to school in plastic bags.
+People will think I'm a weirdo.
+
+
+All of these containers can store your school items.
+But as $ knows,  the best container is a backpack.
+
+When I am writing code, how will I know which data structure to use?
+You'll know.
+But how?
+
+Just like you know when to use a spoon, fork, or chopstick. 
+You will know!
+
+
+We have already learned one type of data structure.
+We have?
+
+Yes. The grocery list.
+
+The dictionary data structure is super popular.
+As a result of how popular it is, it has many nicknames.
+
+Some people call it "hashmap" or "hash table."
+Some people call it "associative array."
+Some people call it "lookup table."
+
+Here is an example dictionary.
+
+myFruitDictionary = {
+    'apl': 'apple',
+    'banban': 'banana'
+}
+
+
+This feels very similar to a list.
+
+I remember in lists we did something similar.
+
+@lists.animals
+
+To get the cat, 
+
+That's a great observation $.
+
+You are absolutely correct.
+It is often the case that whenever you see a word and then braces, that you are retrieving some data.
+
+
+
+To protect the ego, there can be no comparisons.
+To have mercy for the parents.
+To show the improvements to the parents.
+To give them a feeling of reassurance.
+
+
+When you play a devil's advocate, your responses have to be on another level, because y
+
+
+To see the neighbor in front of them.
+
+
+That each of us exists at the very bottom.
+
+To call the accumulator always by acc.
+
+To have a sense of 
+
+
+
+
+
+
+Children enjoy meaningful repetition.
+Children do not like pointless repetition.
+
+
+
+
+
+
+
+
+
+
+
+
+spellcheck()
+
+
+We follow the primary directives of our parents.
+But along the way, we are influenced by others.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lists,
+Also known as grocery lists,
+Also known as arrays,
+
+Are one type of a data structure.
+
+Trees?
+
+Like an apple tree?
+Branch Element
+Root Element
+Leaf Element
+
+
+[today.js 04-15-2023]:
+Would you like to pay 25 cents to fix this basketball net?
+
+A basketball net costs 4 dollars.
+Service Fee = 1 dollar.
+Total Price = 5 dollars.
+
+20 people times 25 cents equals 5 dollars.
+
+kdog3682.github.io/fix-basketball-nets
+
+When 20 people agree to pay 25 cents, 
+The basketball net will be fixed.
+
+Preventing Scams: 
+
+
+
+
+
+
+
+
+----------------------------------
+
