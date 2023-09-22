@@ -1,0 +1,23 @@
+# Trailing Zeroes don't matter.
+
+4 is the same as 4.0 which is the same as 4.00 which is the same as 4.00000. Basically, a number can have an endless amount of trailing zeroes.
+
+Can I write 1.23 with a million trailing zeroes?
+If you want to. But it might take a very long time to write.
+
+
+# The Trick to Adding and Subtracting Decimals is Trailing Zeroes
+
+1.6 + 1.23
+
+1.23 has 2 decimal places.
+1.6 only has 1 decimal place.
+
+What do we do? Can we still add them together?
+
+Of course. 
+We just give 1.6 a trailing zero.
+1.6 becomes 1.60.
+Now it is smooth sailing.
+
+@verticalArithmetic(1.60 + 1.23)

@@ -1,26 +1,3 @@
-Add the phrase pika-pika onto the end of every sentence.
-
-
-function pika(sentence) {
-    return sentence + ', pika-pika!'
-}
-
-pika('I like fish') -> "I like fish, pika-pika!"
-
-
-$, I think this function has a problem. What if the sentence already ends in a period?
-
-pika('I like fish.') -> "I like fish., pika-pika!"
-
-
-Homework: 
-
-Write a pika function that can account for this.
-
-
-I like fish ->  I like fish
-
-
 Here are some methods you may need:
 
 Method: startsWith
@@ -796,60 +773,6 @@ Terminal nodes are when there is no more branching. (leaves)
 Branch nodes are the branches.
 Lastly, there is the root node. The node that brought forth everything.
 
-
-Class Syllabus
-
-W1 
-    Classwork
-        Intro to HTML, Javascript, CSS, Web Design
-    Homework
-        Build first website
-            rainbow checkerboard
-
-        Practice Questions
-            Looking for Children
-                firstChild
-                lastChild
-            Tree Nodes
-            document.querySelector()
-            document.querySelectorAll()
-
-
-    Teacher Comments
-
-        Lot of new things.
-        Dont think about it. Just do it.
-        After 10 times, after 100 times, it will make sense.
-
-    W1 Goal
-        Build stuff.
-        Understand it later.
-        
-
-W2
-    Classwork
-        
-    Homework
-        Build second website
-        Practice Questions
-            Looking for Children
-                firstChild
-                lastChild
-            Tree Nodes
-            document.querySelector()
-            document.querySelectorAll()
-W2 
-W3 
-W4 
-W5 
-W6 
-W7 
-W8 
-W9 
-W10 
-
-
-
 .root
     .page-top
         p Hi from the top!
@@ -932,6 +855,8 @@ Okay. Let's set the style to yellow.
 
 
 
+
+
 p means "paragraph" 
 h1 means "heading 1"
 h2 means "heading 2"
@@ -974,3 +899,283 @@ The
 
 
 
+function pikachuText(line) {
+    return {
+        activation: {
+            key: 'enter',
+
+        },
+        value: line + ' pika pika!'
+    }
+}
+
+
+
+function pikachuText(line) {
+    return line + ' pika pika!'
+}
+
+Your Turn
+
+Write a function bulbasaurText which adds the words 'bulba bulba!' to the start of the line.
+
+
+function pikachuTextV2(line) {
+    return line.replace('pika', 'pika pika!')
+}
+
+//Deactivate pikachuText
+//typing function over and over adds up over time.
+//Write a function fasterFunction which changes "fun" into "function"
+//To tie it directly in.
+
+
+# Coordinate Systems
+
+The normal coordinate system begins with (0,0) as the origin.
+The axes will often range from -10 to 10.
+The resultant graph looks like this:
+
+@graph(-10, 10, -10, 10)
+
+Or, the axises may just be positive: from 0 to 10.
+
+@graph(0, 10, 0, 10)
+
+When working with websites, (0,0) no longer starts in the center.
+Think about writing on paper: we start in the top-left corner.
+
+Thus, the coordinate system of a web document has the origin (0,0) in the top left corner.
+
+
+Before drawing anything, first we setup the page up. [fn]
+
+Give the body container a width and height:
+
+    body.style.width = 400
+    body.style.height = 400
+
+100 pixels is approximately 1 inch.
+
+Let's draw a square at (0,0). 
+The square has width = 50 and height = 50.
+
+Just like writing on paper, the flow of the document points downwards.
+
+Writing goes rightward.
+Writing goes downward.
+There are no negatives.
+
+The normal y-axis in math class points up.
+For web documents, it points down.
+
+
+    const square = body.appendChild('square')
+    square.style.width = 50
+    square.style.height = 50
+Let's draw a square at x = 50 and y = 50
+Now we are moving in the x-direction 50 right.
+We are moving in the y-drectiton 50 down.
+
+    const square = body.appendChild('square')
+    square.width = 50
+    square.height = 50
+    square.x = 50
+    square.y = 50
+
+Let's draw a square at the lower bottom corner
+
+    square.style.x = 50
+    square.style.y = 50
+
+Let's draw a square at the bottom corner.
+
+    square.style.x = 400
+    square.style.y = 400
+
+400 because we defined 400 and 400 as the width and height of the body container.
+
+
+But this extends beyond the page.
+So actually, we need to take into account the width and height of our squaree.
+
+    square.style.x = 400 - 50
+    square.style.y = 400 - 50
+
+Now it works!
+
+
+Practice
+
+Write down the coordinates to draw a 50 by 50 square at each of the 4 corners of the container.
+
+The goal is something like this:
+
+
+Write the coordinates to draw 5 squares shaped like a cross.
+The goal is something like this:
+
+
+
+midpoint formula: x + y / 2
+
+
+Our practice document size is 816px by 1056px. [fn]
+This corresponds to 8.5in by 11in (the size of a normal piece of paper)
+
+Let's draw our square at 
+
+
+There are many strategies to avoid writing "".
+This type of code is called "boiler plate".
+Boiler Plate code is basically "setup code."
+
+In most situations, boiler plate code will be automatically generated.
+After we have learned a bit more: you will write a function hook to automatically generate 
+
+What is a function hook?
+
+A function hook can be thought of as a linked event that happens with the main event.
+
+For example, the main event is waking up.
+What are some linked events that happen with waking up?
+
+brushTeeth()   <-- function hook
+eatBreakfast() <-- function hook
+
+Normally, on entering codeground, you have to type:
+
+The function hook will be called:
+
+autoCreateHtmlAndBody()
+
+autoCreateHtmlAndBody does exactly
+
+
+
+
+
+
+
+
+
+
+Foot Notes:
+
+We first practice our documents as normal paper because everyone has a good feeling for the size of a normal piece of paper.
+
+Later on, we will use document sizes of:
+iphone
+ipad
+13.3 inch macbook pro
+17 inch 
+
+A rem equals 16 pixels.
+62.5%
+
+Foot notes
+
+"Let's draw a square at x = 50 and y = 50"
+"square.style.width = 50"
+
+The unit is pixels.
+
+When no number is specified, do assume it is in pixels.
+
+@equivalent
+
+    Let's draw a square at x = 50 and y = 50
+    square.style.width = 50
+
+    x = 50px and y = 50px
+    square.style.width = 50px
+
+pixels is the standard unit for web design.
+
+
+Other units:
+
+1 rem = 16 pixels
+1 point = 4/3 pixels
+
+
+
+        const image = element.appendChild('image')
+        image.src = globals.resources.chess.bishop.url
+        image.src = globals.resources.chess.bishop.url
+
+Later, we are going to make nested objects.
+I am going to make a nested object school.codingClass.students.sarah.favoriteFood.url
+
+You don't have to globals.resources.chess.bishop.url
+Instead, you can go to google and search: "picture of a chess bishop"
+The result might be something like this: 'https://static.vecteezy.com/system/resources/previews/002/494/264/original/chess-bishop-piece-free-vector.jpg'
+
+Instead of writing 
+
+        image.src = globals.resources.chess.bishop.url
+
+You can write
+
+        image.src = 'https://static.vecteezy.com/system/resources/previews/002/494/264/original/chess-bishop-piece-free-vector.jpg'
+
+
+
+Arrays, Strings, Numbers
+
+
+
+
+Text Models
+
+Coding is a process of trying, doing, and repeating.
+Often you will have a goal in mind, but you're not sure how to get there.
+
+Test 1 brings you a little closer.
+Test 2 brings you a little farther.
+Test 3 ... Test 4 ... Test 5 ... Test 100 ...
+Finally you get there.
+
+The more you code.
+
+
+Complicated Diagrams.
+
+What happens if the width and height are different?
+
+This ... doesnt look that good.
+Your homework is to fix it to make it look good.
+
+To have an diea.
+
+
+A lot of coding is about trying something out,
+Changing it.
+Trying it again.
+Repeat repeat repeat.
+
+Model it in text first.
+And the data should direcly transfer over.
+
+let row1 = 
+
+
+let width = 10
+let height = 10
+
+
+To make the assignments in vivo.
+
+
+
+
+
+Javascript and the DOM
+
+
+
+Think of a tree.
+The world of javascript is the almighty DOM.
+DOM stands for "document object model."
+Here are some methods you may need
+It is a common mistake.

@@ -1,0 +1,74 @@
+
+Saturday, June 10, 12:31PM
+exec:GoFileGoLine('/home/kdog3682/2023/pl-create.js', '1686414690')
+
+if (getLeafData) {
+    node.children.forEach((child, i) => {
+        if (!child.isLeaf) {
+            return 
+        }
+        const value = getLeafData(child.value, child)
+        if (value.type == 'leafAttribute') {
+            delete value.type
+            node.assign(value)
+            node.removeChild(child)
+        }
+    })
+}
+
+
+This is a new addition to oxNodeFactory.
+getLeafData is passed as a second argument.
+If oxNode matches, we perform this leaf action.
+
+--------------------------------------
+Saturday, June 10, 12:31PM
+
+h1 FastForms
+FastForms are preset node-templates that fall under oxFunctions
+
+button-icon reset              <-- "reset" is the text of the element
+    class:foo                  <-- all classes are merged
+    class:booga                <-- necessary to have no spaces for `:` 
+                                   otherwise the regex wont hit it 
+    css:flex center            <-- css fast mode via cab()
+
+
+--------------------------------------
+grid-container 12              <-- 12 -> 'a' 'b c' for grid rows 
+    class:my-grid
+
+    foo                        <-- notice there are 3 items 
+    bar                            the number of items needs to match
+    car
+
+--------------------------------------
+Saturday, June 10, 5:47PM
+
+Error:
+
+When a node returns a child, that child automatically also undergoes further iteration. (unless marked)
+
+
+Fix:
+
+this.appendChildren now marks its childNodes with `skipIteration`
+
+
+
+--------------------------------------
+Monday, July 03, 10:54AM
+exec:GoFileGoLine('/home/kdog3682/2023/pl-htmlBuilder.js', '1688396091')
+
+        node-wrapper
+            slot :item = value.main
+
+        if value.children.length
+            for node in value.children
+                v-tree-node :value = node
+                    slot :item = node.main
+
+Slot was being wrapped in an additional template wrapper.
+So we perform early return if the tag is a slot.
+
+--------------------------------------

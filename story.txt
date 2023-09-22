@@ -1,0 +1,721 @@
+Introduction
+----------------
+
+There are many many languages in the world of programming.
+
+----------------
+Python is often used for machine learning and artificial intelligence.
+    OpenAI uses python to create the neural nets which result in ChatGPT.
+
+----------------
+C++ is strong for robotics and engineering.
+    The flight software of SpaceX is written in c++.
+
+----------------
+Scala is a favorite for backend servers.
+    Millions of chess games are played every day on lichess.org.
+    Lichess uses scala to manage this feat.
+
+----------------
+
+
+The language that we will start with is Javascript.
+
+Javascript is the language of websites.
+Online games, pictures, animations, chat messages: all of this is done through javascript.
+
+----------------
+
+
+
+Javascript and the DOM
+----------------
+
+DOM stands for "document object model".
+
+Think of the DOM as a tree.
+A tree begins with a root.
+
+The root branches off into a trunk.
+The trunk branches off into branches.
+The branches might branch into more branches.
+Eventually, the branches branch into leaves.
+
+@float
+
+sample DOM for an apple tree
+
+    root
+        trunk              
+            branch A    
+                apple
+                apple
+            branch B      
+                apple
+                branch C 
+                    apple
+                    apple
+                    apple
+
+----------------
+
+The power of javascript is that it can control the DOM.
+
+    Control it.
+    Create it.
+    Change it.
+
+JS is the DOM controller.
+
+----------------
+
+We are going to use javascript to build a simple website.
+
+    A blue circle with the word "Hello".
+    A red square with the word "World".
+
+----------------
+
+Step 1: Initialize the document object.
+
+const html = new DOMNode('root') 
+const body = html.appendChild('body')
+
+@float
+
+root
+    body <-- We are Here
+
+----------------
+
+@sidenote
+In chemistry, atoms form molecules which form everything else.
+In coding, nodes form branches, and branches form trees.
+
+The body is the main container for everything that happens on a webpage.
+It is the canvas upon which the artist may draw.
+
+Now that we have the body, we can start drawing.
+----------------
+First we create the blue circle.
+    
+    const sam = body.appendChild('sam')
+
+----------------
+
+We want a blue circle.
+
+    sam.style.shape = 'circle'
+    sam.style.background = 'blue'
+
+----------------
+The size of a circle is defined by a radius.
+Sam needs a radius.
+
+    sam.style.radius = 25
+
+----------------
+Finally, we want the circle to say "hello"
+
+    sam.textContent = "hello"
+
+----------------
+Success!
+We have a blue circle with the words hello.
+----------------
+
+Here is the javascript code to make a red square with the word "world"
+
+    const ham = body.appendChild('ham')
+    ham.style.background = "red"
+    ham.style.width = 50
+    ham.style.height = 50
+    ham.textContent = "world"
+
+----------------
+
+$, do you need to write ham.style.shape = "square" ?
+
+----------------
+
+Not in this case because the default shape of a document element (aka document node) is a rectangle.
+
+By setting ham's width and height to both be 50,
+ham automatically takes on the shape of a square.
+
+----------------
+
+Here is the final result of our blue circle red square website.
+
+columns
+    
+    Javascript Code
+    @getJavascript(all)
+
+    Model Representation
+    @toModel($js)
+
+    Website Output
+    @toHTML($js)
+
+----------------
+
+Right now, the website looks a little plain.
+Part of our homework assignment is to add more styles.
+
+----------------
+
+We can add more styles like this:
+
+    ham.style.color = 'white'
+    ham.style.fontWeight = 'bold'
+    ham.style.textAlign = 'center'
+
+
+----------------
+
+We can also create animated effects:
+
+ham.animate('color', 'white', 'blue', 3)
+
+This will make Ham's color change from white to blue over 3 seconds.
+
+ham.animate('fontSize', 10, 16, 5)
+
+This will make Ham's font size go from 10 to 16 over 5 seconds.
+
+# Review Notes
+
+Use element.style.something to change an element's style.
+
+The dom is a tree of elements. 
+Elements have children.
+Elements have parents and siblings.
+
+The root element, also called the root node, is analogous to the seed of a tree. Everything starts at the root node.
+
+Every webpage begins with:
+
+    const html = new DOMNode('root') 
+    const body = html.appendChild('body')
+
+The html root represents the seed of the tree.
+The body represents the trunk of the tree.
+The body is where everything happens.
+
+
+Every webpage begins with:
+
+    const html = new DomNode('root') 
+    const body = html.appendChild('body')
+
+This is actually NOT true.
+We will talk more about this later after we have learned some React, Vue, and libraries.
+
+
+----------------
+
+Group 1 = A,B,C,D
+Group 2 = E,F,G,H
+
+1pm to 1:25pm
+
+Group 1: lesson review worksheet
+Group 2: new topic with teacher: functions
+
+1:30pm to 1:55pm
+
+Group 1: new topic with teacher: arrays 
+Group 2: lesson review worksheet
+
+2pm to 2:15pm
+
+Homework Packet
+
+Optional Teamwork Questions: Functions and Arrays
+
+Sam (Arrays) and Tom (Functions)
+
+
+one class of 8 students
+8 students
+
+Next Steps
+
+Start your a Web Design Company with a Friend
+
+Many businesses would like a website.
+Having real 
+Of course 
+
+Volunteer 
+
+Coding Internship
+
+Facebook, Google all have 
+
+Sometimes internships are paid.
+Sometimes they aren't.
+
+Unpaid Internships
+
+Ugh. Who wants to do free work right?
+
+Another way to think about it is:
+
+    An internship is a chance to meet fellow peers.
+    An internship is a chance to develop new skills and strengthen existing skills.
+    An internship is a chance to discover and learn.
+
+    Unpaid internships often lead to financial opportunities.
+    Your employer may really like you and
+    Your employer may feel grateful that you are doing free work and hence write you a strong recommendation or reference letter
+
+
+Offer Your Services
+
+    Data Analysis
+
+The worst thing someone will say is "no".
+Hearing "no" is painful.
+
+But hearing "no" can also be motivational.
+The pain of rejection can create flames of excellence.
+
+Who should you offer your services to?
+
+    University  Professors
+
+    Dear Professor Bob,
+
+    My name is Ham.
+    I am a 
+    I was reading ... 
+
+    
+    Teachers
+
+    Dear Ms. Roberta,
+
+    I am a junior at XYZ high school.
+    I saw your 
+
+    Restaurants
+
+    Dear King Fried Fish,
+
+    
+    Getting started is HARD.
+    But once people see you are the real deal,
+    It gets much easier.
+
+    Do you believe in the service you are offering?
+    Offer it.
+    Good things and good experiences will follow.
+
+    Email: 
+
+    I noticed that you often ... (rephrase chatgpt)
+    and I would really like to be part of it.
+
+    My skills include
+        
+    I think I can really 
+    And I would love
+    Thank you,
+    Ham "The Hammer" Hammerson.
+
+
+Everything has to be phrased as an optional element.
+
+Response: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the introduction,
+
+You were introduced to 4 big programming languages.
+
+python
+C++
+scala
+javascript
+
+There's more.
+
+java (android and google)
+rust (facebook)
+SQL  (servers)
+
+
+The reason we are starting with javascript is because it has a built-in purpose: making websites.
+
+The key to learning code is to have a strong purpose.
+90% of an iceberg is beneath water.
+
+To truly go deep into python, to truly go deep into any coding language, you need a purpose.
+Otherwise, you will just float on the surface. 
+
+For now, you will follow my plans, and borrow "my purpose."
+Here's some of the stuff we are going to make: 
+
+But actively,
+You must think of a personal purpose.
+
+Examples:
+Grant Sanderson wanted to make math videos.
+He went deep into python to achieve this purpose.
+See his videos here.
+
+Personal Example:
+I want to make fun learning activities and learning materials.
+I went deep into javascript to achieve this purpose.
+
+Will you be able to come up with a million dollar idea?
+
+Maybe. But for right now, that's not the point.
+
+The point right now is to accumulate extraordinary skills.
+Having a strong purpose for coding helps you achieve this goal.
+
+
+Maybe you like to play chess.
+What is a tool that you could make to facilitate
+
+Maybe you like 
+
+Make it something personal.
+
+Something that directly impacts you.
+Something that helps your family.
+Something that saves you a few minutes of time.
+Something that you think ise useful.
+Something that  you think would be fun.
+
+A meaningful personal project is something you will be excited to talk about. This excitement and passion has very many positive butterfly effects.
+
+Think about your daily routine.
+Think about something that you do more
+
+Kids need a feeling of love.
+
+
+Anything is possible.
+
+Once you have an idea for a personal project,
+
+
+Keeping Your Personal Project Private
+
+Maybe you are afraid someone will copy and steal your work.
+Maybe you feel embarrassed by it.
+
+These are very valid feelings.
+You can absolutely keep your work private.
+
+But also, keep in mind the big picture.
+The goal of high school is to charge up lots of power.
+Unleash this power in college and beyond.
+
+By showing other people your project,
+Maybe they will give you suggestions.
+Maybe it will make you feel competitive which will in turn 
+
+
+
+
+
+
+
+
+
+Case 1: You are a coding genius and someone copies your work:
+    That sucks for you.
+
+Case 2: You are not a coding genius and someone copies your work:
+    It doesn't really matter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do I think javascript is the best language?
+Not at all. I think many of you are going to really like python and scala.
+
+But these languages require a purpose.
+In fact
+
+
+
+
+
+
+
+
+you can instantly see results.
+
+You can write some code in class.
+Take it home.
+Put it on your computer.
+
+And it will work.
+
+This is not as true for the other languages.
+
+
+
+
+
+
+
+
+
+
+It is possible that you may not want to do 
+
+
+
+
+
+
+
+
+
+
+Homework Assignment:
+
+//A & E: Homework Assignment 1
+//B & F: Homework Assignment 2
+//C & G: Homework Assignment 3
+//D & H: Homework Assignment 4
+
+//Please work together.
+
+Because everyone has a different homework assignment,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Practice Questions
+
+Use the following code snippet to answer questions 1 to 10.
+
+
+const html = new DOMNode('root')
+const body = html.appendChild('body')
+
+const A = body.appendChild('A')
+const B = body.appendChild('B')
+const C = body.appendChild('C')
+const D = C.appendChild('D')
+const E = C.appendChild('E')
+const F = C.appendChild('F')
+const G = B.appendChild('G')
+
+
+----------------
+
+How many children does the body object have?
+Phrased as code: What does body.children.length equal?
+
+0 1 2 3 4
+
+----------------
+
+
+Do A and B have the same number of children?
+
+Yes because A.length == B.length
+No because A.length == 1 and B.length == 0
+Yes because A.length == B.length
+No because A.children.length == 0 and B.children.length == 1
+
+if (1 + 2 == 3) {
+    return 'X'
+} else {
+    return 'Y'
+}
+
+What is the return value of this statement?
+
+
+Who is the first child of html?
+A
+body
+B
+html
+
+Who is the last child of body?
+A
+B
+C
+D
+
+
+if (g.children.length > 1) {
+    return 'great'
+} else {
+    return g.appendChild('H')
+}
+
+What does the above expression return?
+
+It returns a word
+It returns a number
+It returns a new document object
+It returns nothing
+
+A.style.x = 50
+A.style.y = 50
+
+Write style coordinates for B so that it is located 100 away from A.
+
+B.style.x = 
+B.style.y = 
+
+Write the following statement as code.
+if A has more children than B, set A's color to orange.
+Otherwise, set B's color to green.
+
+
+Who does root.firstChild.firstChild.firstChild equal?
+    In other words,
+    
+
+A
+B
+C
+D
+
+What will be the results following this statement?
+
+if (root.firstChild.firstChild.length < A.firstChild.length) {
+    body.firstChild.lastChild.style.shape = 'triangle'
+}
+else if (1 == 2) {
+    A.style.background == 'green'
+}
+
+else if (D.children.length == 2) {
+    D.style.background == 'yellow'
+}
+else {
+    B.style.background == 'blue'
+}
+
+
+A will turn green
+B will become blue
+C will become a triangle
+D will become yellow
+
+
+True or False: body.children.length == C.children.length
+
+if (body.children.length == C.children.length) {
+    return 'abc'
+} else {
+    
+}
+
+if (G.children.length == F.children.length) {
+    
+}
+
+
+Classwork
+Learning Part II
+
+
+Logic Statements
+
+Create a Logic Statement Question following the examples we did in class.
+
+The statement you create will be used on a future quiz.
+
+
+What does this function do?
+
+sum(a, b)
+
+
+Internship Program
+Hammy Coding Class
+
+A repo for committing code
+
+
+To write a story and see it come into fruition.
+Code Analysis.
+Code Review
+
+
+

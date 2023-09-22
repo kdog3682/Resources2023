@@ -1,0 +1,63 @@
+config = {
+    instructions: {
+        default: null
+        transform: transformInstructions
+    }
+    title: {
+        default: parent
+        transform: capitalizeTitle
+    }
+}
+
+sudoku:
+instructions: 
+Fill in the empty boxes with a number from 1 to 4.
+The rule is no row or column can repeat numbers.
+
+
+
+warmup:
+
+sequences:
+title: number patterns
+component: VMathSequence
+instructions: 
+each set of numbers has a pattern.
+the pattern will help you find the missing number or numbers.
+write your answers in the boxes provided.
+//For each set of numbers, look for a pattern.
+//The pattern will help you figure out the missing number or numbers.
+
+
+key: decimals1 
+title:Division with Decimals
+
+key: decimals2 
+title: Addition and Subtraction with Decimals
+
+
+multiplication1:
+title: Mastering Multiplication
+instructions:
+For each box, write a multiplication expression using 2 numbers that will multiply to make the target number.
+
+
+
+multiplication2:
+title: Prime Numbers
+instructions:
+Color in each box which only has one way of using multiplication to make the number.
+
+Example: the number 6 has 2 ways
+Example: the number 7 has 1 way: #9
+
+alignmentOfThreeItems
+
+1 * 6 and 6 * 1 are the same thing.
+
+The game of 24
+It all comes out to 24
+
+multiplicationFactorTuples:
+title: use multiplication to make the number ...
+instructions: 

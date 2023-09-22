@@ -1,0 +1,221 @@
+Boop(3) means take 3, add 5 to it, and then multiply it by 2.
+Boop(4) means take 4, add 5 to it, and then multiply it by 2.
+What does Boop(7) equal?
+
+
+Great Job Austin. That is correct.
+I will now write Boop in python code.
+
+def boop(n):
+    return n * 2 + 5
+
+Hammy, what does "def" mean?
+
+It stands for "function definition."
+Anytime you want to create a new function, you start with "def"
+
+Hammy, what is a function?
+
+That is a difficult question to answer. It is kind of like asking, what is Hammy's favorite snack.
+
+Hammy like peanut butter.
+Hammy like strawberry jelly.
+Shujing: Hammy like raisins.
+Functions are many things. They are not just one thing.
+
+What is the simplest explanation for a function?
+
+Hmm. The simplest explanation is "function" means action.
+
+Mr. Hammy, is this statement correct?
+
+"The boop function is an action that turns the number 5 into 50?"
+
+Austin, that is wonderful. 
+But you can make the statement even better.
+
+Because after all. The boop function doesn't just do it for 5. It does it for any number. boop(2), boop(3), boop(4), boop(10) , it all works.
+
+My new and improved statement is "the boop function is an action that takes any number, adds 5 to it, and then multiplies it by 5."
+
+Splendid Austin. Splendid!
+
+def boop(n):
+    return (n + 5) * 5
+
+Mr. Hammy, I have a question. Where does the "n" come from?
+
+When we do boop(4), we plug in "4" for n. The answer that is returned is (4 + )
+When we do boop(5), we plug in "5" for n.
+
+The "n" is the
+
+Mr. Hammy, I have another question. What does "return" mean?
+
+Good question Vincent.
+Mr. Hammy, I think I know the answer. Can I explain it?
+
+Go ahead Mr. Austin.
+
+I think it basically means answer. 
+When the function returns something, it gives you the answer.
+
+That's right Austin.
+Except in coding, we don't really use the word "answer."
+We use the word "value."
+
+Boop(3) means 3 * 2 + 10. The return value is 16.
+Perfect Vincent!
+
+Boop(100) means 100 * 2 + 10. The return value is 210.
+Perfect Austin!
+
+Vincent and Austin, you guys did great!
+
+It is time for some practice problems before we go to the second chapter. Please check with my assistant, Mr. Lee, to make sure your answers are correct.
+
+It is peanut butter time for Hammy.
+Good Bye Vincent
+Good Bye Austin!
+Vincent And Austin: Bye Hammy!
+
+def goop(a):
+    return a + a + a
+
+What does goop(10) equal?
+
+Sam puts a mystery number into goop() and gets back the return value 45. What number did Sam put in? 15
+
+
+Ivy and Sandy
+
+
+
+Math Teacher Hammy
+
+Good mornig
+
+Hello Shujing. It's me Hammy.
+Hammy? 
+Shujing and Sandy
+
+
+What does goop(5) + goop(10) equal?
+
+goop(5) + goop(10) = goop(A)
+
+What number does "A" have to be, in order to make the above statement true?
+
+
+Challenge 
+
+1 What does goop(goop(3)) equal?
+
+It equals 234.
+
+
+
+
+Chapter 2 - Mathematical Functions
+-----------------------
+
+Good morning Vincent.
+Good morning Austin.
+Good morning Hammy.
+
+What are we going to learn today?
+
+We are going to learn addition.
+
+//, subtraction, multiplication, and division.
+
+The code versions of addition, subtraction, multiplication, and division?
+
+Exactamundo Vincent.
+
+Here is the first one: addition.
+
+def addition(a, b):
+    return a + b
+
+Here are my observations.
+
+"def" tells us we are creating a function definition.
+"addition" is the name of the function definition.
+
+When we did boop, "n" was the only letter.
+This time, there are 2 letters, "a" and "b".
+
+That is correct Vincent.
+
+Since there are 2 letters, I think that means we plug in 2 numbers. Is that correct Hammy?
+
+It is super correct Austin. But guess what? Here is why Hammy loves coding. It doesn't just have to be a number.
+
+What do you mean Hammy?
+addition(3, 5) equals 8.
+What else can we plug in?
+You can plug in anything!
+
+What does addition('peanut', 'butter') equal?
+
+Um ... does it equal 'peanutbutter' ?
+
+Yes! Peanutbutttttttttttttter!
+
+def sayhi(person):
+    return "Howdy Howdy " + person
+
+What does sayhi("Sam") equal?
+
+It equals "Howdy Howdy Sam".
+We plug in "Sam" for person, then we add it all together.
+
+Try this one.
+
+def sayhi(person):
+    return "Howdy Howdy " + person + "!"
+
+It is the same thing but there will be an exclamation mark.
+
+Hammy,
+
+Yes Vincent?
+
+I noticed that sometimes you will use "quotes", but other times, you don't use the quotes. How come?
+
+I cannot tell you this Vincent.
+Why not?
+Because you have to discover it yourself.
+
+But Hammy, we want to know now.
+
+Austin, have you ever eaten a delicious chocolate?
+Have I ever!
+What does it taste like?
+It tastes delicious.
+What does delicious taste like?
+I don't know. It tastes soft and creamy and sweet and chocolately.
+What does soft and creamy sweet and chocolately taste like?
+It tastes yummy.
+What does yummy taste like?
+Why yummy tastes delicious!
+
+When do you need quotes?
+When do you not need quotes?
+
+The answer is this:
+When it is a string, you need quotes.
+When it is a variable, you don't need quotes.
+
+I don't get it Hammy.
+What is a string?
+What is a variable?
+
+You will get it.
+Are you sure?
+I'm positive.
+
+Hammy is going to eat raisins.
+Vincent and Austin are going to figure out when you need quotes, and when you don't need quotes.
+

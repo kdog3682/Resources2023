@@ -1,0 +1,77 @@
+/mnt/chromeos/MyFiles/Downloads/code-runner.js
+/mnt/chromeos/MyFiles/Downloads/html-edit.js
+/mnt/chromeos/MyFiles/Downloads/text-builders.js
+/mnt/chromeos/MyFiles/Downloads/utility-components.js
+
+
+/home/kdog3682/2023/ec-handle.js
+/home/kdog3682/2023/ec-main.js
+/home/kdog3682/2023/Stylesheet.js
+
+/home/kdog3682/DIST/pl-htmlBuilder.js
+
+
+/mnt/chromeos/GoogleDrive/MyDrive/Chrome History 1.json
+/mnt/chromeos/GoogleDrive/MyDrive/Chrome History 2.json
+/mnt/chromeos/GoogleDrive/MyDrive/changelog 1.md
+/mnt/chromeos/GoogleDrive/MyDrive/UNORGANIZED-TEXTS/changelog.md
+
+/mnt/chromeos/MyFiles/Downloads/chrome-ext-mv3-how-to
+/mnt/chromeos/GoogleDrive/MyDrive/linKeSongData.raw.json
+
+/home/kdog3682/DIST/pl-htmlBuilder.js
+
+
+/home/kdog3682/DIST/pl-htmlBuilder.js
+
+
+/home/kdog3682/DIST/pl-htmlBuilder.js
+
+file = '/mnt/chromeos/GoogleDrive/MyDrive/JSONS/hsk-dict.json'
+/mnt/chromeos/GoogleDrive/MyDrive/JSONS/storyOfYangxiPalace.jieba.json
+    This is a humongous file
+    It takes about 5 seconds to load the file
+    It has all the episodes in it
+/mnt/chromeos/GoogleDrive/MyDrive/cookUpAStorm.jieba.json
+    Does not work because traditional characters and byteError
+
+/mnt/chromeos/GoogleDrive/MyDrive/JSONS/Chatgpt 1.json
+/mnt/chromeos/GoogleDrive/MyDrive/Chatgpt 1.html
+/mnt/chromeos/GoogleDrive/MyDrive/JSONS/Chatgpt 2.json
+/mnt/chromeos/GoogleDrive/MyDrive/JSONS/Chatgpt 2.json
+
+    "/mnt/chromeos/GoogleDrive/MyDrive/JSONS/Chrome Bookmarks 1.json",
+    "/mnt/chromeos/GoogleDrive/MyDrive/JSONS/Chrome Bookmarks 2.json",
+
+
+/home/kdog3682/DIST/pl-htmlBuilder.js
+
+
+/home/kdog3682/DIST/pl-htmlBuilder.js
+
+/mnt/chromeos/MyFiles/Downloads/clipboard-list-svgrepo-com.svg
+/mnt/chromeos/MyFiles/Downloads/clipboard-check-svgrepo-com.svg
+svg-paths.json.js
+
+/mnt/chromeos/MyFiles/Downloads/create-svgrepo-com.svg
+/mnt/chromeos/MyFiles/Downloads/create-svgrepo-com (1).svg
+/mnt/chromeos/MyFiles/Downloads/156522173359.JPEG
+svg-paths.json.js
+svg-paths.json.js
+/mnt/chromeos/GoogleDrive/MyDrive/JSONS/File Function Ref 1.json
+/mnt/chromeos/GoogleDrive/MyDrive/JSONS/File Function Ref 2.json
+This is the new version of June Json
+
+
+
+
+'/home/kdog3682/2023/pl-svgBuilder.js'
+
+/mnt/chromeos/GoogleDrive/MyDrive/JSONS/Popular Baby Names with Frequencies.json
+/mnt/chromeos/GoogleDrive/MyDrive/JSONS/Popular Baby Names with Frequencies.json
+
+/home/kdog3682/RESOURCES/Unsorted Math Questions.txt
+
+/home/kdog3682/RESOURCES/javascript.txt
+    delim: double newlines only to delim the code chunks
+    desc: basically shows you how to use random code snippets

@@ -1,0 +1,202 @@
+[
+  [
+    "Lynn",
+    "Good morning everyone."
+  ],
+  [
+    "Everyone",
+    "Good morning Ms. Lynn!"
+  ],
+  [
+    "Lynn",
+    "Wait. why are all of you calling me miss?"
+  ],
+  [
+    "Kloe",
+    "Because the person who goes first is the teacher."
+  ],
+  [
+    "Lynn",
+    "But ... but ... I'm too young to be a teacher. I can't even drive a car yet."
+  ],
+  [
+    "Kaylee",
+    "You don't need a car to be a teacher."
+  ],
+  [
+    "Elina",
+    "All you need is the secret ingredient."
+  ],
+  [
+    "Aaron",
+    "Elina,  is the secret ingredient the power of friendship?"
+  ],
+  [
+    "Elina",
+    "You're close Aaron, but the secret ingredient is even more powerful than the power of friendship."
+  ],
+  [
+    "Aaron",
+    "What is this amazing ingredient?"
+  ],
+  [
+    "Kaylee",
+    "The secret ingredient is a cat picture!"
+  ],
+  [
+    "Elina",
+    "That's exactly right Kaylee. With a cat picture, you can accomplish anything."
+  ],
+  [
+    "@",
+    "Catpicture"
+  ],
+  [
+    "Kloe",
+    "Look. the cat picture says you can do it. that means you can do it Lynn. Because cat pictures never lie."
+  ],
+  [
+    "Lynn",
+    "I can do it! Today, we will learn about comparing fractions."
+  ],
+  [
+    "Kaylee",
+    "The trick for comparisons, not just for fractions, but for any type of number,  is to always remember that the bigger number points at the smaller number."
+  ],
+  [
+    "Elina",
+    "5 is bigger than 3. That's why we write 5 > 3. (pronounced 5 greater than 3) Notice how the arrow points at the 3."
+  ],
+  [
+    "Aaron",
+    "3 is smaller than 100. We write it as 3 < 100. Notice again, how the arrow points at the smaller number."
+  ],
+  [
+    "Kloe",
+    "We are ready to compare fractions!"
+  ],
+  [
+    "Lynn",
+    "There are 2 popular methods of doing this. The first method is called decimal conversion. We will turn each fraction into a decimal using long division."
+  ],
+  [
+    "Elina",
+    "The fractions we will use for our examples are 1/7 and 2/6."
+  ],
+  [
+    "Lynn",
+    "Converting 1/7 into a decimal with long division, we get 0.142857."
+  ],
+  [
+    "Aaron",
+    "And converting 2/6 into a decimal, we get 0.333333."
+  ],
+  [
+    "Lynn",
+    "0.333333 is bigger than 0.142857. That means 2/6 is bigger than 1/7."
+  ],
+  [
+    "Elina",
+    "That means the final answer is 2/6 > 1/7 because the bigger number points at the smaller number."
+  ],
+  [
+    "Kloe",
+    "Question!"
+  ],
+  [
+    "Lynn",
+    "Yes Ms. Kloe?"
+  ],
+  [
+    "Kloe",
+    "Why do we have to learn another way of doing it? Can't we just use decimal conversion for everything?"
+  ],
+  [
+    "Lynn",
+    "Decimal conversion will always work for comparing fractions. However, its weakness is that it might take a long time. What if you have weird fractions like 234/487?"
+  ],
+  [
+    "Aaron",
+    "Or what if you have 10 fractions and you have to rank them from smallest to biggest? In these situations, decimal conversion won't always the best method."
+  ],
+  [
+    "Lynn",
+    "Which leads us to the second method: common denominator."
+  ],
+  [
+    "Kloe",
+    "The idea in this method, is to normalize each fraction to the same denominator."
+  ],
+  [
+    "Elina",
+    "Once the denominators are the same, you can basically ignore them and just compare the fractions by looking at the numerator."
+  ],
+  [
+    "Kaylee",
+    "For 1/7 and 2/6, the common denominator is 42."
+  ],
+  [
+    "Aaron",
+    "How did you do that Kaylee?"
+  ],
+  [
+    "Kaylee",
+    "Aaron, do you want the long answer or the short answer?"
+  ],
+  [
+    "Aaron",
+    "I want both!"
+  ],
+  [
+    "Kaylee",
+    "Okay. The long answer is you find the lowest common multiple between 6 and 7. The short answer is you multiply 6 and 7 together."
+  ],
+  [
+    "Aaron",
+    "Does multiplying them together always work?"
+  ],
+  [
+    "Kaylee",
+    "Yupsters."
+  ],
+  [
+    "Kloe",
+    "To turn denominator 7 into 42, we have to multiply 1/7 by 6/6. That creates the equivalent fraction of 6/42."
+  ],
+  [
+    "Elina",
+    "And to turn denominator 6 into 42, we have to multiply 2/6 by 7/7. That creates the equivalent fraction of 14/42."
+  ],
+  [
+    "Lynn",
+    "Now that they both have the common denominator of 42, we can ignore the denominator and just compare the numerators."
+  ],
+  [
+    "Aaron",
+    "14 is bigger than 6."
+  ],
+  [
+    "Kloe",
+    "14 originally came from 2/6."
+  ],
+  [
+    "Elina",
+    "6 originally came from 1/7."
+  ],
+  [
+    "Lynn",
+    "Therefore, 2/6 > 1/7."
+  ],
+  [
+    "Elina",
+    "We did it!"
+  ],
+  [
+    "Aaron",
+    "Woot woot!"
+  ],
+  [
+    "Everyone",
+    "Great job everyone!"
+  ]
+]

@@ -1,0 +1,1355 @@
+Prime Numbers
+
+
+
+m = `/home/kdog3682/CWF/public/primes.txt------ 6 is NOT a prime nbr bc u can  it into 2t3.
+
+5 is a prime number bc the only numbers that can multiply to 5 are 1 and 5.
+
+Prime numbers can't be broken into smaller numbers.
+
+6 can be written as 2t3. (NOT PRIME)
+5 can only be written as 5t1. (PRIME)
+Look.
+The original number (5) shows up in the answer. 
+
+
+
+
+hi mom, I have a q.
+wts ur q sam?
+y is 5 a prime number?
+
+1 times 5 equals 5.
+Mom, I know that. I'm not in third grade.
+And that's why 5 is a prime number.
+
+Hmm. Let me try one.
+ 1 times 6 eqs 6. 
+ so 6 is a prime nbrqm
+
+But you can also do 6 eqs 2 ts 3. that means 6 is not prime.
+
+oh. I think I get it. 
+ 1 times 7 eqs 7.
+ nothing else makes 7.
+ that means 7 is a prime number?
+great job sam. it most certainly is.
+
+1 times 8 is 8.
+but u can also do 2 times 4 eq 8.
+8 is not prime.
+
+thats right sam
+
+mom, the rule is you look at how many roads there are. when there is only one road, it is a prime number.
+
+for the number 20
+you can do;
+1t20
+2t10
+4t5
+3 roads to 20 means
+20 is not a prime number.
+
+Sam, why did the prime number cross the road?
+
+To be on the prime side!
+
+rq
+Think of the different ways of making: 13, 15, 99, and 100. Which of these numbers are prime? ans 13
+
+Sally knows prime numbers only have one road. She says 11 is NOT prime because there are two roads: 5 + 6, 4 + 7. What is the mistake Sally made? 
+
+More practice: 
+Use passcode "PRIMES" at brooklynlearning.github.io/practice for more prime practice.
+
+
+
+
+prime numbers are super important for passwords. Is 124238423849273498239123894723894232384923742398492342342423 a prime number?
+
+There is only one way to check.
+
+
+
+
+
+
+
+sally 1 is a prime number because there is only 1 road to 1: 1 * 1
+tom 1 is not a prime number
+sally but there is only one road
+tom i know sally
+
+
+whenever a number can't be broken into smaller numbers, we call it a prime number.
+
+
+
+are there 2 numbers that can multiply together and make 5?
+there certainly are: 1 times 5 is 5.
+any more?
+mmm, I think that's it.
+When a number only has 2 numbers that can multiply to it, we call it a prime number. ------
+
+
+
+/home/kdog3682/CWF/public/pc.math------ I think you can use this file if you turn it into a string.
+Storing the data
+
+Given 3 letters A, B, C, how many different letter-pairs can be formed?
+For this question, (AB and BA are considered to be the same)
+
+Sometimes, the order matters.
+For pizza toppings, asking for A and then asking for B, is the same as asking for B and then A. At the end of the day, your pizza will have both toppings. The order here, doesnt matter.
+
+Other times, order DOES matter.
+
+Lets order a pizza.
+
+I would like pepperoni.
+I would like green peppers.
+
+I think we should ask for pepperonis first.
+Um guys? The order doesnt matter. Either way, the pizza will have pepperoni and green peppers.
+
+Sometimes the order matters.
+
+Like my password.
+Whats your password sam?
+My password is ABC.
+
+The order matters for sams password.
+It has to be ABC.
+Typing BCA will not work.
+
+/* sometimes being too ambitious can backfail */
+
+A quick soundbite of data.
+
+
+
+    The order of letters in a password.
+    The order 
+
+
+
+
+
+
+
+3 ... input 
+A, B, C ... alphabet.slice()
+pairs ------
+
+
+
+/home/kdog3682/CWF/public/asd.math------ To do it properly.
+Page 30.
+Answer Key
+To type it out.
+Type out the notes.
+It is how it goes and goes and goes.
+$120 is BM. But $80 is fair.
+You have to consider the circumstances.
+An accelerated math program.
+One that covers all of the basics.
+This is what it is.
+More professional.
+Something more professional.
+They believe in this ... this game.
+
+Paper Test.
+Processing Results.
+
+Online Test.
+Check your answer right away.
+It is not urgent.
+Or it is urgent.
+
+Pay at the start.
+He said no.
+To lose out on it.
+
+Instant Feedback.
+
+John. Ben. Sam.
+
+To do a comprehensive job.
+160 * 5 = 800.
+
+Kids need math to improve.
+
+20 assignments per day.
+
+30 assignments a day. Jesus.
+And a test at the end.
+
+Teaching the test.
+Copy the test. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dress code.
+Dress sharp.
+
+To appear sharp.
+
+
+
+Figure 1
+
+Line A points up. (like going up a mountain)
+Because it points up, the slope is POSITIVE.
+
+Line B also points up.
+But look. It is much flatter than Line A.
+
+Line C points down. But it is kind of flat.
+Line D also points down. But it is sharp!
+
+Q1 Rank the slopes of Line A, B, C, D from SMALLEST to GREATEST.
+a>b>c>d>
+d>c>b>a
+
+Perpendicular lines form RIGHT ANGLES. In the figure below, Line A and Line C are perpendicular. 
+
+The relationship for the slope between perpendicular lines is -1/m.
+For example:
+    If Line1 has slope = 4, the perpendicular line has slope -1/4.
+    If Line1 has slope = 5, the perpendicular line has slope -1/5.
+    If Line1 has slope = 6, the perpendicular line has slope -1/6.
+
+Line A has a slope of 2.5. What is the slope of Line C?
+
+Working on it.
+A lag time.
+
+Memorize the answer key.
+That might be too hard.
+To do it... 
+To read it.
+Different assignments.
+
+
+Record it.
+That is a good chunk of change.
+
+
+
+Constantly Engaged.
+White paper.
+
+Answer Key
+
+Write as a fraction
+2.5
+0.1
+0.7
+1.03
+1002.3
+0.00001
+
+Division: Write your answer to 5 decimal places.
+
+Notes:
+* 1 is the same as 1.0 or 1.00 or 1.0000000000000000
+
+1/1
+1/2
+1/3
+1/4
+1/5
+1/6
+1/7
+1/8
+1/9
+
+High School Intermediary
+
+What is the 100th decimal digit of 1/3?
+What is the 100th decimal digit of 1/4?
+What is the 100th decimal digit of 1/7?
+To do this question, do long division for 1/7. Soon you will see a repeat pattern.
+
+(x + 2) / (x + 2)
+Fill out the table for 1/1
+1/2
+1/3
+
+x^0
+x^2
+x^4
+x^6
+
+What do these 4 graphs have in common?
+    1. They have an even power.
+    2. They have vertical symmetry. The left side is exactly the same as the right side.
+
+
+x^1
+x^3
+x^5
+x^7
+
+What do these 4 graphs have in common?
+    1. They have an odd power.
+    2. They have rotational symmetry. If you rotate the bottom up, you end up at the same point at the top.
+
+Paying so much money for these photos.
+The limits were taken off long ago. 
+I no longer know who my sister is. She seems to be a vessel that gets taken advantage of. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating materials. Getting the pictures in.
+
+
+
+
+Pascal's Triangle
+
+1 2 1
+1 3 3 1 ------
+
+
+
+/home/kdog3682/CWF/public/m1.txt------ #warmup
+20% of 100
+20/100 * 100
+0.20 * 100
+0.2 * 100
+
+Sam has 100 gummy bears. He eats 20% of them.
+
+How many gummy bears does Sam eat? 
+100 * 0.2
+How many gummy bears does Sam have left over?
+100 - (100 * 0.2)
+
+
+Sam has x gummy bears. He eats 20% of them.
+
+#hint 
+
+How many gummy bears does Sam eat?
+x * 20% ans
+x * 80%
+x * 20
+x * 0.02
+
+How many gummy bears does Sam have left over?
+x - 20
+x * (80/100)%
+0.2 * x
+0.8x
+
+Sam has a bag of y gummy bears. He eats 20% of them.
+Sarah: "Sam! I can't believe you ate 30 gummy bears all at once!"
+
+How many gummy bears were originally in the bag?
+How many gummy bears are left over?
+
+See the quick answer
+Read the Answer Explanation
+
+kloe, how do you do this question?
+we setup a proportion
+because we know that sam eats 20% of the gummy bears
+and we know sarah says that sam eats 30 gummy bears
+that means 20% of the gummies equals 30
+the proportion we are going to setup looks like this
+@proportion 20% to 30 | 100% to x
+why do you write 100%?
+Because the first question wants "originally in the bag." Originally in the bag means before any of the gummies have been eaten. That would be all of them, also known as 100%.
+Okay, so now we have this proportion. 
+@prop
+What do we do next?
+How do you get from 20% to 100%?
+Multiply by 5.
+So that's what we do!
+We multiply by 5?
+Indeed we do. A very common pattern in math is if you do something to the left side, you do it to the right side. If you do something to the top, you do it to the bottom. If you do something to the first proportion, you do it to the second proportion.
+30 * 5 = 150. #green Originally, there were 150 gummies.
+And since Sam eats 30 of them, #green leftover are 150 - 30 = 120 gummies.
+
+Sam has a bag of x gummy bears. He eats y% of them.
+Sarah: "Sam! I can't believe you ate z gummy bears all at once!"
+
+hint: This question is exactly like the previous question except the numbers have been changed to the variables x, y, and z. 
+
+It is super important for SHSAT math to feel comfortable with variables.
+
+Something that you can always do is plug in numbers for the variables. It makes the question much easier to think about.
+
+How many gummy bears were originally in the bag?
+x * 100 / y ans
+y * 100 / x
+x / y
+x * 100 - y
+
+How many gummy bears are left over?
+
+x(y - 100) / y
+y(x - 100) / x
+x(y + 100) / y
+y(x + 100) / x
+
+Sam eats 20% of 100 gummy bears.
+Sarah eats 20% of what's left over.
+Tom eats 20% of what's left over after Sarah is finished.
+How many gummies does Sam eat? 0.2 * 100
+How many gummies does Sarah eat? 0.8 * 100 * 0.2
+How many gummies does Tom eat? 0.8 * 100 * 0.8 * 0.2
+How many gummies are left over? 
+What percentage of the original number of gummies does Sam eat?
+What percentage of the original number of gummies does Sarah eat?
+What percentage of the original number of gummies does Tom eat?
+
+Sam increases a number by 10%.
+And then decreases the new number by 20%.
+
+Every single time he does this, he NEVER gets a decimal.
+He repeats the pattern 4 times.
+What number did he start with?
+
+24
+36
+48
+60
+
+
+
+#primeFactorization
+prime factorization means take a number and break it down completely into prime numbers.
+please show me an example kaylee
+:sure, the prime factorization of 12 is 2 * 2 * 3.
+notice how 2 * 2 * 3 = 12
+also notice how 2, 2, and 3, are all prime numbers.
+that's how you know you did it corectly
+
+can you do 2 * 6? 2 * 6 = 12
+you cant because 6 is not a prime number
+
+a useful strat for doing pf is to divide the number by 2 if it is even
+and if the number is odd, try to divide it by 3, 5, 7, or 11.
+guys, let's do the pf for 100.
+100 is an even number. divide it by 2. | 100 = 2 * 50
+50 is still an even number. divide it by 2 again. | 100 = 2 * 2 * 25
+25 can be divided by 5 | 100 = 2 * 2 * 5 * 5
+Now what do we do?
+We're done! 2, 2, 5, and 5 are all prime numbers. The pf of 100 = 2 * 2 * 5 * 5
+let's find the pf for 1024.'
+that is a huge number1
+we're going to do great
+1024 is even. divide it by 2. | 1024 = 2 * 512
+512 is even. divide it by 2. | 1024 = 2 * 2 * 256
+256 / 2 equals 128 | 1024 = 2 * 2 * 2 * 128
+128 / 2 equals 64 | 1024 = 2 * 2 * 2 * 2 * 64
+Guys ... are we there yet?
+We can still keep going!
+64 / 2 equals 32 | 1024 = 2 * 2 * 2 * 2 * 2 * 32
+32 / 2 equals 16 | 1024 = 2 * 2 * 2 * 2 * 2 * 2 * 16
+16 / 2 equals 8 | 1024 = 2 * 2 * 2 * 2 * 2 * 2 * 2 * 8
+help! This is too much!
+8 / 2 equals 4 | 1024 = 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 4
+4 / 2 equals 2 | 1024 = 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2
+
+The final answer for the pf of 1024 is 2 times itself 10 times.
+I never want to do this again!
+Then memorize this next trick.
+If I memorize it will I never have to do this again?
+Maybe.
+Fine, Ill memorize it.
+What is the pf of 2048?
+Nooooooo! We have to do that whole thing again. Divide and divide and divide forever.
+The trick is we can skip a lot of steps.
+How?
+Because you already know that 1024 is 2 times itself 10 times.
+But this number isnt 1024. This number is 2048.
+But look! 2048 = 2 * 1024
+
+:hmm ... 1024 is 2 times itself 10 times.
+2048 ... has an extra 2.
+Does that means 2048 is going to be 2 times itself 11 times?
+
+You did it Kloe!
+No. We did it. All of us, together.
+Great work everyone!
+
+Narrator: Kloe, Kaylee, and Elina looked at each other and smiled. Finding the pf of 1024 and 2048 was a great accomplishment. The three young math students walked off into the sunset. It was time to go eat ice cream.
+
+Prime Factorization Warmup
+
+
+
+
+
+The pf of X is a * a * b
+The pf of Y is a * a * c
+What is the pf of X * Y?
+
+a * a * b * c
+a * a * a * a * b * c
+b * c
+c / b
+
+hint: Variable questions like these can sometimes be hard to think about. One thing that is helpful is to make up numbers for each of the variables. Pretend a = 2000, b = 300, c = 500000000 and see what you get. (Or choose any numbers that you would like to choose)
+
+
+#commonFactors
+
+The factors of 6 are 1, 2, 3 and 6.
+The factors of 9 are 1, 3, and 9.
+
+What factors do 6 and 9 have in common?
+sata 1,2,3,6,9
+
+2^3 means 2 * 2 * 2 and 2^4 means 2 * 2 * 2 * 2.
+What factors do 2^3 and 2^4 have in common?
+sata 1,2,4,8,16
+
+2^99 means 2 * 2 * 2 ... 99 times.
+2^100 means 2 * 2 * 2 ... 100 times.
+How many factors do 2^99 and 2^100 have in common?
+
+Any time you see really big numbers, the question is just trying to scare you.
+i'm not scared!
+thats the spirit kailey!
+Lets do this question for smaller numbers: 2^3 and 2^4.
+By doing it for this simpler question, we will learn something about it, and then we can take what we learned, and use it for the big question.
+
+The factors for 2^3 (also known as 8) are:
+2^0 which is 1
+2^1 which is 2
+2^2 which is 4
+2^3 which is 8
+
+The factors for 2^4 (also known as 16) are:
+2^0 which is 1
+2^1 which is 2
+2^2 which is 4
+2^3 which is 8
+2^4 which is 16
+
+They share everything except for the last one.
+Guys, I think I know the answer to our original question.
+What is it?
+It is going to be 100.
+2^ and 2 have 100 common factors.
+They are going to share everything
+2^0 shared.
+2^1 shared.
+2^2 shared.
+Everything will be shared all the way up to 2^99.
+The only thing that wont be shared will be the last one: 2^100.
+table('2^n from 0 to 99', 'small')
+
+How come?
+
+Because 2^4 has a power of 4 and it comes out to be 4 factors.
+
+
+
+
+
+
+How many common factors do 2^98 and 2^99 and 2^100 share?
+1
+2
+98
+99
+100
+
+
+
+
+
+
+
+
+
+Bye Kloe. 
+They were going to do great.
+
+
+Not actually fun. Who Maylyn
+
+It was a warm summer evening with a gentle breeze. The air was fresh with the scent of trees and grass. It was a good day.
+
+
+
+
+
+
+The sky was auburn red. The sun was fast setting. There was a comfortable summer breeze.  Every day, the three friends would learn more and more.
+
+
+walked off into the sunset. Clutched in their hands were their math notebooks. They had just done something very important in their math journey: finding the pf 1024 and 2048. It was a wonderful feeling.
+
+The End
+As for now, it was time to celebrate.
+A main character.
+/* Finding reasons to celebrate is super important */
+
+Help Notes
+
+
+You can write it like this: 1024 = 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2
+Or you can write it like this: 1024 = 2^10
+
+Writing it the second way is called exponential form. The little 10 means you're multiply the 2 by itself 10 times. ------
+
+
+
+/home/kdog3682/CWF/public/m2.txt------ Anytime you want to make a math question harder,
+All you have to do is add some decimals and fractions.
+
+That's why math teachers always say, "make the question easier for yourself. Try to get rid of the decimals and fractions."
+
+There is a very popular way of getting rid of fractions called "cross-multiply."
+
+x/3 = y/4
+Kind of scary right? Now
+Any time you have fractions on both sides of an equal sign, you can do cross-multiplication.
+
+
+
+3x=12, x+y=13, y+z = 15
+split(x, ',').map(x => {
+    
+})
+
+Chinese kids are taught to go against each other.
+Chinese kids learn to lie.
+And once a lie has been said, you cannot take it back. It forever colors the relationship.
+Asking questions causes lies to manifest.
+So it is a solo endeavor.
+Mark Rober ... lmao. Is on a completely different level.
+It is not even comparable. Shame.
+
+
+# SolvingForX
+
+Solving for x,
+also known as "find x",
+is a really popular type of math question.
+It usually starts showing up around 5th or 6th grade.
+
+The easy way of doing "solve for x" is to keep guessing a number.
+
+x + 3 = 5.
+Let me guess that x equals 1.
+Im sorry kloe. 1 + 3 does not equal 5.
+Fine. Next I will guess that x = 2.
+Wonderful kloe! 2 + 3 does indeed equal 5. Your answer is correct.
+
+3x = 12.
+Guess x = 1. 3 * 1 = 3.
+Guess x = 2. 3 * 2 = 6.
+Guess x = 3. 3 * 3 = 9.
+Guess x = 4. 3 * 4 = 12. ANSWER!
+
+This "guess and check" method will always work. It is something you can always do when you want to check your answer.
+
+But.
+
+But for harder questions, it is slow.
+For harder questions, there are a set of rules to follow. By following these rules, you will always end up with the right answer.
+
+Who invented these rules?
+A mathematician named John. He was born in the year 453.
+
+
+Rule #1 - Combine X's together. Combine numbers together.
+
+x + x + x + x - 2 = 5 + 10 + 15
+Reminder: x is the same as "1x"
+Combine the X's together means to add together all the x's. 
+
+1x + 1x + 1x + 1x = 4x
+
+Combine the numbers together | 5 + 10 + 15 = 30
+
+What we have now is this | 4x - 2 = 30
+
+
+Rule #2 - Move the x's to one side. Move the numbers to the other side.
+
+All of the x's are already on the left side. We can just leave it as it is.
+
+But for the numbers, there is a 2 on the left side, and a 30 on the right side. We need to move the 2 to the right side.
+
+How do we do that?
+By doing the opposite.
+Opposite?
+kloe, do you see how it says "-2" ?
+Yes
+The opposite of -2 is plus 2. We are going to plus 2 to both sides.
+-2 plus 2 cancels into zero.
+30 + 2 = 32
+We are almost at the end. What we currently have is | 4x = 32
+
+Rule #3 - Get x by itself by doing the opposite.
+
+Didnt we kind of just do that? 
+We certainly did. The idea of "doing the opposite" happens a lot in math. 
+
+Right now it says "4x".
+We dont want 4x. We are solving for x. We want x.
+How do we get rid of the 4?
+By doing the opposite.
+Remember guys, there is an invisible multiplication sign between the 4 and the x. 4x actually means 4 times x.
+The opposite of times is divide.
+Does that mean we divide by 4?
+Exactly kloe. 4 / 4 will cancel into 1.
+We now have 1x = 32
+1x is the same as x. We now have x = 32.
+But the most important part: anything you do to the left side, you have do to the other side.
+Since we divided the left side by 4,
+we also have to divide the right side by 4.
+32 / 4 = 8
+We now have our final answer.
+Guys we found x!
+x = 8
+
+To make sure that x = 8 is the correct answer, plug it back into the original question.
+
+Original Question: x + x + x + x - 2 = 5 + 10 + 15
+
+8 + 8 + 8 + 8 - 2 = 5 + 10 + 15
+
+It matches! x = 8 is absolutely the correct answer.
+
+Review of the Rules: 
+
+Rule #1 - Combine X's together. Combine numbers together.
+Rule #2 - Move the x's to one side. Move the numbers to the other side.
+Rule #3 - Get x by itself by doing the opposite.
+
+Question: x + x - 2 - 3 = 7
+
+First, combine x's together and combine numbers together.
+x + x = 2x
+-2 - 3 = -5
+2x - 5 = 7
+
+Move the -5 to the other side by adding 5 to both sides.
+-5 + 5 = 0
+7 + 5 = 12
+2x = 12
+
+Get rid of the 2 by dividing by 2.
+Which means dividing by 2 on the other side as well.
+2/2 cancels into 1
+12/2 equals 6
+The final answer is x = 6.
+
+Check the answer by plugging in 6.
+Original Question: x + x - 2 - 3 = 7
+6 + 6 - 2 - 3 = 7 ... it works!
+
+1x + 2x + 3x + 4 + 5 = 6 + 7 + 8
+
+1x + 2x
+
+Combining Like Terms
+
+Like terms means you can add apples together.
+You can add bananas together.
+But you CANNOT add apples and bananas together.
+
+2 apples + 3 apples = 
+2 bananas + 3 bananas =
+2 apples + 3 bananas =
+200apples + ? = 500apples
+? + 3a = 5a
+
+They were not engaged.
+And I was kind of silly about it.
+A confluence of factors.
+The only thing that you know is that it is better.
+It is better on a different scale.
+Give the parent the robust 1 on 1 aspect.
+Give the child a story with his or her friends. Give the feeling of friendship and emotion. The teachers are not good. They absorb from every angle. 
+
+
+Hi Justin,
+
+Every 2 weeks, we are going to have a phone call.
+You need to prepare for this phone call.
+
+Please read this story about me.
+You must prepare for this phone call.
+Trades are not conducted in a vacuum.
+They are conditions that take place.
+First round pick.
+
+My name is Mr. Lee.
+
+I am a pretty easy-going teacher.
+Sometimes ... I am too easy-going.
+
+I don't like yelling at students.
+I don't like telling students what to do.
+
+Mr. Lee's supervisor: Mr. Lee! You have to be more strict!!!
+Mr. Lee: :( ... Do I have to?
+Mr. Lee's supervisor: Yes you do!
+
+There are 2 things that I care a lot about as a teacher.
+I want you to score really good on your tests.
+I want you to feel proud about yourself.
+
+Would you write this to Mark and Lynn's grandchildren? Absolutely not. Some emotions need to be properly constrained.
+
+Every 2 weeks, we are going to have a phone call.
+You need to prepare for this phone call.
+
+These phone calls are going to be HARD.
+You must prepare.
+Good preparation is the secret to winning.
+
+
+
+The p
+
+
+
+
+
+
+I will say, "I'm sorry Kloe." You are not ready today.
+
+
+
+
+I DO NOT WANT TO DO THIS.
+I DO NOT WANT YOU TO GET IN TROUBLE.
+
+
+
+
+
+
+
+
+
+
+1. You must be prepared.
+
+When you start speaking, 
+
+
+
+
+
+
+
+
+
+Something about me is charming. It is what I feel inside. Which causes an external feeling. 
+
+To go back to it.
+
+
+
+
+
+It has to be 1 on 1 because the logistics are not reliable.
+// not polite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anything you do to one side, you have to do it to the otherside too.
+
+
+Life doesnt have to be coercive.
+You can have happiness.
+Maylynn has her reality and I have mine.
+Hey Cole, are you in Seattle? Want to eat some hotpot on Sat/Sun?
+Hi Dustin, 
+Aggregate towards the social aspects.
+We all had it.
+A familiar face.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bulk mailing list
+somebody 
+
+
+
+
+
+
+
+
+
+
+
+
+
+m and n are integers greater than 0.
+
+3m = 2n
+What is bigger: m or n?
+
+
+I think n is bigger.
+How come?
+Because pretend n = 3.
+Then 2 * n equals 6.
+That means m would have to equal 2.
+Hmm. n = 3. m = 2. n is bigger.
+
+Is the trick just to choose the opposite number?
+I don't know. Let's do another one.
+
+3m = 20n
+What is bigger: m or n?
+
+I am going to pretend m equals 20 and n equals 3.
+That works. 3 * 20 = 60 and 20 * 3 also equals 60.
+m is bigger than n.
+
+m/3 = n/4
+
+
+
+
+
+
+function isPrimeFactorizationOf(s, base) {
+    const numbers = getNumbers(s)
+    return multiply(...numbers) == base && numbers.every(isPrime)
+} ------
+
+
+
+/home/kdog3682/CWF/public/m3.txt------ #exponents
+-----------------
+callingFunction = exponentSchema
+cssPrefixed = true
+
+.title
+.rule
+.questions
+    supplyAnswer = true
+    addQuestionMark = true
+    input = true
+    next = nextSlide
+    alignment = table
+
+-----------------
+
+Exponent Rule #1
+Anything to the zero equals 1
+
+1000^0
+\\pi^0
+\\infinity^0
+-1^0
+0^0
+e^0
+x^0
+y^(y - y)
+
+
+Exponent Rule #2: 
+2^3 * 2^4 = 2^7 because 3 + 4 = 7
+x^10 * x^20 = x^30 because 10 + 20 = $input
+
+x^1 * x^2 * x^3 * x^4 * x^5 = $input
+x^1 * $input * x^3 * x^4 * x^5 = x^100
+100^100 * 100^99 = x^198 * 100^y. x + y = ?
+
+
+Exponent Rule #3: 
+
+2^3^4 = 2^12 because 3 * 4 = 12
+2^3^4^5 = 2^60 because 3 * 4 * 5 = $input
+
+Exponent Rule #3: (very similar to Rule #2)
+2^(20) = 2^(4 * 5) because 4 * 5 = 20
+
+2^(4 * 5) = 2^4^5 = 2^20 because 4 * 5 = 20
+2^(xy) = 2^x^y because x * y = xy
+2^(x/3) = 2^x^1/3 because x * $input = x/3
+
+
+
+Exponent Rule #3: 
+
+Remember to distribute
+
+(2x)^2 = ? 
+
+Common mistake: Students forget to do 2^2.
+
+Wrong answer: 2x^2
+Right answer: 4x^2
+
+(abc)^2 = 
+xxx^2 = 
+(xxx)^2 = 
+(abc)^2 = xa^2. x = ?
+
+
+
+
+x * x * x = x^y 
+x^2 = 
+
+#handshakes
+
+Anna and Bob shake hands.
+AB = 1 handshake because AB and BA are the same thing.
+Total handshakes = 1
+
+Anna, Bob, Carla all shake hands.
+The handshakes are:
+AB, AC, BC
+Total handshakes = 3
+
+Anna, Bob, Carla, David all shake hands.
+The unique handshakes are:
+AB, AC, AD
+BC, BD
+CD
+Total handshakes = 6
+
+How many unique handshakes are there for: 
+5 people?
+6 people?
+7 people?
+
+Look for a pattern. How many unique handshakes are there for 100 people?
+
+
+
+
+#lineIntersections
+
+2 lines intersect | lineIntersection(2)
+The maximum number of intersections is 1.
+
+3 lines intersect | lineIntersection(3)
+The maximum number of intersections is 3.
+
+4 lines intersect | | lineIntersection(4) 
+The maximum number of intersections is 6.
+
+Doesn't this look just like the handshake question?
+How many possible intersections are there for:
+5 lines?
+6 lines?
+7 lines?
+
+Sam flips a coin. Heads or Tails.
+
+Ms. Chung picks a student name randomly out of a hat. Her class has 3 students. After picking the name, she reads it outloud, and then puts the name back into the hat. Then, Ms. Chung picks another name. What is the probability that the first name and the second name are the SAME name?
+
+Anna says, "Lets pretend the names are A, B, C. The chance of picking A on the first try is 1/3. The chance of picking A again on the second try is 1/3. I think the answer will be 1/3 * 1/3 = 1/9."
+
+Bob: I kind of agree with you Anna. But I think you should do 1/9 times 3 because there are 3 students. I think the final answer should be 1/3.
+
+
+
+
+Pick1 Pick2
+AA
+AB
+AC
+BA
+BB
+BC
+CA
+CB
+CC
+
+Q1: Ms. Chung has 5 letters, A, B, C, D, E. She picks two of them at random. What is the probability that the 2 letters she picks are adjacent to each other?
+
+
+Q2: Ms. Chung has 5 letters in a hat, A, B, C, D, E. She picks one letter at random out of the hat. Then, she picks another one. What is the probability that the 2 letters she picks are adjacent to each other?
+
+Creative thinking.
+
+note: the word adjacent means right next to. For example, 1 is adjacent to 2. X is adjacent to Y. 1 is NOT adjacent to 100 because 1 and 100 are not right next to each other.
+
+Pretend the first letter Ms. Chung picks is A. 
+There is a 1/5 chance of picking A.
+That means the next letter has to be a B.
+There is a 1/4 chance of picking B.
+
+So the chance of p
+
+
+
+
+
+
+
+------
+
+
+
+GOOD WORK
+I think you made a mistake
+
+What point is located at y = 5?
+What point is located at the x-axis?
+What point is located at the y-axis?
+What point is located at x = -3?
+What point is located at (4, 3)?
+What point is located in the first quadrant (I) ?
+What point is located in the second quadrant (II) ?
+What point is located in the third quadrant (III) ?
+What point is located in the fourth quadrant (IV) ?
+
+Draw 2 points on the graph so that the slope they form is m = 2.
+Draw 2 points on the graph so that the slope they form is m = -1/2.
+
+
+
+That might have been wrong.
+Need to have 
+Where is the line of symmetry for this graph?
+Reminder: x = 0 means you are right on the y-axis because that is where x equals 0.
+
+
+#pre
+
+1 / 0 = ?
+1
+0
+Infinity
+undefined
+
+100 / (x - 3) is undefined if
+x = 0
+x = 5
+x = 3
+x = -3
+hint: you are not allowed to divide by zero
+
+
+
+
+
+#substitution require(exponents, factoring)
+
+Crucial to mathematics is knowing when to transform one expression into another equivalent expression. Instead of 6, we could write 7 - 1. 6 and 7 - 1 have the same value: They both equal 6. But sometimes, it may be more useful to have 7 - 1.
+
+We first learn about this idea of equivalent expressions in elementary school. 2/3 + 1/6. The teacher says, "You need a common denominator!" Students learn that they can transform 2/3 into 4/6. 2/3 and 4/6 are exactly the same. But in this situation, it is more useful to have 4/6.
+
+
+Substitution is one of the most powerful and commonly used types of mathematical transformation. Whenever you can, look for opportunities to substitute. It will ALWAYS simplify the question.
+
+(x + 3) / (x + 3) = ?
+
+Well duh. The top is (x + 3) and the bottom is (x + 3). The top and bottom are the same. This will cancel into 1.
+
+But what you could do, if you wanted to, is set up a substitution.
+
+let u = x + 3
+This will transform the question into u/u
+u/u clearly equals 1.
+
+note: The letter "u" was used here as the substitution variable. You can choose any letter that you like. But "u" is commonly used.
+
+What just happened? Essentially, we created a new variable "u" out of nothing. This question is simple enough, that you dont really need to substitute. However for harder questions, it can often be usefull.
+
+(x + 3)^2 + 5(x + 3) + 6 = 0
+
+First we do it without substitution:
+
+@numbered
+Distribute the first part into: x^2 + 6x + 9
+Distribute the second part into: 5x + 15
+Add on the ending 6
+Add it all up: x^2 + 11x + 30 
+Factor it ... (x + 5)(x + 6) = 0
+The answer is x = -5, or x = -6.
+
+There is nothing wrong with doing it like this. The answer is completely correct. But by using a substitution, you can get the answer a little bit faster.
+
+Original Question: (x + 3)^2 + 5(x + 3) + 6 = 0
+
+@numbered
+the substitution we will use is u = x + 3
+The question transforms into: u^2 + 5u + 6 = 0
+Factor it: (u + 2)(u + 3) = 0
+Put the x + 3 back in for u. 
+  (x + 3 + 2)(x + 3 + 3) = 0
+  (x + 5)(x + 6) = 0
+The answer is x = -5, or x = -6.
+
+#example
+2(x - 7) = 46 + y
+x - 7 = 25
+Find y
+
+It is tempting to start doing math as fast as you can. Distribute the 2 and the (x - 7). Add some stuff together. Subtract. Get y by itself. Get the answer.
+
+Or, just look at the question. See that you can do a direct substitution. x - 7 = 25. So just plug that value right in. 2(x - 7) will be 2 * 25 which equals 50. 50 = 46 + y ... y equals 4.
+
+
+#example
+x^3 = 8
+x^9 = ?
+
+Slow way: x^3 = x * x * x = 8. That means x = 2. 2^9 equals 512.
+Fast way: x^9 = x^3 * x^3 * x^3. Direct substitution: x^3 = 8. x^9 = 8 * 8 * 8 = 512.
+
+
+#example
+x^2/3 + 5x^1/3 + 6 = 0
+
+For this example, you actually have to use substitution. There is no other way to solve it.
+
+The substitution will be u = x^1/3
+This transforms the question into:
+u^2 + 5u + 6 = 0
+(u + 2)(u + 3) = 0
+u = -2
+u = -3
+Plug the x^1/3 back in. (this was the original substitution)
+x^1/3 = -2
+x = -8
+
+x^1/3 = -3
+x = -27
+The final answer is x = -8 and x = -27.
+
+
+
+
+
+
+
+
+
+Math is a language.
+In spanish class, students memorize vocabulary words.
+In math class, students memorize graphs.
+
+Right now, it is not important whether or not it makes sense.
+Just memorize it. Later, it will make sense.
+
+Graph #1
+
+f(x) = sin(x)
+
+The most important thing to remember about sin(x) is that sin(0) = 1. sin(0) equals 1 means, when you plug in x = 0, the value that comes out is 1. 
+
+
+f(x) = cos(x)
+
+cos(x) and sin(x) are brothers and kind of opposites. cos(0) = 0.
+
+It is super important to memorize that sin(0) = 1 and cos(0) = 0.
+
+One way to remember it is that the "i" in sin kind of looks like a "1" and the "o" in cos kind of looks like a "0".
+
+f(x) = tan(x)
+
+It is quite strange, but it turns out sin divided by cos equals tan! This was discovered by a dude named Hipparchus in the year 120BC.
+
+We know sin(0) = 1
+We know cos(0) = 0
+We know sin / cos = tan
+That means tan(0) = sin(0) / cos(0) or 1 / 0
+The most important thing to know about tan is that tan(0) is undefined because 1/0 is undefined.
+
+
+f(x) = e^x
+
+e^x is perhaps the most fascinating graph of all time. It has one special property that no other graph has. A large part of calculus class is focused on investigating the super interesting features of e^x.
+
+
+
+
+
+Graph Transformations ------
+
+
+
+/home/kdog3682/CWF/public/math.txt------  ------
+
+
+
+/home/kdog3682/CWF/public/mathstory.txt------ Hi Sam
+
+My name is Pivnurt and I'm going to ------
+`

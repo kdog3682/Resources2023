@@ -1,0 +1,45 @@
+speakers = Bonnie Austin
+Equivalent Fractions
+key=FractionEquality
+----------------
+Hi $.
+----------------
+Hi $.
+----------------
+Are we going to have crazy time today?
+----------------
+I wish.
+Nothing is more exciting than crazy time.
+----------------
+Except for one thing.
+----------------
+What's that?
+----------------
+Equivalent fractions.
+----------------
+What are equivalent fractions?
+----------------
+Equivalent fractions are the best.
+To make an equivalent fraction, multiply the top and bottom of your fraction by the same number. 
+
+@float
+@component.katex(FractionEquality(3,4,5))
+----------------
+My starting fraction is 6/7.
+What number should I multiply by?
+----------------
+You can choose any number you like.
+----------------
+Okay.
+I'll choose the number 10.
+
+6 times 10 = 60.
+7 times 10 = 70.
+
+bold 60/70 is the exact same as 6/7.
+----------------
+Great job $!
+That's how you do it.
+----------------
+
+Create 10 fractions equivalent to 4/6

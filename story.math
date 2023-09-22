@@ -1,0 +1,170 @@
+title Factors
+
+Hi everyone. It's me bon!
+
+----------------
+
+And it's me, mr!
+----------------
+
+In this lesson, we are going to learn about factors.
+
+
+
+Say Bonnie, can you tell me what a factor is?
+----------------
+
+A factor is something we have seen for a very long time already.
+----------------
+
+
+We have?
+
+----------------
+We certainly have.
+evtime we do multiplication, we are seeing factors
+mr, what's 2t3
+----------------
+2t3=6  
+----------------
+Congratulations mr. You just found 2 of the factors of 6.
+the first factor of 6 is 2
+the second factor of 6 is 3
+
+if two numbers can multiply together to make the number, then those numbers are called factors of the number.
+----------------
+i can also do 1t6=6. does that mean 1 and 6 are also factors of 6
+----------------
+ur absly corec.
+try this question
+find the factors of 10
+----------------
+1t10=10 and 2t5=10
+nthg else mks 10
+the factors of 10 are 1,2,5,10
+----------------
+gj mr.
+try this one. find the factors of 100.
+
+----------------
+100?! bonbon, thats gonna take me forever1
+----------------
+it wont1 it will only take u about 30 seconds.
+
+----------------
+1t100=100
+2t50=100
+4t25=100
+5t20=100
+10t10=100
+I think the factors of 100 are 1,100,2,50,4,25,5,20,10,10.
+
+But im a little confused
+the number 10 shows up twice at the end.
+Should i count it once or twice?
+----------------
+When counting factors, each number is only counted once. 
+
+----------------
+In that case, the final answer is 1,2,4,5,10,20,25,50,100. There are 9 factors in total
+----------------
+mingming1 you did great1
+
+----------------
+
+breaker
+pp
+
+----------------
+
+@factors1(60)
+Fill in the table below.
+For each number, come up with 
+@table()
+----------------
+
+Write out the factors for 12.
+Write out the factors for 15.
+What is the biggest factor that 12 and 15 both have?
+
+A prime number is a number that only has TWO factors.
+
+Write the factors for each of the following numbers. Circle the numbers that are prime.
+
+
+
+write the factors
+
+
+clear
+
+title Sudoku
+
+Konichiwa Alex1
+----------------
+Ohayo Jeff1
+----------------
+um al
+----------------
+yeah?
+----------------
+why r we speaking in japanese
+----------------
+bc today we going to learn a very famous japanese math game
+----------------
+is the game sudoku
+----------------
+it is1
+how did u kno
+----------------
+sudoku is super popular
+every math teacher uses it
+----------------
+do you think math teachers in switzerland use sudoku?
+----------------
+in switzerland
+in korea
+in china
+in france
+in brazil
+math teachers love sudoku
+----------------
+why
+----------------
+because the rules of the puzzle are very simple
+rule 1 fill in every row and every column with numbers from 1 to 9
+rule 2 you cant repeat numbers
+
+thats it1
+----------------
+lets play sudoku jeff
+----------------
+alrighty.
+we will start with a 3 by 3 board.
+that means the numbers we use will be from 1 to 3
+
+@sudoku(3)
+
+----------------
+
+j, i think i know the answer
+is it this
+@answer()
+
+----------------
+you got it j1
+no row or column uses the same number twie.
+your answer is the soln1
+
+
+pp 
+@sudoku(4, i)
+@sudoku(5, i)
+
+
+Fill in the sudoku grid using numbers from 1 to 4.
+No row or column can use the same number twicce.
+
+
+
+

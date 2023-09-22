@@ -1,0 +1,282 @@
+----------------
+description=Parsing the config file ... becomes its own kind of language again. It is the mixing together of code and data that the one guy was talking about. 
+replace {
+    danny: Diana, rly: really, mp: Mr. Ping, dps: dumplings
+    mult: multiply
+}
+
+delimiters {
+    ?
+    linebreak
+}
+
+----------------
+
+Mr. Ping buys 2000 boxes of 12 dumplings from Danny’s Dumpling Shop. How many dumplings does Mr. Ping buy?
+----------------
+
+Each box has 12 dumplings. To solve this question, we will multiply 2000 by 12. 
+----------------
+
+2000 is a really big number. 
+But dont be intimidated by it.
+There is a simple strategy.
+----------------
+Look at the number 2000.
+It has 3 zeroes.
+
+Now put those 3 zeroes into your pocket.
+The number is just a 2 now.
+----------------
+The original question was 2000 times 12.
+But not anymore.
+Now, the question is 2 times 12 which equals 24.
+----------------
+Now take the zeros back out of your pocket.
+And attach it to your answer.
+The final answer of 2000 times 12 is 24000.
+
+In total, Mr. Ping buys 24000 dumplings.
+----------------
+
+Each dumpling costs 3 cents. How much money does mp spend?
+----------------
+
+Each dumpling is 3 cents and mp has 24000 dps.
+To find the total money, we will multiply 24000 dps by 3 cents.
+----------------
+
+
+we will use the same method as before.
+24000 is a big number. 
+Put the 3 zeroes into your pocket.
+The number becomes 24 which means we do 24 times 3.
+
+----------------
+24 times 3 equals 24 + 24 + 24 which equals 72.
+Put the 3 zeroes back.
+The answer 72000.
+
+
+----------------
+
+Mrs. Ping says to Mr. Ping, 
+
+"Aiya!!!
+Mr. Ping you crazy boy. What are you doing?
+
+Spending 72000 cents on dumplings?
+Who spends that much money on dumplings?
+
+----------------
+
+But Mrs. Ping.
+Danny's dumplings are the most delicious in all the land.
+
+And they were on sale for only 3 cents.
+With this many dumplings, we will never have to buy dumplings again. 
+
+----------------
+
+Mrs. Ping glared at Mr. Ping. She was very angry. 
+
+Their refrigerator wasnt big enough for 24000 dumplings.
+----------------
+
+Mr. Ping knew exactly what to do. He had a secret way of making Mrs. Ping not mad at him.  
+
+----------------
+
+You see, Mr. Ping’s wife, Mrs. Ping, was a mathematician. There are lots of different types of math. One of the most important types is prime numbers. Credit cards. Banking information. Passwords. All of this is based on prime numbers. 
+
+Prime numbers were Mrs. Ping’s speciality.
+
+----------------
+
+Mr. Ping started reciting prime numbers. 
+
+Reciting prime numbers was his secret way of making Mrs. Ping not mad at him. 
+
+“2” he spoke in a confident voice. 
+
+3!
+
+5!
+
+----------------
+
+“7, 11, 13, 17, 19, 23, 29, 31.” 
+
+On and on and on Mr. Ping went.
+
+As he spoke the numbers, Mrs. Ping slowly seemed less mad. 
+----------------
+
+Mr. Ping wasn’t a math person. 
+His favorite subject was history. 
+
+But he loved Mrs. Ping, so he memorized prime numbers for her because he knew she liked them a lot.
+
+----------------
+
+Mr. Ping went past 101. 
+He went past 211. 
+Then past 307. 
+He was doing really good. 
+
+All of these are prime numbers”, Mr. Ping thought to himself. 
+“No number can divide them, except for 1, and except for itself.” 
+
+"Is 311 a prime number?" asked Mr. Ping.
+
+"Why certainly!"
+
+Nothing can divide it.
+Only 1 and 311 can, but those don't count.
+
+----------------
+
+Mr. Ping continued.
+
+“569,” shouted Mr. Ping. 
+
+“571,” shouted Mr. Ping. 
+
+"573!” 
+
+Suddenly, Mr. Ping stopped. 
+He felt a cold trickle of sweat.
+
+Was ... was 573 a prime number?
+
+----------------
+
+Mr. Ping couldn't remember if 573 was one of the prime numbers on his memorization cards.
+
+He didn't want to do a million division questions.
+
+573 divided by 2.
+573 divided by 3.
+573 divided by 4.
+573 divided by 5.
+All the way up to 573 divided by 572.
+
+If even one of these worked, that would mean 573 is NOT prime.
+
+----------------
+
+But there would be so many numbers to check.
+And he wasn't very good at division.
+He was much better at remembering history facts.
+----------------
+
+Mr. Ping looked at Mrs. Ping. Mrs. Ping wasn’t mad anymore. 
+
+"I can't remember if 573 is prime," said Mr. Ping sadly.
+----------------
+
+
+Mrs. Ping kissed Mr. Ping on the cheek.
+
+"It's not" she said simply.
+
+----------------
+
+My wife...
+How did you divide all of those numbers so quickly?
+How did you find a number that works for 573 in less than 3 seconds?
+
+----------------
+
+Mrs. Ping chuckled.
+
+Add up the digits of 573 Mr. Ping.
+
+
+----------------
+
+5 + 7 + 3 = 15.
+
+But what does that have to do with anything?
+----------------
+
+You can divide 15 by 3.
+15 came from 573.
+
+That means you can divide 573 by 3.
+----------------
+
+Mrs. Ping, are you making this up?
+
+Does that mean I can take a number like 1002.
+
+Add up its digits: 1 + 0 + 0 + 5 = 6
+
+And say that 1002 can be divided by 3 because 6 can be divided by 3?
+
+----------------
+
+Exactly.
+----------------
+
+Oh Mrs. Ping. 
+
+Tell me why. 
+Why does this trick work?
+
+----------------
+
+
+"I will tell you", said Mrs. Ping.
+But first, we need to eat some dumplings.
+
+----------------
+
+"We have 24,000 dumplings" said Mr. Ping excitedly.
+
+How many do you want to eat?
+----------------
+
+"Maybe 5" said Mrs. Ping.
+----------------
+
+Mr. Ping took 5 dumplings for Mrs. Ping, and 7 dumplings for himself. The rest they would freeze.
+
+It would be a wonderful evening.
+
+The end
+----------------
+
+Use Mrs. Ping's dividing trick.
+
+Can you divide 100008 by 3?
+
+----------------
+
+You can!
+Add up the digits.
+1 + 0 + 0 + 0 + 0 + 8 = 9
+
+You can divide 9 by 3.
+That means you can divide 100008 by 3.
+
+----------------
+
+Here's a bigger number.
+Can you divide 12345678 by 3?
+
+----------------
+You can! 
+1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = 36
+36 is divisible by 3.
+36 came from 12345678.
+That means 12345678 is divisible by 3.
+----------------
+
+Great job everyone. 
+You read very well.
+
+----------------
+
+Great job everyone!
+Hammy is very proud of you!

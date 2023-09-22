@@ -1,17 +1,167 @@
-
-shell returned 2
-
-
-Vim(read):E485: Can't read file /tmp/v9Uo7Oh/1
-0-- INSERT --
+dynamicRender is in cm-components
 
 
-"~/.vimrc" 
-"~/.vimrc" 8553L, 244500B written
-"~/.vimrc" 8553L, 244500B written
 
-vim
-:ec Redir('Declare Your own FunctionCall Value')
- :redir! > variable :silent $r!verbose imap <CR>
- :redir END
- 
+/home/kdog3682/RESOURCES/story.txt
+/home/kdog3682/RESOURCES/today.json
+/home/kdog3682/RESOURCES/token.json
+/home/kdog3682/RESOURCES/token2.json
+/home/kdog3682/RESOURCES/token3.json
+/home/kdog3682/RESOURCES/variables.vim
+/home/kdog3682/RESOURCES/vite.config.txt
+
+/home/kdog3682/RESOURCES/temp.txt
+
+
+I deleted jobs.txt
+Part of me no longer wants to browse craigslist
+
+
+My parents benefited greatly from school and education. But I think times were different then. Schooling, education, degrees, from everything that I have seen, I do not view it as a good investment. 
+
+setup.sh -> install.sh
+
+pip3 regex (basic)
+pip3 requests (basic)
+pip3 unidecode (basic)
+pip3 praw    (redditscript)
+pip3 zipfile (zipscript)
+pip3 PyMuPdf (pdfscript)
+pip3 pikepdf (pdfscript)
+
+# pip3 bs4
+# pip3 youtube-dl
+# pip3 reportlab
+# pip3 stackapi
+Dont actually need to install every file
+
+Having less files makes things easier to handle.
+
+The walnut game is not a good math question. 
+It is not even a real game.
+
+Bring the changelogs together
+
+
+/home/kdog3682/RESOURCES/d.txt
+/home/kdog3682/RESOURCES/merged.txt
+/home/kdog3682/RESOURCES/math.txt
+/home/kdog3682/RESOURCES/math-doc-string.txt
+/home/kdog3682/RESOURCES/G4 Coding Adventures Draft 1.txt
+/home/kdog3682/RESOURCES/G4 Translating Words to Expressions.txt
+/home/kdog3682/RESOURCES/Letter to Maylynn.txt
+/home/kdog3682/RESOURCES/Unsorted Math Questions.txt
+/home/kdog3682/RESOURCES/m.txt
+/home/kdog3682/RESOURCES/out.txt
+
+09-13-2023 Coding
+    "//const f = new Fraction(3, 4)",
+    "//console.log(f.toMixedNumber().toImproperFraction())",
+    "//console.log(f.magnify(0.5).simplify().convertByNumerator(9).convertByDenominator(2).toMixedNumber())",
+    "//classMixin(Fraction, FractionApplicators)",
+    "//console.log(latexTemplater('a/b + b', [1,2]))",
+    "//console.log(buildMathConfig(str1122))",
+    "//console.log(interweave('x', '+', 3))",
+    "//console.log(latexTemplater('a/b + b', [1,2]))",
+    "//console.log(rangeFromString('2 3  4 4 4 4-5 6 7 8-11'))",
+    "//console.log(rngAround(84.4))",
+    "//console.log(generate1213())",
+    "//console.log(numbergen({n: 8, prime: true, min: 6, max: 155}))"
+
+
+/home/kdog3682/RESOURCES/a.txt
+/home/kdog3682/RESOURCES/d.txt
+
+
+//printClip(numberlineTest)
+//import { numberlineTest } from "./turtle2.js"
+
+
+
+AppChatGptDisplay
+AppChromeHistoryViewer
+VBall
+VBaseIcon
+VBaseList
+VBaseList2
+VBreak
+VBtn
+VCheckbox
+VCheckboxes
+VClickShow
+VClipFrame
+VClipboardIcon
+VComponentLoader
+VComponentLoader0
+VComponentLoaderTemplate
+VDecimalShift
+VDisplayParentData
+VDocumentTree
+VEditableJson
+VErrorDisplay
+VForm
+VFuzzySearch
+VGrid
+VHorizontalLabel
+VHoverIcon
+VHoverWrapper
+VHtml
+VIcon
+VIframe
+VInput
+VInvivoPrompt
+VJson
+VJsonItem
+VLabel
+VLanguageIcon
+VList
+VListItem
+VListNotWorking
+VLogItem
+VMagicTable
+VMarkdown
+VModal
+VModalChoose
+VModalInput
+VNumbered
+VPopup
+VPre
+VPreviewHtml
+VPrompt
+VRainbow
+VRenderAnything
+VSayhi
+VSelect
+VSvg
+VTable
+VTest
+VTitle
+VTree
+VTreeNode
+VTwoCol
+buildDocumentClassTree
+calculatePopupPosition
+cardinalPositionDirective
+createEmit
+elementExceedsWidth
+function
+getCenteredHeight
+getCenteredWidth
+getColorSchema
+modular
+nestedWrapper2
+oppositeBoolean
+popup
+shapeShifterString
+stringify2
+svgClipboardTemplate
+toPositionObject
+valueProp
+vueComponentTemplates
+vuejs2
+xxxVGrid
+
+Note: Thursday September 21 2023, 9:47:58PM :: ["1", "2"]
+Note: Thursday September 21 2023, 11:10:00PM :: ["404 {\"message\": \"This repository is empty.\", \"documentation_url\": \"https://docs.github.com/v3/repos/contents/#get-contents\"}"]
+Note: Thursday September 21 2023, 11:33:32PM :: ["404 {\"message\": \"Not Found\", \"documentation_url\": \"https://docs.github.com/rest/repos/repos#get-a-repository\"}"]
+Note: Thursday September 21 2023, 11:39:56PM :: ["422 {\"message\": \"Repository creation failed.\", \"errors\": [{\"resource\": \"Repository\", \"code\": \"custom\", \"field\": \"name\", \"message\": \"name already exists on this account\"}], \"documentation_url\": \"https://docs.github.com/rest/repos/repos#create-a-repository-for-the-authenticated-user\"}"]

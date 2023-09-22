@@ -1,0 +1,3960 @@
+09-18-2023 Hammy Dialogue Assignment
+
+title: Square Roots
+level: 1
+
+Hi $,
+
+10 times 10 equals 100.
+Going backwards, that means the square root of 100 is 10.
+
+Now it's your turn.
+What is the square root of 25?
+
+----------------
+
+So basically, I need a number times itself, to equal 25.
+5 * 5 = 25
+The square root of 25 is 5!
+
+----------------
+
+Good job $.
+That is exactly how you do it.
+
+----------------
+# Problems
+
+numbers = getIntegers(1, 100, isSquare)
+template(What is the square root of $, numbers)
+
+Challenge 1: What is the square root of 900?
+Challenge 2: The square root of X is half of the square root of Y. What does X + Y equal?
+----------------
+
+
+
+
+
+
+
+
+Can you think of a number times itself
+
+The square root of a number is just like the square of a number, except you go backwards. You go back to the "root" starting place. For example, the square of 5 is 25. That means the square root of 25 is 5. The square of 9 is 81. Therefore the square root of 81 is 9. The square root of 100 equals x10 because 10 multipled by itself will give you 100.
+
+The most common type of squares and square-roots are called "perfect squares." When someone says the term, "square number", they're referring to a perfect square. A perfect square means there isn't any decimal. 36 is a perfect square because it comes from 6 times 6. 35 is not a perfect square because it comes from 5.916 times 5.916. From 1 to 10, how many numbers are perfect squares? xx9 works because 3 * 3 equals 9. 4 also works. And the last one, is 1 because 1 * 1 equals 1. The answer is 3.
+
+It is difficult to find the square root of numbers that are not perfect squares. 81 is a perfect square. Finding its square root is pretty simple. The answer is just 9 because 9 times 9 equals 81. But what about finding the square root of 80? Maybe the answer is 8.5? Try 8.5 times 8.5 and you get 72.25. Nope. It's too small. Maybe 8.7? 8.7 * 8.7 is 75.69. Nope. Still smaller than 80. 8.9 * 8.9? The answer is 79.21. Still too small. 8.95? The answer is 80.1025. Now we're too big. We have to go a little smaller. Maybe 8.93? 8.93 * 8.93 is 79.7449. Now we're too small again. Basically, it takes forever.
+
+For this reason, you will almost NEVER have to calculate the square root of non-square numbers. Instead, the types of questions you see will probably have estimation or rounding. Here is one example: The square root of 80 is between what two numbers?
+
+One thing that often shows up in square root questions is taking the square root of variables like "x" or "n" or "z * z." What is the square root of y * y? xxOne thing that you can always do is plug in a number. Pretend y equals 4. That means the question turns into "What is the square root of 16?" The answer is 4. Since y equals 4, that means the answer is y. [y, 0.5y, 2y, y/4] 
+
+
+Very similar to squares and square roots is the idea of cubes and cube roots. Instead of squaring a number, this time you cube the number. Instead of taking the square root, you take the cube root. Instead of calling the answer "area", you call the answer "volume."
+
+The reason for these differences is because a cube is the 3-dimensional version of a square. A square's area is length * width. A cube's volume is length * width * height. Instead of multiplying by yourself twice to get the area (like 5 * 5), you multiply by yourself 3 times (5 * 5 * 5) to get the volume. \\diagram(square, cube)
+
+A cube has a side length of 2. That means the volume of the cube will be 2 * 2 * 2 = 8. A different cube has a side length of 5. The volume of this cube will be x125 because 5 * 5 * 5 equals 125.
+
+This pattern also works going backwards. The square root of 16 is 4 because 4 * 4 = 16. The cube root of 125 is 5 because 5 * 5 * 5 = 125. The cube root of 64 is x4.
+
+Not only does the pattern work going backwards, the pattern works for any number of dimensions. Usually, we only do math in 2 dimensions like the area of a square: length * width, or 3 dimensions like the volume of a cube: length * width * height. But actually, the dimensions can go much higher. You can go to 4 dimensions, 5 dimensions, 10 dimensions. 
+
+A 4-dimensional square is called a tesseract. Follow the pattern that we have seen with a square, a cube, and now a tesseract. If the side-length of a tesseract is 3, what is its 4-dimensional volume? [81]
+
+
+09-13-2021 Practice Questions
+20 questions.
+
+
+A cube has a volume of 1000. What is the length of 1 of its sides? 
+A cube has a volume of 8. If you increase each side of the cube by 1, what will the new volume be?
+
+
+Of course, they might try to make the question a little harder by doing something like this: X equals 39. Y equals 41. The \\sqrt(X + Y) is between \\mc 8 and 9
+
+First find the side length. The cube root of 8 equals 2. Now that we have the side length, the question says to increases it by 1. The side length is 3 now, which means the final volume will be 3 * 3 * 3 = 27.
+
+A cube has a volume of 27. If the volume of the cube is increased by 37, how much does each side of the cube increase by?
+
+
+
+A square is a special type of rectangle where all the sides are the xsame.
+A cube is a special type of prism where all the sides are the xsame.
+A cube is the 3-D version of a square. A prism is the x3-D version of a rectangle.
+
+The area of a rectangle is length * width.
+The volume of a prism is length * width * xheight.
+
+When multiplying fractions, you DO NOT need a xcommon xdenominator. You just multiply the top and then multiply the xbottom.
+
+There is a trick for multiplying fractions. When something on the top, and something on the bottom is exactly the same, you can xcancel them out.
+
+2/2 + 1/2 equals x3/2 because both fractions have a common xdenominator.
+
+A mixed number is when you have a whole-number and a fraction together. For example, 1 and 1/2 is a mixed number. 5 and 2/7 is a mixed number. 
+
+
+
+
+
+volume of 64. That means the side length of the cube is ___ 
+
+What is the volume of the cube? \\mc8 \\answerhelp The answer is 8 because 2 times 2 times 2 is 8
+
+
+.
+
+
+
+
+Find the square-root of (10 + 10)(10 + 10).
+Find the cube-root of (1 + 5)(2 + 4)(3 + 3).
+
+
+
+
+
+
+
+
+
+
+
+The basic building blocks of math are addition, subtraction, division, multiplication, and exponents. If you look at this list, it doesn't say the word "square root" anywhere. That's because "squares and square roots" belong to the category of exponents.
+
+In math, there are often multiple ways of writing the same thing. Kind of like if your name is Kaylee. You might also be known as Kay, or Kaykay, or Kayster, or Kayfizzle, or KaySizzle - it's all referring to the same person.
+
+The same is true in math.
+5 * 5 means 5 times 5.
+Also (5)(5) means 5 times 5.
+Also 5 dot 5 means 5 times 5.
+5 squared also means 5 times 5.
+5^2 (pronounced 5 squared) also means 5 times 5.
+
+games
+stranger things in common
+time bomb name game
+classmate bingo
+    
+
+You are smarter than you know. 
+
+You are braver than you believe,
+Stronger than you seem,
+Smarter than you think,
+
+Warmup - Math Facts
+
+"What time is it?" asked Piglet.
+"It's time to learn," said Pooh.
+"My favorite time," said Piglet.
+
+- Winnie the Pooh
+
+Instructions:
+
+You can use the script that has been written for you. Or you can create your own script. No matter how you decide to do it, the end goal is to talk about "fraction decomposition" for 5 minutes with examples and diagrams.
+
+Talking outloud and giving verbal explanations is hard. The reason is because when you are young, the Broca and Wernicke regions of your brain are still not fully developed. 
+
+Have you ever had the feeling where you want to say something, but for some reason, you can't find the words? That's what the Broca and Wernicke regions are responsible for.
+
+By practicing giving verbal explanations, it makes those regions stronger and stronger.
+
+Poverty brings a set of poverty's problems.
+
+Dialogues
+
+Kloe and Lynn good morning everyone.
+
+My name is Lynn.
+
+And my name is Kloe.
+
+And we are the power puff girls!
+
+Just kidding. 
+
+09-15-2021 chinese for=alex infuse=randompeople
+
+ni hao
+ni hao
+do you like chicken?
+wo hen xi huan chicken.
+How about you?
+wo ye hen xi huan chicken.
+What's your favorite part about chicken?
+Come on. It has to be the juicy skin.
+ni ne?
+For me, it's gotta be about the fried chicken.
+Fried chicken! Tai hao chi le!
+I know right? It's sooooo good.
+You know what we should do right now?
+shen me?
+wo men should qu chi KFC!
+Alex, seriously?
+zhen de.
+bro. wo men should not qu chi KFC.
+ru guo we are going to eat chicken, wo men yao qu chi high quality chicken.
+dude, don't be hating on KFC. Ta men also have some good stuff.
+Ta men de kao ji shi la ji!
+Just wait. Wait till you try my grandma's kao ji.
+bie shuo le. Let's go!
+Let's go!
+
+Ah. Steven. What brings you here?
+Ni hao Lai lai. I brought wo de peng you, Alex, to try some of your delicious fried chicken.
+Shakes her finger.
+No no no. Wo men bu chi fake chicken. 
+YEYE!
+grandpa: lai lai! shen me shi?
+ZHUN BEI HAO THE WOK. WO MEN YAO ZUO KAO JI.
+
+Dude, ni de lai lai zhen de takes fried chicken pretty seriously.
+Alex, ni bu zhi dao ma? Fried chicken is life.
+
+My grandma raises her own chickens.
+zhen de?
+Yupsters.
+Isn't that, like, hard?
+bu tai nan
+It's true, the start is hard. The set up is hard. Getting the routines in place, zhen de shi nan.
+but once everything is setup, you get a bu-ting-de supply of eggs and fresh chicken meat.
+
+Is it him? (grandpa points)
+shi de.
+This is the one, who thinks KFC is food?
+It's time for some re-education.
+
+hen duo ren jue de ni bi xu use eggs to coat the chicken.
+But this actually isn't true.
+The eggs ye xu hui introduce 
+The primary purpose of the eggs is to bind the breadcrumbs to the chicken.
+
+jidan de zhuyao mudi shi
+
+
+
+A major paradigm shift when learning Chinese is to place descriptors after the object, not before.
+Romantic languages, (english, spanish, french) by and large, will place the descriptor in front. Think of a descriptor as words tagged by "of."
+
+The primary purpose of the eggs is
+el objetivo principal [de] los huevos es
+le but principal [des] oeufs est
+
+In Chinese, it goes in the opposite direction. You would write it like:
+
+Eggs the primary purpose is
+los huevos el objectivo principal es 
+
+jidan = eggs
+de = of
+zhuyao mudi = primary objective
+shi = is
+
+Combining it all together, we get
+
+jidan de zhuyao mudi shi
+
+Listen to this: "Eggs of the primary purpose..." Doesn't that just sound weird? If you write: "zhyao mudi de jidan"... It sounds weird for the exact same reason. Basically, it sounds backwards.
+
+Why? One possible explanation may be that the english "of" points to the object from a third person point of view. "The colors of the rainbow." On the other hand, the Chinese "de" points to the object from a first person point of view. "Wo de xiezi" 
+
+Long story short: In Chinese, the descriptor goes after the object.
+
+
+"de" can be kind of tricky. It can almost feel like, there are no rules. You can use the "de" here, or there, or anywhere. 
+
+
+To start talking as soon as possible.
+
+For learners who are familiar with object-oriented programming, the "de" that frequently pops up in Chinese basically has 3 uses, and a lot of the uses are contextual. Much like "this" in coding, it can feel very weird at the start. 
+
+acknowledge
+
+
+Outdoor Chinese Class
+2 months = 50 dollars.
+
+
+, we have come to eat some of your famous fried chicken.
+Hohoho. Bu shi na me you ming. I got my recipe from watching John Legend on YouTube.
+
+I had the feeling that anyone can learn the language but it may be wrong.
+
+that means hello!
+well duh.
+ni means you,
+and hao means good.
+Chinese follows 2 primary forms.
+the first is "memorized speech."
+What's that?
+Like "ni hao."
+
+
+Chinese humor.
+
+Chinese humor is a bit different from English humor.
+
+English, filled with a variety of syllables and colorful words, has many jokes based on the sound. 
+In other words, much English humor deals with wordplay.
+
+While of course you can do wordplay in Chinese or any language, it is not really how people express humor.
+
+"Just bring yourself."
+It's not that funny. 
+
+But it is funny in Chinese.
+
+"Ni ba ni ziji dai lai jiu hao le."
+
+ni = you
+ba = sound-filler for action
+ziji = you
+dai lai = bring
+jiu hao le = "then it's good"
+
+It's funny. 
+No convincations.
+
+"ni ba ni zi ji dai lai le, jiu hao le."
+
+
+
+
+
+
+09-15-2021 math #distribution
+
+fn.mathMultiplication {a:6, b: 9, skip: false, amount:1}
+fn.mathBreakdown
+fn.mathDistribute
+
+fn.mathMultiplication
+fn.mathBreakdown
+fn.mathDistribute
+
+09-15-2021 Algebraic Manipulations
+
+One of the big ideas in math is that you can write the same thing many different ways. You can write 2 + 3 = 5 or you can write 4 + 1 = 5. Or you can write 8 - 3 = 5. Or you can write 5 * 1 = 5. Or you can write 10 / 2 = 5. How many ways of writing 5 are there? It's infinite.
+
+Some students think this is cool. They think, "Wow! Math is so cool! You can write the number 5 infinite different ways. Wowzers!"
+
+Other students think, "This is so dumb. Why? Just ... why?"
+
+99 * 3. Everyone can do this multiplication problem. It just takes some time.
+
+But there is a much better way of doing it. You can do (100 - 1) * 3.
+
+The reason this works is because 99 is the same thing as (100 - 1).
+
+
+4 * 400 equals x1600. The reason is because you can ignore the ending zeros. Do 4 * 4, and then put the zeros back onto the number.
+
+4 * 0.004 equals x0.016. The reason is because you can ignore the starting decimal zeroes. Just do 4 * 4 which gives you 16. Now, notice there are 3 decimal places. That means you will have to shift the decimal left 3 times.snsn16 => 1.6 => 0.16 => 0.016
+
+0.04 * 400 equals x16. We have 2 leading zeroes from the 400. And we have 2 decimals from the 0.04. Basically, they cancel each other out. So we just do 4 * 4 and the answer is 16.
+
+0.0004 * 40 equals x0.0016. We have 1 leading zero from the 40, and 4 decimals from 0.0004. That means shift RIGHT once, and shift LEFT 4 times, which basically means, shift LEFT 3 times. 
+
+0.00040000000 * 40 equals x0.0016. Trailing decimal zeroes do not count. For example, 16 is the same as 16.0 is the same as 16.00 is the same as 16.000. Therefore, the question is the same as the previous question: 0.0004 * 40, so our answer should be the same too.
+
+0.02 * 0.04 * 0.08 equals x0.000064. In total, there are 6 decimal places, 2 from each of the numbers.We will do 2 * 4 * 8 = 64, and then shift LEFT by 6 decimal places. 
+
+
+The LCM of 3 and 4 and 5 is x30. 
+
+Step 1. Break each number into its prime factorization.
+
+3 is 3
+4 is 2 * 2
+5 is 5
+
+Step 2: Put it together.
+
+How many 3s will you need? You will need ONE 3.
+How many 2s will you need? You will need TWO 2s.
+How many 5s will you need? You will need ONE 5.
+
+A = n * n * n
+B = n * n * m 
+
+The LCM of A and B is xn * n * n * m.
+
+How many n's will you need? A needs 3 and B needs 2. The winner is THREE n's.
+How many m's will you need? A needs 0 and B needs 1. The winner is ONE m.
+
+
+A + B equals 8 and A/B equals ${calc(1/7)}. What does A equal?
+
+First, we know that A and B add up to 8. That means the possibilities are going to be:
+4 and 4
+3 and 5
+2 and 6
+1 and 7
+
+Going through each possibility the only one that matches ${calc(1/7)} will be 1/7. xThat means A equals 1 or A = 7.
+
+
+10% of 20 equals x2. You can think of the % sign as meaning "divide by 100." That means we have 10 div 100 * 20. The two zeroes on the top, will cancel with the 2 zeroes on the bottom. So the answer is just 2.
+
+Variable items.
+
+
+
+
+
+Instead of writing 10 * 10 * 10, you can write 10^3. 
+Instead of writing n * n * n * n, you can write xn^4.
+
+Instead of writing 60000, you can write x6 * 10^5. 
+
+0.02 * 0.04 * x = 640. What could x be? Before doing anything, forget about the zeroes, and forget about the decimals. Just look at the numbers. We have 2, 4, and 64. And it's all multiplication. that means the x has to have a 8 in it because 2 * 4 * 8 will give you 64.snsnThat means the answer has to be 8 or 80 or 800 or 8,000 or 80,000, or 800,000. 
+
+0.02 is the same as x2/100. 
+0.002 is the same as x2/1000.
+
+Convert it into a fracton.
+
+It takes a really long time to write this big number: (don\'t read it) ${expand(10^10)}. Luckily, we have exponents. ${expand(10^10)} is the same thing as ${expand(10^10, String)}. How many 10s are there? 9 of them. It saves a lot of time and energy to just write 
+
+// the answer needs to follow 
+
+09-17-2021 approximations
+
+Math is kind of like cooking.
+No it's not.
+Okay you're right. It's not. But it kind of is.
+Can you explain more Kaylee?
+Of course I will Aaron.
+
+Basically, there are two types of cookers.
+The first type likes to follow step-by-step instructions.
+The second type doesn't really like to follow instructions. They just like to throw things in and go with their feelings.
+
+The first type thinks the second type is crazy.
+And the second type thinks the first type should be more free.
+
+Which one is better?
+It's hard to say.
+Everybody has a little bit of both types in them. But everyone probably also has a preference. 
+Neither is better. Both types have their merits.
+
+The same is true of math. 
+
+
+//You know how students always ask, "What is the point of math? When am I ever going to use it?"
+
+There are 3 secrets to becoming good at math.
+
+Secret #1 - Cat pictures. The secret to becoming good at anything is cat pictures.
+Secret #2 - Approximating fractions.
+Secret #3 - I'll tell you later.
+
+No Elina! Tell me now.
+
+You will have to find a young boy named Daniel. He is in 4th grade. And then you will have to ask his grandfather's grandfather's grandfather. That will be the third and final secret of becoming good at math.
+
+First, you must memorize the basic fractions. There is a list of 20 of them on the next page.
+1/1
+1/2
+1/3
+1/4
+1/5
+1/6
+1/7
+1/8
+1/9
+1/10
+2/5
+3/5
+5/6
+3/2
+5/2
+9/4
+
+These are the most fractions which most frequently show up in math.
+Convert each of them to decimals.
+17/77.
+
+Right away, when I look at 17/77, I kind of pretend it looks like 20/80.
+
+
+
+Well, you will use approximating fractions when you go to Costco.
+
+A 12 pack of Mama Ping's Oyster sauce for 9.99?
+Or a 15 pack of Lao Gan Ma for 15.99?
+
+Fraction approximation will help you solve this. 
+
+For example, if you've washed rice 1 million times, you probably don't need to measure it out anymore. You can just go with the feel.
+
+
+
+
+In math, 
+
+It is extremely useful.
+
+
+09-17-2021 fraction-approximations 
+
+Hello everyone. Every time we multiply by 10, we add a 0 to the number.
+
+That's what everyone says. But is there a way to prove it?
+
+Yes. Take a number. 
+
+I choose the number 6!
+
+Now add 6 to itself 10 times. Like this: 6 + 6 + 6 + 6 + 6 + 6 + 6 + 6 + 6 + 6.
+
+The answer comes out to 60, which is basically the same as adding a zero to the original 6.
+
+6 * 100 = x600. After all, if multiplying by 10 means add one zero, it follows that multiplying by 100 means adding two zeroes.
+
+6 * 10 * 100 * 1000 = x6000000 (pronounced 6 million). The pattern is to count up the zeroes and add them onto the end of the number. 
+
+Another way of thinking about it is that the we shift the decimal to the xRIGHT.
+
+What decimal?
+
+The decimal on the 6.
+
+But 6 doesn't have a decimal. 6 is just 6.
+
+Every number secretly has a decimal point. 6 is the same as 6.0.
+
+Which is the same as 6.00.
+
+It's kind of like saying "I have 6 dollars" or "I have 6 dollars and 0 cents." The cents represents the decimals.
+
+Basically, trailing decimal zeroes don't matter.
+
+Can you have 10 trailing zeroes?
+
+Like this? 6.0000000000000. Sure. It's the same as 6.
+
+What about like this? 6.0001.
+
+Nope. The idea of the trailing decimal zeroes means it MUST end with a zero. 6.0001 ends with a 1. 
+
+Guys, does anyone else feel like suddenly, math is all about decimals and fractions?
+
+@prev, Whole numbers are like apples. They are what everyone starts out with. 
+
+Another name for whole numbers is "counting numbers."
+
+Why is it called a counting number?
+
+Because you can count it on your fingers.
+
+Another name is integers.
+
+But be careful! You don't have negative fingers. That means whole numbers have to be NOT NEGATIVE.
+
+Integers on the other hand, can be positive or negative.
+
+So 5 is a whole number.
+
+5 is also an integer.
+
+But -5 is not a whole number because it's negative.
+
+But -5 is still an integer because integers can be positive or negative.
+
+Is zero an integer?
+
+Can you count zero fingers?
+
+Sure, by not holding any fingers up.
+
+That means yupsters. Zero is a whole number and also an integer.
+
+In 1st grade, the focus is on criss-cross apple sauce.
+
+In second grade, the focus is on addition and subtraction.
+
+In third grade, the focus is on multiplication.
+
+In fourth grade, the focus is on divison.
+
+In fifth grade, the focus is on fractions and decimals.
+
+In sixth grade, you start putting all of it together.
+
+Which brings us to a new type of number: The rational number.
+
+The rational number is the most frequent type of number to show up in 5th and 6th grade.
+
+It comes from the word "ratio" which basically means "fraction."
+
+Therefore, a rational number is essentially any number that can be written as a fraction.
+
+2/7 is a rational number.
+
+Certainly.
+
+2/6 is a rational number.
+
+Definitely.
+
+2/2 is a rational number.
+
+Absolutely.
+
+Wait a second. Isn't 2/2 ... just 1? And isn't 1 ... a whole number?
+
+Indeed it is @prev. Indeed it is. This might sound a little bit weird, but we just demonstrated that every whole number can actually also a rational number.
+
+How can that be possible!
+
+Because @prev, you can divide every single number by 1, and that will turn it into a fraction, which will turn it into a rational number. 
+
+Even 0?
+
+Yup. You can write 0/1 which equals 0 which is a fraction which therefore, is a rational number.
+
+Even 99?
+
+99 is the same as x99/1. It's a fraction. It's a rational number..
+
+So then everything is a rational number!
+
+Almost. There are 2 famous numbers that are considered irrational. Whenever you see "ir" infront of a word, it means NOT. Irrational means NOT rational which means you CAN'T write it as a fraction.
+
+The first famous irrational number is pi, also known as 3.141592653589793238462643383279502884... on and on forever in a random pattern.
+
+The second famous irrational number is e, also known as Euler's (his name is pronounced OILER) number, also known as 2.7182818284590452353602874713527... on and on forever in a random pattern.
+
+You can write 1/3 as 0.333333333333333333 on and on forever. Why isn't 1/3 irrational?
+
+The key is whether or not there is a pattern in the decimal. You can also write 1/7 forever like: 0.142857143142857143142857143... on and on forever, but just like 1/3, and just like 0.000000000, there is a repeating pattern in the decimal.
+
+If there is a repeating decimal, you will be able to make a fraction out of it.
+
+That is correct @prev. But for numbers like pi and e, there is no repeating decimal. There is no way to guess what the 1000th decimal, or the 1 millionth decimal will be. That's why they cannot be written as a fraction. 
+
+Hence, that's why they are termed as irrational.
+
+Are there any more irrational numbers besides pi and e?
+
+There are lots more.
+
+How many?
+
+Infinite!
+
+Infinite???? How is that possible? How will I memorize all of the irrational numbers? It will take me infinite years! It will take me infinite pieces of paper to write all of them down!
+
+Don't worry @prev. The only 2 irrational numbers you need to memorize are pi and e. pi can be rounded to 3.14 and e can be rounded to 2.718. That's all you need.
+
+But if you really want to, there is an award for anyone who can memorize the first 100 digits of pi. 
+
+What kind of award?
+
+In the official math teacher's rulebook, there is a rule that says, "Any student who can memorize and recite the first 100 digits of pi will receive a large apple pie."
+
+Does that mean I can go to France, and recite the first 100 digits of pi to a French math teacher, and he or she will give me apple pie?
+
+It most certainly does @prev. But you will have to recite it in French.
+
+What if I go to Japan?
+
+Yes. But you will have to recite it in Japanese.
+
+Goodbye everyone. I will be going to Austria for some delicious Austrian apple pie!
+
+Goodbye @prev, and have fun!
+
+
+09-18-2021 othermish
+There is a HUGE point. Math is all about patterns. Currently the pattern is: Every time you multiply by 10, you shift a zero to the RIGHT.
+
+If you multiply by 1000, you shift 3 zeroes to the right.
+
+Exactly.
+
+Any pattern you can do in one direction, 
+
+Means you can do the pattern in the reverse direction.
+
+Instead of multiplying by 10,
+
+We can also divide by 10.
+
+Instead of shifting to the RIGHT,
+
+We would shift to the LEFT.
+
+What is 6 div 10? The answer is x0.6. We shift LEFT once. #6 arr 0.6
+
+What is 6 div 100? The answer is x0.06. We shift LEFT twice. #6 arr 0.06
+
+What is 6 div 1000000 The answer is x0.000006. We shift LEFT 6 times.
+
+Guys, I've noticed an interesting pattern. Look at each divisor, and look at each answer. The number of zeroes in the divisor tells you how many decimal places there are in the answer.
+
+Holy smokes @prev! You're right. 10 has 1 zero. The answer has 1 decimal place. 1000000 has 6 zeroes. The answer has 6 decimal places.
+
+
+
+
+09-17-2021 build-warmup
+
+1.75=175÷100=7/4
+title = convert each fraction into a decimal or a number
+date = true
+label = warmup
+container = MathContainer
+consumable = mathstring(...mathstringdict.frac)
+options = {marginBottom: 12, left: 40, right: 400}
+
+
+09-17-2021 quiz
+
+squareroots
+cuberoots 
+exponents
+
+$explain(exponents)
+
+09-20-2021 organization
+
+overflow folder
+
+
+
+perhaps i need paper clips for each of the assignments.
+ate breakfast really late today
+uncomfortable dandruff today
+killed a coachroach type insect and then just left it on the window sill instead of disposing of it readily
+my clothes doesnt feel very good. do i need to buy a new sweater?
+worksheets should not be printed on back to back. They have a feeling of completion to them, once one of them is finished, students often don't want to do the rest.
+you don't really have to review the homework exactly when it occurs. the key is to aggregate the wrong problems, and review them when it happens. 
+the goal for this week is to make a fractions worksheet
+the goal for october 20th is to finish the website
+
+stop eating dinner in your room
+take shorter showers
+new pairs of slippers
+
+Every teacher or coach has their own "way." Sometimes students will like "the way." Other times, students won't. Is my way correct? Dunno. All I can say is that it is correct for me. 
+
+I definitely don't think one person's way is right for everyone. 
+
+At the end of the day, the person who writes the story of your life is you. 
+a warmup is necessary to get the brain oriented for math
+i kind of need a paper cutter, clothing hangers, paper clips
+i need to waste less paper. that means print less homework.
+i need better homework organization schemes
+i need a way to track who is doing homework
+i need to give homework that is at a more consistent difficulty level. sometimes it's too easy, sometimes it's too hard
+i need to wear socks
+i need to take shorter showers by having a preset song. the song should be connected via my computer.i need to be very careful when transporting this computer because shit could break at any moment
+i nd a better system of managing functions and files
+it was wrong to send alan that youtube video ONCE and even TWICE.
+alan is a kid who needs validation. he has a comfortable cocoon and he wants to stay in it. 
+alan would enjoy well written SAT notes. everyone would.
+i have to start
+the key to this outdoor learning program is to have stable writing surfaces. you kind of have to solve this problem, before you can expand. Maybe a medley of clipboards? 
+the parents do not seem to have any complaints yet, which means that i can do it 'my way.'
+susur lee achieved greatness with the magnification of his name. it is his name which rocks on top of evthg. but isnt there kind of a cost to that
+when tattoos cover the whole of your body, what does that meanqm does it become a type of armor?
+i cannot repeat my mistakes
+i nd to make an online learning platform
+when the AC is on too think, 
+
+Maylynn evolved as someone who grew up around an environment of higher money. We are as much a product of our genes, as the environment and economic conditions given to us. 
+there is something about humble which engenders liking. It begets popularity.
+the way of Chinese people centers around safety and money and practicality. This is not the way of every Chinese person, but it is the way of the majority.
+Fresh ingredients, fruits and vegetables, and sauces, nuts, herbs. That's what really makes food pop. We know fresh when we see it. We immediatley can sense it, for food, for anything.
+it's correct to use this portable keyboard for typing up these notes
+i nd 2 consolidate evthg that im typing at the end of the month. 
+i nd 2 only play 1 game of chess if that is even possible
+im not that good at socializing when playing basketball, however, my play does kind of speak for itself. it's just the social element which im not good at
+stock up on frozen tilipia and the wheat food.
+breakfast and lunch should be super fast ordeals. dinner should be a good meal.
+every night, go to the park, especially now that winter is coming, it is necessary to work out.
+the way i teach should be sustainable even after students graduate elementary or middle school. you can deal a type of education which is long lasting.
+playing 5 v 5 is not a good idea. playing 4 v 4 is not a good idea. With this many players, the best game is knock out. You basically have to reduce the number of shooters to 2. 
+for the most part, i give the notes on paper. but sometimes, they have to see the demonstration, and in those cases, you should use the board. 
+    anything that happens once, happens twice, and anything that happens twice, can be established as a pattern.
+i am starting to realize that the chinese 
+a new ahjie of 4618
+when looking for a place to live, the criteria is basically hard wood floors, clean common area, and that's it.
+
+
+9AM to 3PM - Math and English
+
+1000 dollars
+
+Every day
+
+
+xu ge.
+man ba.
+dj
+
+It's a consistent group of guys who play together, and that is valuable in my opinion. You don't see something like that every day. We're an older bunch of guys. And we're all familiar. Losing isn't 
+
+Bingo winners
+
+Kaylee's Bingo Numbers. Prime Time Bingo.
+Chop the board up into pieces. Have the pieces preset. The questions ready and prepared. 
+
+Math Teacher and English Teacher. 
+Hiring Talented English Teacher. The female touch.
+
+The way of Ahdong is way different from my way. But his way is necessary too. My way is too soft. That is its primary disadvantage.
+maybe it is correct to give half sheets of paper. Maybe it should even be vertical. Maybe they should be apired to the partner half.
+Lynn needs super customized problems. Basically, the students aren't really able to learn within the context of a group. 
+The students didn't want to compete and compare with each other.
+Kaylee forgets her homework, but I don't think it's on purpose. She has some form of ADHD. 
+Just like with Young and the older students, 
+
+We all live in the same house. We all ... 
+
+6 or 7 of families all live inside the same house. They don't have very much space. 
+math conversions can be done via mathjs. the library and everything already exists so its not like its something that should be recreated.
+
+Much of the elements, aren't that important to me. They can play outside and enjoy each other's company. 
+
+even if you have only been introduced to 2 irrational numbers, "e" and "pi", explain why there are infinite irrational numbers.
+
+
+
+09-20-2021 oldnotes
+
+im not sleeping enough
+i wrote 'no story' but this is actually not true. the key is to write a story which the students are able to engage with. 
+It's not true that i need to give less homework. i need to give consistent homework.
+it is correct to not poke for money. when money is paid, it should feel like a great deal. You should feel satisfied by the deal that you get. 
+
+
+
+teaching
+taking breaks is very important. at the same time, the break has to be earned. Kaylee said, when I said that we're taking a break, "But we haven't even done anything." 
+
+
+Good morning everyone.
+
+That's exactly why I did it everyone.
+
+
+Kaylee used SPECIAL TECHNIQUE: Secret-Teaching-No-jutsu. It was super effective.
+
+And why do you do that Elina?
+Because it's the Kaylee method.
+Great job Elina. Here is a sticker.
+
+I only have one sticker.
+You can have my sticker aaron. It's the most important sticker in the world. But I'll give it to you.
+The true purpose of math is to earn gold stickers.
+
+
+There are 360 degrees anytime you go all the way around in a circle. If you only go halfway around, that means you've only traveled 180 degrees. What is the degree measure from 6PM on a clock to 9PM?
+
+You can draw a line from the center of a circle to the perimeter of the circle. This line is called the radius. There is a special fact about the radius. It's always going to be the same. 
+
+Soon, there is going to need to be a transition into geometry, circles, and triangles. But I don't have time for it right now. It requires a shape API.
+
+Evaluation of functions is something that nerdamer should excel at.
+why am i so sleepy today, and why arent i getting anything doneqm it's possibly tied to the food that im eating. it's possibly tied to the messiness of my room.
+
+what Chinese people fear more than anything else, is the element of being taken advantage of. by default, our systems do not take care of each other. allay this fear, and many things will happen better.
+
+do not ever go into the bottom cathedral. 
+As you have started to hit the bottom, 
+
+There is no money without status. But there is awe. There is a feeling of special. Of excellence.
+
+To be tied to me, to have to rely on me
+I didn't want to play the games of New York. I didn't want to play the games of money.
+
+A way to teach which will work.s
+the thing about food is that it is beautiful, and the beauty, can come about semi effortlessly.
+
+Quote from The Way of the Warrior.
+
+ant I will never be able to eat the cheese.
+mouse Why not?
+
+ant Because I try... and then I fail. Why should this time be any different?
+
+What if you win?
+
+And get my hopes up?
+Try the cheese.
+Nibble.
+Nibble.
+But the cheese is too big.
+Nothing different.
+I will lose again.
+I can never defeat the cheese.
+Worst feeling.
+
+
+
+What you can do,
+What you can't do,
+
+The person who chooses, 
+is you!
+
+Past defeats can be painful,
+Past defeats can be memorable.
+
+The person who decides, 
+is you!
+
+Dreams can be words,
+Dreams can become action.
+
+The person who writes your story, 
+is you!
+
+
+Same action. Same result.
+So do some
+
+
+Mrs. Ping and Mr. Ping loved making dumplings. For them, the answer was dumplings. But what was the question? Well, the question didn't matter. Because the answer to everything was delicious dumplings.
+
+The first step is to make the dumpling wrapper. Mrs. Ping likes to use a ratio of 2 parts flour to 1 part water. Basically this means, if she uses 18 cups of flour, she will use x9 cups of water. No matter how much or how little you use, the ratio stays consistent.
+
+
+
+
+
+
+
+"Mrs. Ping!" cried a young boy named Jayden as he ran, panting, to the Ping's front porch. "Jack is feeling sad."
+
+
+
+"Why is Jack feeling sad?" asked Mr. Ping.
+
+Becauses he asked Lisa if she wanted to grab a bubble tea on the way home from school.
+
+And?
+
+And Lisa said she can't.
+
+Mr. Ping sat up in his arm chair. "Oh no!"
+
+His mind flashed back to 60 years ago, when he was a young man. He had asked a young lady named Jing if she would like to get some sweet ginger tofu. Unfortunately, Jing had said no.
+
+"Mrs. Ping, this is very important," said Mr. Ping urgently. "I know exactly how Jack feels."
+
+"Jayden, where is Jack now?" asked Mrs. Ping.
+
+"He's lying on the grass. 
+
+SECRET TECHNIQUE: SUPER DUMPLING
+
+KIYAAAH!
+
+Every 5 seconds, the tray would be filled with dumplings.
+
+The kids here, do not have feelings of stability. 
+
+The power of the dumpling.
+
+
+Eat a dumpling Jack.
+Yeah Jack, eat a dumpling.
+
+I don't want to eat a dumpling. I just want to sit here. 
+
+It was a delicious pork dumpling. 
+
+
+Mrs. Ping and Mr. Ping exchanged worried looks. Maomao was a very important cat. She protected the neighborhood from rats and spiders.
+
+"I haven't seen her in 3 days," said Jayden.
+
+"Mr. Ping!" said Mrs. Ping.
+
+"Say no more Mrs. Ping. Say no more!"  Mr Ping had grabbed his walking stick and was already speed walking to Fei Long Supermarket. Every problem, has a solution. Every question, has an answer. 
+
+
+But it doesn't make sense ... why the answer would be dumplings? Why is the answer dumplings lol.
+It means next month, I won't be eating the soup.
+
+The first step to delicious dumplings, is you need delicious ingredients. 
+
+No matter how much or how little you take, the ratio stays the same.
+
+
+
+
+ratio: RAY-SHE-O
+
+First, there are the words which sound exactly like how they're spelled. 
+
+
+
+good morning everyone.
+Good morning Ms. @prev.
+Today, we will learn,
+I'm hungry.
+@prev, are you hungry for beautiful mathematics, solving for x, and moving variables aroundqm
+@ no @prev, im hungry for five star dimsum pork dumplings.
+Everyone, your attention please. Today we will learn how to make five star dimsum pork dumplings.
+@prevteacher, are you secretly a dumpling master?
+No, but Mrs. Ping is.
+Who's Mrs. Ping?
+Mrs. and Mr. Ping run a dumpling house. Her pork dumplings are the greatest in all the land.
+Everyone please turn to the next page. We will read the Ping recipe for dumplings.
+
+Hello every body.
+(Make a grunting noise like an old man)
+My name is  Mrs. Ping.
+(Make a grunting noise like an old man)
+And this is my husband. Mr. Ping.
+The most important thing is to
+
+No! The most important thing is foundation. For tree, the foundation is tree root. For dumpling, is wrapper.
+
+The secret is 5 parts flour to 2 parts water. Make sure to follow this ratio. 
+
+Ratio. Fraction. Same thing. (grunt)
+What my husband means is you can do fraction too if you want. 5 part flour and 2 part water. That is 7 parts total. Denominator is 7. So flour is 5 out of 7 and water is 2 out of 7.
+
+Percent. Hyyyyuk.
+What my husband mean is ratio, fraction, percent, all same thing. Turn ratio to fraction.
+Turn fraction to percent with long divison. Forwards. Backwards. Can you go forwards? Then of course you can go backwards.
+
+Hyyyuk.
+
+Aiyyaaaa Mr. Ping. Can you speak some english instead of hyuk hyuk hyuk?
+
+Hyuk. Mix well for big party.
+
+Small party, 
+
+
+09-20-2021 mom rules
+conversations have to kind of have a focus, or they will drift into negativity. 
+
+
+
+for some reason, I don't really want to cook at 962. There is kind of a bad feeling towards it. 
+
+I will not live like a cockroach. I will not scurry around. 
+
+He doesn't really seem to care when you read the story wrong. What does he care about? 
+
+
+
+
+
+
+
+
+
+do not corrupt it with radicalization. 
+
+
+
+Words come and go like wind.
+
+
+
+
+
+
+I have a lot of experience. To use pre-generated.
+To be paid for it. To do online work. To send a resume out.
+
+09-20-2021 conversions
+
+
+the kids outside are very noisy and I knew this. i knew the sound of their shouting would annoy me, and yet I am still here. All annoying elements can be planned for. 
+today is monday and i basically didnt do anything.
+
+That advice that I can give, 
+
+money doesn't seem to impact the likes of Susur Lee. 
+
+
+One time, I was applying for teaching jobs. Some how, I got kind of lucky, and lots of people emailed me. I felt really confident because I had gotten a ton of replies. So I was a little bit cocky during the interviews.
+
+
+09-20-2021 dialogue
+
+gm ev1. This week is a special week.
+It is the week of Mid-Autumn Festival.
+Also known as the Mooncake Festival.
+Also known as it's time to eat some mooncake.
+Or frosted donuts with cream and jelly inside.
+@prev, are you allowed to eat donuts for the Mooncake festival?
+You can eat anything you like @prev.
+Can we eat ice cream?
+Of course.
+Can we make the ice cream?
+Don't you remember @prev? We tried making ice cream before, and didn't get very far. All we did was say that we would need a ratio of 2 parts cream to 1 part milk.
+This time, we will get a little closer.
+Because this time, we will add some sugar into our ratio as well.
+How much sugar do we need @prev?
+According to my research, the amount of sugar you add is half of how much milk you have.
+So if we have 1 cup of milk, 
+We will need half a cup of sugar.
+We can rewrite the ratio as 2 parts cream to 1 part milk to 0.5 parts sugar.
+Let's write an equivalent ratio, but this time, without any decimals. 
+Are you allowed to do that?
+You are! Ratios are basically another way of expressing fractions. Just like you can turn 1/2 into the equivalent fraction 2/4, you can perform a similar action with ratios.
+For the ratio of 2 cream to 1 milk to 0.5 sugar, we can multiply everything by 2.
+Now we have 4 parts cream to 2 parts milk to 1 part sugar. It's the same ratio. 
+Is there a way to prove that it's the same ratio?
+Yes @sir. We can turn the ratio into fraction. 4 parts cream, 2 parts milk, and 1 part sugar, if we add up all the parts, we will have 7 parts in total.
+The fraction of cream will be 4/7 or 0.5714 as a decimal.
+For milk, it will be 2/7 or 0.2857.
+And for sugar, 1/7 or 0.1428.
+Now let's do it for the original ratio: 2 parts cream, 1 part milk, 0.5 sugar.
+The denominator will be to add up all the parts, giving us 3.5.
+For cream, 2/3.5 is the same as 4/7.
+Milk is 1/3.5 which is the same as 2/7.
+And 0.5/3.5 is equivalent to 1/7. Just times the top and bottom by 2.
+We have proved that the original ratio and new ratio.
+Guys, does this basically mean ratios are just fractions?
+
+Pretty much. Although, there are three types of questions that are extremely popular when doing ratios. 
+The first type you've already seen. "Ms. Evangeline's potatoes can be cut into 80 slices for french fries. If Ms. Michelle has 5 of Evangeline's delicious potatoes, how many french fries can she make?"
+This question is secretly a ratio question. The ratio is 1 potato to 80 fries. 5 potatoes means 400 fries.
+In 6th grade and 7th grade, this type of question will get a little harder because ratios can combine together.
+Combine together?
+Like this: 1A = 2B and 4B = 10C and 10C = 15D and 60D = 10E. 4A equals how many E?
+
+At its heart, although it looks much different, this question is exactly the same as potato to french fries, except with many more steps.
+
+First, we turn the A's into B's.
+1A = 2B. We have 4A. Following the ratio, 4A is equal to 8B.
+Now turn the B's into C's.
+Following the ratio of 4B to 10C, 8B will be 20C.
+Continuing on, 20C will equal 30D.
+For D and E, 60D = 10E.
+But we don't have 60D.
+We only have half.
+So cut everything in half. 60D to 10E is the same as 30D to 5E. 
+We have 30D.
+The final answer we end up with 5E.
+
+The second popular type of ratio question is called proportions. It goes something like this:
+
+An ice cream recipe needs 2 cups of cream for every 1 cup of milk. How many cups of cream are needed if Ms. Elina uses 8 cups of milk?
+You need twice as much cream as milk. So 16 cups of cream?
+That's exactly correct @prev.
+
+
+But usually, the question will have another step. You might have to convert cups to ounces.
+How do you do that?
+There are 8 ounces in 1 cup.
+Since we have 16 cups of cream, would the answer be 8 * 16 = 128 ounces of cream?
+That's perfect.
+
+Everyone, this is great, but we still haven't made any ice cream.
+But we added sugar!
+We moved one inch closer!
+After all, the journey of a thousand miles begins with a single step.
+Um @prev, how many inches are there in a mile?
+The ratio of inches to feet is 1 to 12.
+And the ratio of feet to miles is 5280 to 1.
+Using these ratios, we can say that 1 mile equals 5280 * 12 = 63360 inches.
+Since we have 1000 miles, multiply 63360 inches * 1000 to get 63360000 inches.
+We've already taken one step!
+That means we only have to take $display(63360000 - 1) more steps.
+Great job everyone!
+
+09-22-2021 other
+
+The peacefulness of the teacher or the strength of the teacher is conveyed to the students. Can't like the guy too much. 
+
+The angles of a triangle will always add up to 180 degrees. The angle measures in triangle ABC are in a ratio of 1 to 2 to 3. What is the angle measure of the smallest angle?
+
+The angles in triangle DEF are in a ratio of 1:1:1. What is the angle measure of the largest angle?
+
+Aaron has a strip of licorice, 1 feet long. He gives some to his friend Danny. The length ratio of his strip to Danny's strip is 6:4. How many inches long is Danny's strip of licorice?
+
+Letter paper is the most commonly used printer paper in the USA. It measures 8.5 inches by 11 inches. Alternatively, it is also measured as 612points by 792points. How many points equals 1 inch?
+
+A general language parser ... is kind of hard to build. 
+
+
+
+
+Small passport cards that can be cut into 2 pieces. 
+
+The third and final
+
+The ratio of boys to girls in Mr. Alvin's fourth grade class is 2 to 3. How many 
+
+
+
+Guys, we again didn't make any delicious strawberry ice cream.
+But we moved one inch closer.
+The journey of a thousand miles begins with a single step.
+Um. No @prev. The journey of a thousand miles begins with an airplane.
+
+
+
+Combo, like pineapple and ham pizza?
+
+
+Proportion questions.
+
+We took one step closer today.
+
+The students will forget everything that they learned. Their lives put on hold. What do they do? What are the parents doing? 
+
+A child who came out of you. 
+
+
+You got it @prev.
+
+
+The ability to read. Yupsters. 
+
+
+The word "part" often shows up when dealing with measurement ratios. Basically the idea is the "part" can be anything as long as the ratio is preserved. 
+If you use 10 cups of cream, then you would want to use 5 cups of milk. 
+If you use 18 cups of cream, you would need 9 cups of milk. 
+For this example, the "part" refers to "cup."
+
+I need a way to introduce the story.
+
+
+Mrs. Ping's dumpling recipe says that one serving is 8 dumplings and that 2 cups of cream makes 1 serving.
+We are going to make 160 dumplings in total.
+Using the ratio of 8 dumplings = 1 serving and 1 serving = 2 cups of flower, that means we will need 40 cups of flour.
+How did you calculate that @prev?
+It's because from 8 to 160, we multiply by 20. Which means we will need 20 servings. And since 1 serving is 20 cups of flour, we 
+Why is it called ratios? It seems like all we're doing is multiplication.
+Quite often, a lot of the calculations you do with ratios are just just like multiplications.
+Sometimes however, you'll be asked to do a conversion between a decimal, ratio, fraction, or percentage. This is the bread and butter of 6th grade.
+Um. Excuse me @prev. Please put the bread and butter away. We're making dumplings.
+
+
+
+
+Yes, but don't you remember? The only way we're going to eat ice cream is if we make it ourselves.
+But that's impossible!
+@prev, I think you just need a little motivation.
+@prev, are you going to give me a cat picture?
+Something better than a cat picture.
+That's impossible. What could be better than a cat picture?
+why a picture of a cat eating ice cream.
+Of course! How did I not think of that!
+(shows everyone a picture of Pusheen eating ice cream)
+Guys it's time to make ice cream.
+First we have to call @everyone.
+Um @prev, I'm right here.
+Great.
+
+To never ... do it. 
+
+Give ice-cream.
+
+
+nihaoO
+
+
+
+
+
+
+we will learn how to make dumplings.
+The first step is the most important step. It is the foundation for dumpling making.
+The first step is to invite @everyone to the dumpling party because teamwork is dreamwork!
+But @prev, we're all already here.
+That's a great observation @prev. Everyone, the first step is a success!
+The second step is to prepare the dough. You will want to use 2 parts flour to 1 part water and mix it thoroughly.
+@prev, what do you mean by part?
+"Part" is a word that frequently shows up when dealing with measurement ratios. Basically the idea isthe "part" can be anything as long as the ratio is preserved. If you use 10 cups of flour, then you would want to use 5 cups of water. If you use 18 cups of flour, you would need  x9 cups of water. For this example, the "part" refers to "cup."
+Mrs. Ping's dumpling recipe says that one serving is 8 dumplings and that 2 cups of flour makes 1 serving.
+We are going to make 160 dumplings in total.
+Using the ratio of 8 dumplings = 1 serving and 1 serving = 2 cups of flower, that means we will need 40 cups of flour.
+How did you calculate that @prev?
+It's because from 8 to 160, we multiply by 20. Which means we will need 20 servings. And since 1 serving is 20 cups of flour, we 
+Why is it called ratios? It seems like all we're doing is multiplication.
+Quite often, a lot of the calculations you do with ratios are just just like multiplications.
+Sometimes however, you'll be asked to do a conversion between a decimal, ratio, fraction, or percentage. This is the bread and butter of 6th grade.
+Um. Excuse me @prev. Please put the bread and butter away. We're making dumplings.
+
+We prepare the filling.
+
+Fresh Napa cabbage.
+Oh yes!
+pork belly and 
+Oh yes!
+Is that your secret ingredient? 
+Spring onion and chives.
+
+We want 2/3s of the filling to be meat so that with every mouthful, 
+
+Which is the same as saying we want 66.66% of the filling to be meat.
+
+The bar means it repeats forever. 
+Why are there so many different ways of saying? Sometimes it's useful
+
+
+
+For example, you could say the greeting the classical way: Hi Kaylee.
+Or you can say, Howdy Howdy KayDizzle!
+Or you can say Hola Kaykay.
+
+Although they all mean the same thing, Depending on the situation you're in, one greeting might be better than a different greeting. The same is true of decimals, percents, fractions, and ratios. 
+
+The ratio of boys to girls is 5 to 10. That means there are 15 students in the class.
+
+To play and win with honor, or to not even play at all.
+
+
+
+Good morning everyone. Today is a very special day.
+
+
+Giving gifts 
+
+Yes, the way I do it is different. 
+
+Happy Mid-Autumn Festival!
+
+End of Summer
+Mid-Autumn Festival
+Christmas
+Lunar New Year
+4th of July
+Halloween
+Every holiday is an important chance to celebrate something. It is what I would do for a wealthy school. So I should do it for this school too. It has to be done. Might not have mooncake, but we can still have something. Something to make it feel special. 
+
+Online homework. 
+Where you just do it yourself.
+
+Mid-Autumn Festival. To not really care that mmuch about certain details. But to care very deeply, about other details. He never said anything. Even for the friends, 
+
+The mom may be scared to say something. Want some math homework? They won't do it. They won't fight for the phenotype of their children for whatever reason. It has to do with face and 
+
+The feeling of a class togetherness. He wants a chair. Mom, can I join the math program? Teaching at the elementary school. The face is more important than everything else. 
+
+Michelle was always cheerful. I can't go beyond my 
+
+It might rain. Dress warmly because you don't know what is going to happen. I would have to buy the treats that morning. The kids are the ones who have to attend these public schools. 
+
+This week Moon Festival. 
+Maybe will rain. 
+huwai buxiban wan zhang
+Nothing there except for the essentials.
+
+
+
+You have to enjoy the process so much that the negative aspects aren't as painful. 
+
+Just enough to survive. But not more. Volunteer work is not. 
+
+Mooncakes and dumplings.
+
+It is a holiday celebrated in ... he's going to bring it. 
+
+I already ate it. And then it ends. Food is truly life.  
+
+To have something which others do not have. It is worth it. Cinco de Mayo. The food has to match the schedule. 
+
+To pay homage to the holidays which appear. To consistently create a fun story to read. This is important to me.
+
+They have trouble listening, but they have no trouble doing things on their own. Last class, I didn't ask for a single explanation and I didn't write anything on the board. Everything worked okay.
+
+
+It's really hard to perfectly explain why 1 + 1 equals 2. Most of the time, math teachers will say something like, "well... 1 apple and 1 apple is 2 apples. That's why 1 + 1 equals 2." To perfectly explain why 1 + 1 equals 2 it's much more complicated than this. You can go to the library and checkout  a 300 page college math textbook called "Principia Mathematica." The whole book is about why 1 + 1 equals 2.
+
+A lot of math is like this. Have you ever wondered why long division works? It's really hard to explain. Most of the time, teachers say something like, "just do it" or "follow the pattern."
+
+We're now about to learn another one of these weird things. The big question is WHY does this work? Don't worry. Just do it. It will make sense later.
+
+The rule is called KEEP-FLIP-MULTIPLY, or KFM.
+
+Step 1. Keep the first fraction.
+Step 2. Flip the second fraction.
+Step 3. Multiply.
+
+Keep-flip-multiply is used for dividing fractions.
+
+What is 3/8 div 5/7?
+
+Flip the second fraction. Instead of 5/7, we now have 7/5. 
+
+Fun fact: Flipping a fraction is the same thing as "taking its reciprocal." (REE-SIHHH-PRIHH-COL) The reciprocal of 5/7 is 7/5 and the reciprocal of 7/5 is 5/7.
+
+Finally we multiply.
+
+3/8 * 7/5 = 21/40.
+
+So the answer to 3/8 div 5/7 is 21/40.
+
+What is 9/2 div 9/2? 
+
+1. Keep the first fraction.
+2. Flip the second fraction.
+3. Multiply
+
+9/2 * 2/9 = 18/18 = 1
+
+This answer of 1 should make sense because a very important rule is that ANYTHING div ANYTHING, if it is the SAME thing, will always equal 1. 6 div 6 = 1. 923 div 923 = 1. xdiv x = 1. y div y = 1. Therefore, of course 9/2 div 9/2 will also have to equal 1.
+
+
+3/7 div 7 = 
+
+You can change the 7 into 7/1 and do it as normal. 
+
+
+
+
+The most important thing to remember is that every fraction division problem is actually secretly a multiplication problem. 
+
+KEEP-FLIP-MULTIPLY has other names. Sometimes it's called "flip and multiply." Sometimes it's called "KEEP-CHANGE-FLIP." 
+
+
+General advice for multiplying and dividing fractions
+
+
+A mixed number is when you have a whole number combined with a fraction. Something like this: 3 and 4/7. Whenever you are multiply
+
+
+Write it in. 
+
+Sixth grade is a big turning point in math. You start learning more and more interesting math topics. You might like, AAaaaaaaAaaah! My brain is going to explode. Don't worry. You're doing just fine. It is a wonderful feeling. It is the feeling of growing smarter and smarter!
+
+
+To give unexpected gifts. 
+
+
+
+It's still too hard. I already ate it. Without thinking twice, it was just random luck to start with, but it ends up being better and better. 
+
+
+
+300 dumplings. 
+
+The ratio of meat to vegetable for our filling will be 2 to 1.
+
+For example, if meat to vegie is 2 to 1, that means in total, we have 3 parts. The part that represents meat will be 2 out of 3 which is 2/3.
+
+
+
+Kloe is making a triple decker sandwich. A healthy breakfast starts with orange juice. The words will create the story. 
+
+
+
+ 09-21-2021 radicals
+ sqrt 32x2
+ a3sqrta3
+ sqrtg / 4sqrt4g
+ cbrt27y3 / sqrt9y2
+ sqrta2b t sqrtab2 / sqrtab
+
+
+
+09-21-2021 notes
+it is not a good idea to do presentations because most of the students would not enjoy it
+
+09-21-2021 accidents
+pt uw 92909 $30 + $25 latefee = $55
+pt uw 121409 $38 * 2 = $76 bc I didnt move my car after the initial ticket. I was fined twice.
+Parking accident at Campus View Car Garage 52310 $250
+pt uw 52710 20 + $28 late fee = $48
+lost apartment deposit 60110 $300
+Car Accident where I hit pedestrian on scooter 51910 Paid fee for no insurance among other things, I cannot remember
+Van wheel accident at Everett Mall 070110 $500. Somehow, I had been driving home from dad's optometry place and I completely messed up by turning on to the curb.
+lost wallet 100110
+pt uw 100410 $30
+pt uw 100810 $42
+car towed 102010 $110 Russel Wong helped me out by driving me to the tow place. I had asked a few lambdas and none of them had wanted to help. Finally, Russel did. He mentioned something about that's what brothers are for.
+lost glasses case 102010
+car accident on the freeway when i was texting. Lots of damage to my car. 110710
+lost wallet 120610. My husky card had 25 dollars on it. Luckily, it was returned by a stranger.
+van broke down 1200610
+lost husky card 010711 luckily, it was returned
+stop signdn
+stop sign parking ticket 031611 $65
+speeding ticket seattle $65
+run red light at orca st 101111 $124 reduced to $80
+parking ticket seattle 100111 $2 reduced to $25
+lost wallet 101411 lost 20 dollars from husky card
+parking ticket uw 100211 $50 reduced to $15
+lost phone 110111 the phone was replaced free of charge but the contract was extended by 2 years at an estimated 40 * 24 dollars
+overdue library book 111011 $3
+overdue studyroom fee odegaard 110311 $4
+flat tire south-seattle 123011 $110  drove over glass
+ima late fee uw 01112012 $6
+missed bussdn
+missed buss dn
+missed buss in morning 02242012
+parked at handicap parking 05052012 $450 reduced to $200. This was to buy a subway sandwich and a cupe of water... Please learn from this. Most expensive sandwich I ever bought.
+
+09-21-2021 olnotes 06272018
+threw bread away
+left chicken out over night
+bagels rotted
+my phone keeps dying
+delayed email message at Duy Nguyen
+delayed business exchange at Kenshin for d2jsp drawing
+Bought Chinese food on 8th ave which never feels too good to eat
+let whiteboard get rained on
+had an egotistical exchange with mrli. lied about having written more than 300 pages of a workbook. lied about saying I had thousands and thousands of pages of materials. i misrepresented my work. I used "if" as an aloof threat.
+I do a mutter-laugh, after I say something awkward or if I'm looking for a response.
+Forgot to message Duy twice in the morning
+1.80$ late fee from McKinley Library
+My frying wok was destroyed by water by letting it soak for too long.
+I sent Mr. Ashur an email, out of left field. It wasn't that good.
+
+09-21-2021 oldnotes undated
+the best athletes and performers have a way of going to the next level, after a defeat.
+i dont trust yapei, although i greatly enjoy her company
+i found an audience at last
+what will you do with the pain that youve inherited? As the universe goes, so too do we go. Some days it rains, but rain is necessary too
+i am a npc with a spark
+ny tries to make you hard, but my writing never becomes hard. i wont let that happen. or my interior
+i like patrice lumumba
+the healing of personal pain comes from helping others
+disrespect invites disrespect
+i want to teach studnets who have self-initiative
+the movies we like subconsciously tell us who we are
+my Ni needs time to submerge and process information
+my words, sometimes, have no force behidn them. They are full of air
+If you do not know when you will die, you must enjoy the moments, each and every one.
+the more choices there are, without a plan or guideline, the more time it takes to make a decision
+invest in people.
+Hire people who are young and hungry. Do not hire on skin color or familiarity.
+consistency is key. define the style early and thoroughly and maintain it through every page
+everything should be made as simple as possible, but not simpler. - albert einstein
+simplicity is lean and efficient
+everyone has a limit to the amount of effort they can exert. This is not something to judge. It is simply something that is.
+a robust system can handle mistakes
+a robust system can allow everyone to grow strong
+i am a very patient person. - alejandro
+human beings can feel when someone else is for them. Animals too.
+American education seems to focus a lot on emotional development while asian education emphasizes logical development.
+Ni projects into the future, but if the root data is flawed, the projection will be false. As a result, you usually cannot project as far as you thnk you can.
+ni organizes discrete information into patterns. The information is aggregated from every direction. Inconsistencies usually turn out to be falsehoods, which may be why Ni types are often sensitive to truth and lies.
+when i feel bad, it might be bc im trying to force smth to work
+i might never make a lot of money
+chaos and structure should interleave with each other like strands of gluten inside of dough
+the harder you have to work for it, the more you will appreciate it
+sometimes in life, we meet a beautiful stranger, and it is a wonderful feeling
+do not employ "mean" admission requirements
+students in ny are viewed as assets
+i dont feel comfortable celebrating myself or saying my name??
+a lot of what I want to teach the kids is just "to try."
+i dont have credentials, but i do have quality
+as we grow older, truths start to distort. Truth sometimes has to be sacrificed. 
+Status and credentials are used as mechanisms of gatekeeping. 
+without rules, i am done for. absly done for. rules will guide me forward. evtime i brk the rules, I came undone.
+
+09-21-2021 051618 oldrules
+wake at 7am
+sleep at midnight
+no electronics
+eat fish on sundays
+call mom, maylynn, dad, equally. equal communication
+do one task at a time
+    a clean room leads to a clean mind
+
+    be around people
+    do not show favoritism
+        do not impinge on the reality of others
+            only do serious writing on the computer
+            put your emotions into your work
+            keep words and instructions to a minimum when teaching
+            do not be the friend of students. only be the teacher??
+                no halal food
+                set fierce boundaries
+                everyone gets 1 or 3 chances
+                put the group first
+                avoid self-referencing
+                fulfill your commitments and your words
+                be a faithful employee when working for others. do things by the book
+                you do not have to be cold and you do not have to hide your feelings. you only have to be firm.
+                does a dog need a leash?
+                feelings are compass
+                just do your job. - yijie
+                dont save anyone. save yourself
+                talk to christina nguyen less. she is getting married
+                do not be sarcastic around students
+                    friendships have to be equal. relationships have to be structured equally
+                    turn off the computer every 2 weeks?
+                    be upfront with people about your methodfs, but don't be blunt
+                    keep things to the point when teaching
+                    keep instructions pithy
+                    there are stakeholders, who you cannot see at play in basically every endeavor
+                    dont say you cant use the bathroom. say, please wait 5 minutes.
+                    students mimic implicity. so write neatly, speak softly, and do things with quality
+                    brush your teeth twice at night, once after eating, and once before bed
+                    clean up the clutter and put things in their proper places
+                    imbue actions with energy
+                    go forth! and take action!
+                    if, should, could, would, appreciate, hope, however, pheraps, maybe, are, supposed, are banned words?
+                        support future generations. dont discriminate. evone and evthg is tied together.
+                        never single students out.
+                        never make generalizations about a class's behavior
+                        never make judgments that a person has zero control over
+                        when you apollogize, you have to understand what you're apologizing for
+                        do not place expectations on others, unless you can give them the tools and opportunities to meet those expectations
+                            never relinquish your energy
+                            give unambiguous, and doable instructions
+                            cook vegetables as soon as you buy them
+                            eat out once a month
+                            listen to other people's advice
+                            take compliments gracefully
+                            you cannot tell people how they should interact with you
+                            dont say, 'let me know how it goes'
+                            never threaten or give ultimatums
+                            dont brag to andrei or self puff
+                            dont talk about tasks or accomplishments
+                            do not betray people. in a way, i betrayed Edward Antoine and mrli
+                                everyone has a different interpretation of how the world works. in our own way, we are each right
+                                no masturbation for rest of life. (well this one didnt age that well @2021)
+                                no excuses
+                                dont push your beliefs or opinions onto others
+                                dont use emotion when the situation requires straightforward logic
+                                dont push your choices or way onto others
+                                get past limiting beliefs
+                                never coerce extreme sacrifices from anyone
+                                wipe pee off of toliet after use
+                                wipe water off counter after use
+                                dont say the words easy or hard when teaching
+                                never steal pens
+                                never spring unexpected traps
+                                dont take advantage of people
+                                dont let people take advantage of you
+                                dont give unsolicited advice
+                                dont set childish rules
+                                the student tag is eternal. forever. it never dissolves.
+                                no anecdotes.
+                                students follow subconsciously the decrees that they are given, and if the person in charge, subconsciously projects that something is okay, that is what will be followed
+                                once a student is allowed in, their seat is permanent
+                                dont write sat english passages. although i can kind of do it, it isn't as inspired as the dialogues or stories that i write
+                                do not correct people, except in the role of explaining homework problems
+                                    dont fish for compliments
+                                    never help too much. the deeper function of a teacher is to inspire
+                                    dont raise your voice out of anger when teaching
+                                    dont talk about money with friends
+                                    remember people's names
+                                    dont say words which might impinge on a person's reality
+                                    tell stories when you teach
+                                    dont let people squash your flame
+                                    dont ask people for grunt favors
+                                    dont crash and burn by sacrificing too much of yourself for too little
+                                    dont keep planning things. take action1
+                                    neither door slam nor door fling
+                                    never use the word 'wa'
+                                    start every class with introductions. this is absolute
+                                    dont rub your eyes
+                                    if you make an offer, go through with the offer. for some things, no practice runs are allowed
+                                        never ask mom or dad for financial help
+                                        never ask friends or clients to do advertising for you
+                                        dont devalue other people's efforts
+                                        avoid personal comments to students
+                                        dont use your friends.
+                                        do not betray. wilson, carsen, jennifer, melia, anh, justin fishman, justinyan, elanah, steven fishman, smith school, edward antoine, anna huang, rebecca mannis, sue biggins, janie teller, lori bowers, topway
+                                            do not speak in accusatory tones
+                                                dont beg or grovel
+                                                dont write long text messages
+                                                double check published materials
+                                                dont speak your goals, ambitions, and dreams
+                                                dont micro-manage
+                                                never purchase online reviews
+                                                never randomly ask people for things
+                                                dont issue passive or subliminal if-threats
+                                                everytime, try to be better than the previous time
+                                                explode. burst. reveal who you are. pursue what you want. shikai begins today. i will stand as a teacher
+                                                dont write passages or notes or homeworks or stories which arent true
+                                                doublecheck your work
+                                                stick to one location. between 10 and 20 students is all you need. the busiest intersections aren't necessarily the best intersections. no matter how you advertise, don't solicit. don't give, unless asked.
+                                                take advantage of good weather. beautiful days are numbered
+                                                carve out core kevin
+                                                go whole hog on your endeavors. always
+                                                have a clean workspace
+                                                take the path that is right for you. this may be the prescribed path, or it may be a path that you create
+                                                dont ask for anything in return. it is unreliable. but do celebrate when it happens
+                                                take precautions. things can come crashing down at any moment
+                                                dont discard people
+                                                as an employee, you have to serve the win condition of the employer. as an employer, you have to serve the client, the students, and the customers
+                                                start from the beginning, and finish at the end.
+                                                the way that i want to teach  is chaos wrapped in structure
+                                                do things in advance
+                                                    my character class is guardian-protector
+                                                    there is no need to speak about background
+                                                    let other people shine. make plays and facilitate
+                                                    dont tell students to shake hands. just do it
+                                                    create special experiences
+                                                    never ask people to do vague tasks
+                                                    anything shared with one, must be shared with all
+                                                    do not simplify people into traits, functions, and archetypes. we hv the ability to surprise
+                                                        create joy through endeavors
+                                                        give challenges which dn
+                                                        give challenges which are on the cuff of doable
+                                                        appreciate the time that you get to spend with people (yapei)
+                                                        dont use shady tactics
+
+
+
+dont lose twice in a row
+flow with the flow of feedback
+one step at a time
+dont ask for lazy help
+dont bring anger into negotiations
+expand 1 on 1 help / tutoring so that it can serve lots of people
+people united grow strong together
+go outside when the sunshines
+dont abandon your possesions
+listen to your body and trust it. it will know things before you consciously do
+dont listen to music on computer too much because it can be distracting
+turn your lessons into a structured story
+never force things to work. there are always going to be alternate pathways. they might not be as quick or as smooth, but I have yet to see a path to the top of the mountain, where only one path works
+conform to the environment. to a certain degree, this is 100% necessary.
+one day: an outdoor classroom. 09-21-2021 - this has kind of come true
+when smth isnt working, evaluate it, and then make changes
+harness student power as a dn
+harness student participation as a motive force
+do what you can do
+    start endeavors with a solid foundation. the foundation determines evthg henceforth
+    dont be mean or restrictive in admission forms
+    what is given to one, must be given to all
+    nvr forget about loukas ever again 09-21-2021 i hv no idea what this is referring to
+    dont do half-mast handwaves, especially to students. exxpress greetings with strength
+    create things from scratch
+    apologize when u hv done smth wrong. if your heart is in it, if you know what you're apologizing for, if the apology will hurt a little, then make the apology
+    do not solicit advice from friends
+        as much as u can, make everything upfront and straight forward
+        0edge. it's also about teaching what it means to be a person. 
+        what you teach has to be useful to the system the students enhabit. usefulness is the most important criteria
+        no matter your money, status, or credentials, at the end of the day, the fundamental human desire is to connect with others
+        ni likes to see the big picture behind people. what is their aim? What is their purpose? the bad side of this means that ni simplifies complex individuals into abstract concepts. Sometimes, only seeing peopl as their outputs, and not as themselves. 
+        im not good at fi. this might be why i lk listening to music, especially love songs, as they can generate the feelings inside of me
+        if you're not caredn
+            0y come to believe
+            adult life is complicated because sometimes truth is subsumed
+            what we wear reflects who we are, and how we think. the external phenotype leads to the internal phenotype. appearances matter a lot. our behaviors are often tied to ur appearances.
+            0edge abdn
+            imrpove your customer service. 09-21-2021 im still not good at it
+            dont write flamboyant statements like, 'leetestprep does not serve money. we serve people.' this is completely unnecessary
+            everyone has the same complaints about me. i have a lot of stuff, and i take up a lot of space and resources
+            community service in america is smth you track, chart, and turn into a metric. a lot of the time, it doesnt feel real. true service needs to start from the top
+            i need to improve customer service. 09-21-2021 im still bad at it
+            always let people know things in advance
+            burned bridges have no recourse
+            clean up immediately. dont leave things hanging around.
+            things i want to do, and things i need to do. set proper priorities
+            dont askfriends about their life decisions. we each do what is right for us.
+            prepare salads in advance
+            dont be frustrated when others dont play by your rules. u r nodn
+            z dont set arbitrary rules in the middle of the game. i told the basketball players in the middle of the game, no double teams
+            step into your destiny with confident steps
+            dont show your writing to your friends. show your writing to the people they serve
+            homework needs to feel like smth which culminates the lesson
+            dont tell people you're low on money
+            z dont worry about yesterday. everyday is a new day. today you will do good!
+            z say what you feel. your words. your voice. your feelings.
+
+
+
+            09-21-2021 2015 old notes
+            dont be stingy with the little things
+            drink more water
+            open the portal to the pandemonium fortress
+            pride and ego is my great downfall. it's going to affect me this year at smith and cause karen to let me go
+            dont churn through credit cards for free 25$ rewards and a bunch of hassle
+            earn the righ to be yourself
+            put yourself in a position to get lucky
+            see it arr believe it arr act it
+            smart goals are specific, measurable, achieveable, realistic, timed
+            if you make yourself more than just a man, if you devote yourself to na ideal , you become smth else entirely. a legend, mr. wayne. - alfred
+                dont think or predict too much. channel ni productively
+
+                a man on fire, is how i wish my life to be. to burn of ember in an endless winter, and never let my flames surcease to ne
+                earn the right o be soft. forge your hardened steel. earn the right to be humle. experience victory. earn the right to chaos. imbibe structure. earn the right to roar. have a reason.
+                never forget who you are, and stay true to your ideals. that's the best way to play the game in my opinion
+                put everyone in their best position to succeed
+
+
+                        
+
+
+09-21-2021 current notes
+homework should be the culmination of a day's work. It should leave the student with a satisfied feeling
+
+09-21-2021 barrons 
+which number has the most factors
+when x is divided by 5, the quotient is 13 and the remainder is 4. find x
+if x is divisible by 3 and y is divisible by 4, then xy is divisible by all of the following except
+    if the sum of the factors of 18 is x and the sudn
+        the factors of 18 sum up to x. the prime numbers less than 18 sum up to y. what is the value of y - x
+        which number is divisible by 2 and by 3
+        all numbers divisible by 3 and 10 must also be divisible by 
+        x is an even number and y is an odd number. which of the following values is even [ y + 2, x - 1, (x + 1)(y - 1), y(y+2), x + y]
+        for how many different numbers isdn
+            105 / x has a remainder of zero. how many different numbers could x be
+
+            n is an odd integer. which expression below dn
+            n is an odd integer. which expression below is also odd [(2n-1)^2, n^2+2n+1, (n-1)^2, n+1 / 2, 3^n + 1]
+            if x is a multiple of 4, which of the following is also a multiple of 4 [2x - 3, x + 2, x + 100, x^2 - 1]
+                if x - 1 is a multiple of 4, what is the next multiple of 4 after k - 1 [genexpr, k + 3]
+                    when x is divided by 4, the remainder is 3. when x is divided by 3, the remainder of 0. x equals
+                    
+                    n is an dn
+                    n^2 + 5 is an odd number. which statement(s) must be true [n^2 - 1 is even, n is even, 5n is even]
+                    n is an even number. what is the remainder when (n + 1)^2 is divided by 4
+                    john, kayley, andn
+                    sa, sb, sc, and sd decide to purchase a gift for se. at the last minute however, sd and se have an argument. dn
+                    4 people are going to buy kaylee a gift. at the last minute, one of the buyers decides he doesn't want to anymore. As a result, each person now has to pay an additional 10 dollars. what is the cost of the gift
+                    what x is divided by 7, the remainder is 5. when b is divided by 7, the remainder is 4. what is the remainder when a + b is divided by 7
+                    how many integers from $a to $b are divisible by $c?
+                    When x is divided by $a, the remainder is $b. What is the remainder when $cy is divided by $d?
+
+                    ax + b
+                    |ax + b| + c
+                    a^x + b
+                    a^(x + b)
+                    -x^a + b
+                    x^a + b
+                    a * b^x
+                    a * b^(cx - d)
+                    a^dn
+                    x^a + x
+                    ax^2  + bx + c
+
+
+                    09-21-2021 notes
+                    you have to honor your words and commitments
+                    dont make the assignments forbiddingly hard. make the assignments accessible to what each student can achieve
+                    you can wrirte stories, as long as they're not too personal, and do not poke too closely at the student who is reading it
+
+                    09-21-2021 math from old sat
+
+                    a cell-phone plan charges customers 10 cents for the first 3 minutes of all, plus 5 additional cents for each extra minute. Which equation demonstrates the cost of a phone call  Sally calls Sara for a quarter of an hour. How much does her phone call cost?  Bob spends 20 dollars on a phone call to Sam. In total, how long were they on the phone?
+
+09-21-2021 student progress
+aaron kloe kaylee
+elina
+lynn 
+when starting a new unit, 
+there will always be students like lynn, students who are kind of perpetually behind, and who never really catch up. It is really hard. 
+
+09-21-2021 musings
+The way that I am doing it currently ... there are no quizzes or exams. And there certainly needs to be this stuff lol. 
+
+
+Do things in a direction which will work. Whether it's orthodox or not doesn't matter. What matters is that it works. 
+
+Not everyone is allowed to win because there are only so many players.
+
+
+As Chinese folks, we are influenced by the government which shaped us. China is a country of endless work. The national past time is work. But a transformation happened.
+
+That's how he plays. 
+
+Everything is an exam. 
+
+09-21-2021 Review Notes
+
+factors The ways to make 9 are 1 * 9 and 3 * 3. That means the factors for 9 are 1, 3, and 9. For 22, the possibilities are 1 * 22 and 2 * 11. That means the factors for 22 are 1, 2, 11, 22. How many factors do 9 and 22 have in common? They only have ONE factor in common: the number 1.
+
+prime-factors How many prime factors do 9 and 22 have in common? The only factors 9 and 22 share are 1. But 1 is not a prime number. Therefore, they have ZERO prime factors in common.
+
+decimal-multiplication What does 0.06 times 5 equal? 3 decimals on 0.011 means shift LEFT 3 times. 2 extra zeroes on the 1300 means shift RIGHT 2 times. That means the final answer, will shift LEFT once. 5 * 6 = 30. After shiffint left once, the answer is 0.3.
+
+lowest-common-multiple What is the smallest common multiple of 3 and 7? Because these numbers are small, you can list it out. 3, 6, 9, 12, 15, 18, 21, 24, 27 ... for 3. And, 7, 14, 21, 28, 35 ... for 7. The smallest common multiple occurs at 21. The answer is 21.
+
+unique The word "unique" and "distinct" means "different". The sum of the unique factors of 8 will be to get all the factors of 8 that are different from each other (1, 2, 4, 8) and then add them up.
+
+percents 20% of 30 = ? "of" means multiply. "%" means "percentage" which means divide by 100 which means shift the decimal to the left twice. We can rewrite the question as 0.2 * 30. The answer is 6.
+
+percents 20% of 20% of 20% of 20 = 0.2 * 0.2 * 0.2 * 0.2 * 20 = 32 with ONE right-shift and FOUR left-shifts to give a final answer of 0.032.
+
+percents 20% more than 30 = ? First find 20% of 30 which is 6. (See previous question) Since we want more than, add this number onto the 30.
+
+ratios-with-percents 40% of Aaron's tangerine dance class is boys. The rest are girls. What is the ratio of girls to boys? 40% means 4 out of 10. That means the ratio will be 4 to 6 for boys to girls, which means the ratio of girls to boys will be 6 to 4.
+
+prime-factorization It means break a number down into ONLY prime factors. The prime factorization of 8 is 2 * 2 * 2. You can't do 4 * 2 because 4 is not a prime number.
+
+conversions How many hours in 1 minute? 60 minutes is 1 hour. 59 minutes is 59/60 hours. 58 minutes is 58/60 hours. So in one minute, we have 1/60 hours. As a decimal: 0.166 hours.
+
+
+09-23-2021 random
+
+
+Announcements 2021 - 2022
+
+startdate
+@ref 09-23-2021 
+-1 victory bingo aaron elina kaylee
+-2 
+-3 bingo evangeline, kaylee, elina
+-4 bingo michelle
+-5 multiplication contest michelle 
+
+1 ice cream competition aaron elina kloe
+2 nothing
+3 cops and robbers tag 
+5 gummy bear competition hao xiang lucas daniel
+
+
+You never know. Like a 1% chance. 
+More like a 0.01% chance.
+Can percentages have decimals?
+Of course @prev. Anything that is a number can have a decimal point.
+
+That means there's a chance.
+Probability is the math word for "chance."
+@next, what is the probability of flipping a coin and getting heads?
+Since the possible choices are heads or tails, that means there are 2 choices for the denominator.
+Also known as the fraction 1/2.
+also known as the percentage 50%.
+Also known as the decimal 0.5.
+Also known as the ratio 1:1.
+
+For probability, you never write it as a ratio. 
+The most popular way to write it is as a percentage or as a fraction.
+Can I write the probability as a mixed number?
+It can never be a mixed number.
+A mixed number is something like 1 and 1/2. Or 2 and 2/3. Which would be equal to 150%.
+For probability, it doesn't make sense to have anything over 100% because the biggest chance of something happening is 100%.
+Can you have negative probabilities?
+
+Just like how 100% is the highest chance (meaning it will definitely happen), the lowest chance will be 0%, meaning it will not happen. For this reason, the answer is NO. You cannot have negative probabilities.
+Basically, a probability is a percentage from 0 to 100. Nothing higher, and nothing lower.
+
+What's the problem of rolling an even number when you roll a 6-sided dice?
+
+A 6-sided dice has the numbers 1-2-3-4-5-6 on each of its faces. 
+3 of the numbers are even.
+And there are 6 choices possible.
+The fraction is 3/6.
+Which can be simplified into 1/2.
+The probability is 1/2 or 50% or 0.5.
+
+What's the probability of rolling a prime number?
+
+09-23-2021
+I am doing a very bad job with Alan's tutoring.
+You cannot change the date of an event because of the weather. The weather will always be changing. Events need to be consistent
+My backpain was caused by sitting on an unstable chair.
+Carpel tunnel happens when the wrist is not properly supported. I started wearing a wrist-protector made out of a sock.
+Nothing is forever. Appreciate good moments when they happen.
+
+09-23-2021 
+Kids need breaks.
+No eating tialpia or other farmed fish
+Watermelons can give a thump, but the interals may still be mushy
+No flimsy constructions
+I have moved away from the idea of a "challenge" program. No adjectives. The program is called Brooklyn Learning.
+
+25% of the fruits are apples. The rest are oranges. Write a ratio for oranges to apples.
+
+09-26-2021 Multiplying with zeros and decimals
+
+Step 1. Ignore the zeros and decimals and do the simple multiplication.
+Step 2. Put the zeroes and decimals back in.
+
+If you have 5 zeros, that means you shift RIGHT 5 times.   (3400000)
+if you have 3 decimals, that means you shift LEFT 3 times. (0.123)
+
+Example 1: 0.9 * 0.009 
+
+First do 9 * 9 = 81
+Second, in total, there are 4 decimal places. Shift LEFT 4 times.
+
+Start: 81
+Shift 1: 8.1
+Shift 2: 0.81
+Shift 3: 0.081
+Shift 4: 0.0081 
+
+Example 2: 0.9 * 600
+
+First do 9 * 6 = 54
+Second, there are 2 extra zeros. Shift RIGHT twice. There is 1 decimal place. Shift LEFT once.
+
+Start: 54
+Shift right 1: 540
+Shift right 2: 5400
+Shift left 1: 540
+
+Example 3: 0.01 * 0.2 * 3000
+
+First, do 1 * 2 * 3 = 6
+Second, There are 3 extra zeroes. Shift RIGHT 3 times. There are 3 decimal places in total. Shift LEFT 3 times. 
+
+Start: 6
+Shift right 1: 60
+Shift right 2: 600
+Shift right 3: 6000
+Shift left 1: 600
+Shift left 2: 60
+Shift left 3: 6
+
+Tip: If you have the same number of extra zeros and decimals, they will cancel each other out.
+
+09-30-2021 !Removing Decimals from Fractions
+
+Example 1: 1/0.1 has a decimal place in the bottom. Multiply the top and bottom by 10 because there is 1 decimal place.
+
+Example 2: 0.23/0.00000009
+
+There are 8 decimal places in the denominator. There are 2 decimal places in the numerator. The winner is 8. Multiply the top and bottom with 8 zeroes. 
+
+8 zeroes means "times 100,000,000".
+
+The denominator's 8 decimal places will cancel with the 8 zeroes. We will be left with the number 9.
+
+For the numerator, if we are multiplying by 8 zeroes, that means we shift RIGHT 8 times.
+
+Current: 0.23
+1 shift: 2.3  
+2 shift: 23
+3 shift: 230
+4 shift: 2300
+5 shift: 23000
+6 shift: 230000
+7 shift: 2300000
+8 shift: 23000000
+
+The answer is 23000000/9.
+
+
+break
+
+${toString(iterate(10, (i) => stepbounded(randomfractiondecimal, i)()))}
+
+
+
+09-26-2021 Making Numbers with Multiplication
+
+Example 1: Make 6. We can do 1 * 6 or 2 * 3.
+Example 2: Make 7. Only 1 way to do it: 1 * 7.
+Example 3: Make 8. 1 * 8 or 2 * 4.
+
+List all the possible ways to make:
+
+${toString(range(51,60).map(x => x + ' ' + 'answerbox'.repeat(getfactorpairs(x))))}
+
+
+09-26-2021 Factors of a number
+
+The factors of 6 are 1, 6, 2, 3 because 1 * 6 = 6 and 2 * 3 = 6.
+The factors of 7 are 1, 7 because 1 * 7.
+
+Write down the numbers from 1 to 100 that only have 2 factors.
+
+
+A prime number is a number that only has two factors. The two factors cannot be the same number.
+How many prime numbers are there from 1 to 100?
+
+
+"sum" means add it up.
+"distinct" means "unique" or "different"
+"integers" means positive or negative whole numbers. They can be represented as "x", "y", "z" or "a", "b", "c" or any letter that you like.
+
+english: The sum of 5, 6, and one-fourth of 3 more than x is 5 more than the sum of 3 distinct integers.
+translation: 5 + 6 + (1/4 * (x + 3)) = (a + b + c) + 5
+
+
+
+10-16-2021 dialogue notes Translating from English to Math Expressions
+
+5 minus 3 is x. We can translate this english phrase into the math expression: 5 - 3 = x.
+
+5 less than 3 is x. This can be translated into "3 - 5 = x." It's reversed.
+
+5 plus 3 is x.
+5 + 3 = x.
+
+5 more than 3 is x.
+3 + 5 = x.
+Again, it's reversed. The pattern is anytime the sentence has a "than" in it, you kind of write it backwards. "Backwards" means the number you say first, goes after the second number, instead of going before it.
+
+Notes:
+"Of" means multiply. (6 * 3)
+"Product" means multiply. (6 * 3)
+"Times" means multiply. (6 * 3)
+"Is" means equals.
+"Sum" means add it all up. (2 + 3 + 4 + 5)
+"Difference" means subtract. (6 - 3)
+"Fraction" means divide. (6 / 3)
+"Ratio" (pronounced RAY-SHE-O) means divide. (6 / 3)
+"Quotient" (pronounced KWO-SHENT) means divide. (6 / 3)
+'%" (pronounced percent) can just be written as '%'. You can also write it as "/100." For example, 35% can be written as 35%. Or, it can be written as 35/100.
+
+
+The english sentence is: The sum of 20% of x and 5 more than y is z.
+The math translation is: (20% * x) + (y + 5) = z
+
+
+The english sentence is: One-third of one-sixth of one-ninth of x is 10% of 50.
+The math translation is: 1/3 * 1/6 * 1/9 * x = 10% * 50
+
+10% more than 5 is x.
+First, 10% more than 5 means: 5 + (10% * 5). 
+Second, put it together: 5 + (10% * 5) = x
+
+
+10% less than 5 is x.
+First, 10% less than 5 means: 5 - (10% * 5)
+Second, Put it together: 5 - (10% * 5) = x
+
+10% less than x is 10% more than y.
+First, 10% less than x means: x - (10% * x)
+Second, 10% more than y means: y + (10% * y)
+Finally, put it together: x - (10% * x) = y + (10% * y)
+
+a% of b is c% more than d
+First, a% of b means: a% * b
+Second, c% more than d means: d + (c% * d)
+Lastly, put it together: a% * b = d + (c% * d)
+
+
+One-third times more than two-fifth of 20 is 3 times as much as x.
+This one has a few things going on. Let's start backwards. 
+1. 3 times as much as x. That means 3 * x or 3x.
+2. 2/5 of 20. That's just 2/5 * 20.
+3. 1/3 times more than the stuff that we just did. The stuff that we just did is (2/5 * 20). 1/3 times more than it means we multiply it by 1/3, and add it on to the original. That means: (2/5 * 20) + ((2/5 * 20) * 1/3).
+4. Finally, set it equal to each other. The final answer is (2/5 * 20) + ((2/5 * 20) * 1/3).
+
+
+Tips for solving for x: When the equation is 2x - 3 = 5, first move the 3 to the other side. Next, to get x by itself, divide by 2. What if instead your equation is x/2 - 3 = 5?
+First, do the exact same thing. Move the 3 to the other side. Now we to get rid of "divided by 2." When the equation was "2x", which is the same thing as "2 * x" or "2 times x", the way we "undo" the times 2 is dividing by 2. 
+This time we want to "undo" or "cancel out" the divided by 2. So we multiply by 2. The basic summary is, do the opposite. To undo addition, do subtraction. To undo subtraction, do addition. To undo multiplication, do division, and to undo division, do multiplication.
+
+
+10-15-2021 math translations problems
+
+The product of a and b is c.
+Subtracting 7 from 8 is 10 more than b.
+5 more than 5 less than 5 is x.
+x times 4 is 3 times y.
+7 less than the product of 5 and x equals 6.
+8 more than 7 less than x equals y.
+z times 6 equals the ratio of a and b.
+14 divided by x equals the quotient of 25% of 50 and 35% of 60.
+The sum of a, b, and c equals the difference of half of x and one-third of y.
+N less than the sum of 20% of C and 30% less than D.
+The ratio of a and b is 5 less than the ratio of c and d.
+50% more than X is 60% less than Y.
+50% more than one-third of X is 60% less than one-fourth of Y.
+50% more than one-third of one more than X is 60% less than one-fourth of 2 less than Y.
+The quotient of 75 and 25% of X is 7 more than the quotient of Y and 25% of Y.
+
+
+
+10-15-2021 old math facts
+
+A positive number is any number bigger than 0. 0.1 is a positive number. 0.0000001 is a positive number.
+
+Zero is neither positive nor negative.
+
+
+Explanations littered throughout the process.
+
+
+To move everything from the very start. I will need to get the money if I decide to do the moving today.
+
+
+
+A person whom I instantly dislike or am suspicious of. Ask about it. When the situation comes.
+The students cannot work together meaningfully. This has been dictated by the environment which they grew up in. It is not spoken, but it is implicitly forbidden. It is against the path of least resistance. The amount of comparisions I am able to see, 
+
+It doesn't matter if the feelings are good. The Chinese ways is that anything can shatter at any moment. 
+
+To make a living any way which is possible. That is what this is. To survive. Survival trumps everything. Quality in the USA for services has become a joke.
+The way of Michael Jordan wasn't necessary. Perhaps it fits the era. But present eras have evolved into a softer formation. Not necessarily weaker, simply softer.
+There is a way to make money such that everyone is happy.
+To secretly teach many things, under the guise of mathematics.
+Finding the center of gravity.
+
+When I teach math, I usually try not to hammer anything. When something doesn't make sense, you don't have to get it right away. You can keep coming back to it. You can change the numbers, and make the pieces fit neatly. In 6th grade, all of the numbers can be nice. Nice-ish.
+
+Rounding and estimating.
+
+There are some topics that  Lynn and Danny did not learn yet. We have two options.
+
+Option A. The teacher teaches the topic again for 15 minutes.
+
+Option B. Students give a presentation on the topic. Example: How to do 25% more than 60.
+
+Mutual Help is not part of our culture. Help for the ingroup is part of our culture. 
+
+
+You can do 5 times 17 with a trick. <-- the hook is with a trick.
+
+This feels like a lot of extra work.
+
+Does this trick work with bigger numbers?
+
+Learning strange constructions.
+
+Pay the money as it has been stipulated. We will see how much it costs. The electricity bill was exorbitantly increased the past year.
+
+There will be ways to do it later.
+
+
+
+
+
+
+1000 millimeters in 1 meter.
+1000 milligrams in 1 xgram.
+
+1000 meters in 1 kilometer.
+1000 grams in 1 xkilogram.
+
+How many milligrams in 1 kilogram?
+How many millimeters in half of a kilometer?
+
+Ratios can kind of be interpreted in two different ways. 
+
+The approach for 
+
+The kids are kids. 
+"Can you write us another story..."
+The key to a story, is to incorporate the details that are relevant in the context of that specific placement.
+
+
+Warmup. To have already seen the question.
+Dragged into a game which you cannot win. Make the phone call. Yes, it should perhaps be today. While there is still light out. Although, I still kind of need to cook?
+
+
+Move it out and away.
+The functions.
+
+09-30-2021 dialogue
+Good morning everyone. To divide fractions just remember KFC.
+
+Kentucky Fried Chicken?
+
+Yes @prev. That is the secret to dividing fractions.
+
+@back This is the most important thing I've learned all month!
+
+Wait until you learn this: KFC's new signature sandwich is a mouth-watering premium double-breaded extra crispy chicken breast filet. It's exquisite!
+
+Um... To solve 3/4 div 7/9 =
+
+First, take a bite of your KEEP-FLIP-CHANGE crispy chicken sandwich, and say, "Mmmmmmmmmmmmm. Delicious!"
+
+Secondly, after you've kept the first fraction by doing nothing to it, flip the second fraction, and change the divide sign to a multiply sign. Now multiply the fractions together.
+
+Thirdly, keep eating your sandwich. You're done!
+
+Woot woot!
+
+Important Tip 1: Sometimes the fraction, might not be a fraction. It might be something like "3" or "x" or z" or "7". You can just turn it into a fraction by dividing by 1. For example, 3 = 3/1.
+
+Important Tip 2: You don't always have to multiply everything out. If there is a 234 on the top and a 234 on the bottom, they will just cancel out because 234/234 = 1.
+
+Importrant Tip 3: When there are multiple fractions, like 2/3 div 3/4 div 4/5, do it one piece at a time. First do 2/3 div 3/4. After you get the answer, do the answer div 4/5.
+
+Important Tip 4: Sometimes, if the question doesn't have any numbers in it, you might get an answer like (a * a) / (b * b). This is correct. You can also write it with exponents: a^2 / b^2. Both ways of writing it are correct.
+
+Important Tip 5: Don't forget to simplify. If the answer is (a * a) / a, you can simplify the answer to a because 1 pair of the a's will cancel out. If the answer is (a * a * b * b) / (a * a * b * b), you can simply the answer to 1 because everything will cancel out.
+
+10-04-2021 overflow
+
+
+
+
+Solving Decimal Questions with subtraction
+Everything has to be below the doable threshold
+We have so much homework
+
+im not really serving the aspect. 
+bonus +1
+bonus +2
+bonus +3
+
+HOMEWORK COMPLETE: 2^3 is pronounced "2 to the 3" and it means 2 * 2 * 2. 
+
+Solve
+Find x
+
+2^3 + 3^3 = ?
+
+3^2 + 4^2 = x^2
+
+
+//Doesn't say any scores.
+//It's what they had to face at home.
+//
+//Please save your F's and D's for important things.
+//
+//Using it for a small thing takes away it's power.
+//Save it for the big things.
+//
+//Guys, I cannot come on Sunday because I have to go to the airport.
+//I am not surprised. But I am a little disappointed.
+
+
+
+
+
+10-07-2021 notes
+
+What do you see when you see when you look at the number 20%? I see 20%. I also, at the same time, see 0.2. I also see 20/100. I also see 1/5. It is useful to see a thing multiple ways when doing math. When I look at the number 8, of course, I see the number 8. But at the same time, I see 2 * 2 * 2, and I also see 2^3. 
+
+When I see the number 5, I also see 2 + 3 and 1 + 4. When I look at 5x, I see 1x + 4x and 2x + 3x. After many many years of teaching math, of doing the same thing over and over, I have just started to see these things.
+
+When I see the number 1024, I instantly see 2 times itself 10 times, also known as 2^10. Is it because I am a super big brain math person? Of course not. Teach something 20 times. I bet you will remember it too. 
+
+Sometimes I look at a student's homework, and it takes me 1 second to know if the answer is right or wrong. Is it because I am a super big brain math guy? Of course not. It is because I see the patterns. When you do something over and over again, you will always see the patterns.
+
+The question might be something like 28349 * x * 23123 = 238019238102 and the student writes x = 0. Well I don't even need to think about it. There's no way x is zero because anything times zero equals zero and the right side of the equation is certainly not zero.
+
+Or the question is something like 23423 * 287 = ? And the student writes 438232. But I just know that can't be the answer. The first digit of 23423 is 3 and the first digit of 287 is 7. 3 * 7 is 21. That means the first digit of the answer has to start with a 1.
+
+Students like to spend their time on:
+
+"This question is sooooooooooooooooooooooooooooooo easy."
+"Is Bob better than me??? Is me better than Bob???????? Ahhhhhhhh~~~~~~"
+"Me got the answer right. That means I'm big brain oh yeah oh yeah!"
+"Me can't do the question. That means I'm not big brain. Merp merp."
+
+My recommendation:
+
+Also spend some time collecting math patterns.
+The more math patterns you have in your brain, the faster you will see the answer. 
+
+
+10-07-2021 Formulas
+
+D = RT is a well-known formula that says: Distance = Rate * Time. 
+
+Rate means how fast you're doing something. A turtle has a pretty slow movement rate. A sports car has a super fast movement rate. A shorter of way of saying movement rate, is to say "speed" or "velocity." We will use the word speed.
+
+When you are given a formula, the goal is to solve for the missing variable.
+
+
+
+
+
+At Kaylee's donut farm, she picks 20 donuts from the donut tree every minute. How many donuts does Kaylee pick in 10 minutes?
+
+You might look at this question and say, "Can we use D = RT? Where's the distance?" For this question, you can think of the total number of donuts picked as being the distance.
+
+There is another version of D = RT called A = RT where A stands for "total amount." However, because most of these questions always talk about distance, the popular version is to use D = RT.
+
+20 apples per minute is the rate
+10 minutes is the time
+Plug these numbers into the equation: D = 10 * 20. 
+Solve for the final variable D. 
+The answer is 200.
+
+At Elina's icecream factory, she makes 50 icecreams every hour. In one day, her factory makes 400 icecreams. How many hours was Elina's factory open?
+
+50 icecreams per hour is the rate
+Total amount of icecreams is 400
+Plug these numbers into the equation: 400 = 50 * T
+The missing variable is T. The answer is T = 8 hours.
+
+Vroom vroom! Vroom vroom! Lynn is bicycling around town for 3 hours. She travels a distance of 6 miles. What is her bicycling speed in miles per hour?
+
+Time is 3 hours
+Distance is 6
+6 = R * 3
+Answer: R = 2
+
+
+
+
+
+
+
+10-07-2021 Number Ranges #sequencePreIntroduction
+
+How many numbers are there from 1 to 10
+First, subtract the endpoints. 10 - 1 = 9.
+Second, add 1. 
+The answer is 9 + 1 = 10.
+Check your answer by counting on your fingers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 is indeed 10 numbers.
+
+An even number is 0, 2, 4, 6, 8, 10 and so on. An odd number is 1, 3, 5, 7, et cetera. Basically, if you can divide a number by 2 without a remainder or a decimal, then it's going to be an even number.
+
+How many even numbers are there from 1 to 10?
+First, count up the numbers. There are 10 numbers.
+Now, divide it in two because even and odd are split in half.
+The answer is 5 even numbers from 1 to 10.
+
+How many even numbers are there from 5 to 13?
+(13 - 5) + 1 = 9.
+Cut 9 in half and we get 4.5.
+Look at the starting number. Is it even? Then the answer will be 4.5 rounded up.
+Our starting number is odd. We round our answer down.
+Final answer: There are 4 even numbers from 5 to 13.
+Proof: 5, [6], 7, [8], 9, [10], 11, [12], 13
+
+The word "inclusive" means you include the endpoints.
+How many numbers are there from 1 to 10?
+There are 10 numbers.
+How many numbers are there from 1 to 10 inclusive?
+There are 10 numbers.
+The word inclusive doesn't really change anything.
+
+The word "exclusive" means you exclude the endpoints.
+How many numbers are there from 1 to 10?
+There are 10 numbers.
+How many numbers are there from 1 to 10 exclusive?
+You have to exclude the endpoints. 
+The final answer is 10 - 2 = 8 numbers.
+Proof: 2,3,4,5,6,7,8,9 is 8 numbers in total.
+
+
+Practice Questions
+
+How many numbers are there from 2 to 100 exclusive?
+How many odd numbers are there from 234 to 283?
+What fraction of numbers from 117 to 182 are even?
+What is the ratio of even to odd numbers from 81 to 93?
+What percentage of numbers from 1123 to 1129 are odd?
+
+
+10-07-2021 Algebraic I - Distribution 
+6 * (3 + 2) = ?
+First we do, 3 + 2 which is 5. The answer is 5 * 6 equals 30.
+There is another way we can do this problem: Also known as distribution.
+
+The word "distribute" means "to share."
+
+Share the 6 with the 3.
+6 * 3 = 18
+
+Now share the 6 with the 2.
+6 * 2 = 12.
+
+Now add it up.
+12 + 18 = 30. (We get the same answer)
+
+a * (b + c) = ?
+
+First, share the a with the b.
+a * b = ab
+
+Now share the a with the c.
+a * c = ac
+
+The final answer is a * (b + c) = ab + ac
+
+2(3 + 5) = ?
+
+Sometimes, there is no multiplication sign between a number and a parentheses. That means there is an invisible multiplication sign.
+
+The answer is (2 * 3) + (2 * 5) = 6 + 10 = 16
+
+For this question, 2(3 + 5), distribution isn't necessary. You can just do 3 + 5 and then multiply that by 2. The power of distribution shows up when you need to solve for x.
+
+2(x + 3) = 10
+
+Step 1: Distribute.
+2(x + 3) = 2x + 6
+
+2x + 6 = 10
+Subtract the 6 to the other side.
+And then divide by 2.
+Answer: x = 2
+
+Find x: 2(x + 1) + 3(x + 2) + 4(x + 5) = 37
+
+Flatten everything out by distributing.
+2x + 2 + 3x + 6 + 4x + 20 = 37
+Combine the x's together. Combine the normal numbers together.
+9x + 28 = 37
+Subtract the 28 to the other side.
+And then divide by 9.
+Answer: x = 1
+
+Every week you need to learn something new.
+Something that pushes the boundary forward.
+
+
+Combine the x's together.
+
+
+10-07-2021 Algebraic II - Adding and subtracting 1
+
+283 - 234 can be made much simpler if we add 1, and then subtract 1.
+Adding 1, and then subtracting 1, is the same as adding 0 which you are allowed to do.
+283 + 1 - 234 - 1 = ?
+284 - 234 = 50
+50 - 1 = 49
+
+We can do this type of algebraic manipulation for multiplication too.
+
+199 * 3 = ... let's change 199 by adding 1, and subtracting 1.
+
+(199 + 1 - 1) * 3 = 
+(200 - 1) * 3
+
+200 * 3 = 600
+1 * 3 = 3
+
+600 - 3 = 597. 
+
+Student says: "I think doing it like this is dumb. It's much easier to just do it the normal way."
+Teacher response: "Do it this way for this assignment."
+
+You must show your work for this assignment.
+
+
+
+
+
+10-08-2021 story
+
+
+Find the pattern
+
+1 * 1 = 
+11 * 11 =
+111 * 111 = 
+1111 * 1111 = 
+11111 * 11111 = 
+111111111 * 111111111 = 
+
+
+Mr. Ping was the custodian at Meadowmere Elementary. Every morning, he woke up at 5AM, grabbed his big ring of silver school keys, kissed Mrs. Ping on the cheek, and headed to school. There was always a lot to do before school. The halls had to be mopped sparkly clean, trashcans replaced with new garbae bags. The auditorium had to be prepared for lunch time, and of course, he had to prepare classroom 101.
+
+It happened two weeks ago. A group of children had approached him and asked:
+
+"You need a classroom?" Mr. Chin rubbed his chin. "In the mornings?"
+
+"Yes", said Tommy, a fifth grade grader.
+"We most certainly do," said Alice.
+"Or else, we'll fail!" squeaked little Lisa, a first grader.
+"That's why we need Christine to teach us."
+"That's why we need a classroom."
+
+
+Oh, I'm not a big math person." Mr. Ping held up his mop. "I'm good at mopping."
+
+
+The most delicious dumplings in the world. 
+
+His dream was to open up the best dumpling shop in the world.
+
+All of his handcrafted dumplings.
+
+A fourth grader.
+
+Lunch time was 
+
+Soy sauce, black vinegar, seseme oil, a little bit of sweet sirracha, and a touch of oyster sauce.
+
+What's going on over there, barked X. 
+
+Four dumplings for a dollar. There 
+
+just a slice of life of the interesting things which happen at the school. 
+
+School Lunch
+
+What happens next in the story? Writi
+
+Ah. Well I'm not so good with numbers.
+
+
+Like ir, or not like it? It looks like an english passage, but it is math class. 
+They have short term memories, which at the same time, explode into long term. 
+
+
+Danny's story. 2 hours to write, maybe 5 hours to write, and it can be read in 10 minutes. 
+
+Parents set the expectations. Next, society sets the expectations. Sometimes, the two sets of expectations willl overlap.
+
+
+Maybe it never happens again.
+
+
+Do fractions scare you Mr. Ping? To hide the learning
+
+Well our teacher doesn't teach us anything.
+
+A prime number is prime.
+
+10-08-2021 review
+
+solving-for-x For expressions that have lots of parts, like "3x - 2 + 6 + 4 = 4x + 2", combine the x's together, and combine the numbers together. This will simplify the above expression into 3x + 8 = 4x + 2.
+
+solving-for-x When you have x's on both sides of the equation, put the x's all on one side, and put all of the numbers onto the other side. 3x + 8 = 4x - 2. Move the 2 to the left side by adding 2. Move the 3x to the right side by subtracting 3x. We now end up with 10 = 1x. x equals 10.
+
+porkchops The key to cooking delicious pork chops is letting the meat soak in a honey-glazed marinating sauce with a small sprinkling of spice. The marination process is magical! The same is true for math. Let difficult questions marinate in your mind and like magic, it will slowly start to make sense.
+
+ratios 1 hour = 3600 seconds. How many hours are in one second? Look. 1 hour. Is. 3600 seconds. But we only want it for one second. So take the 3600, and divide it by 3600 because 3600/3600 = 1. But you can't just divide one side. If we divide the right side by 3600, that means we have to divide the left side by 3600 too. The left side is "1 hour." Divide it by 3600 and we get "1/3600 hours".
+
+prime a number is prime if ONLY two different numbers can multiply to make it. 1 is not prime because 1 * 1. We need two different numbers, but 1 and 1 are the same number. 6 is not prime because 1 * 6 and 2 * 3 gives us 4 possible numbers. A prime number can only have 2. 7 is a prime number because only 1 * 7 equals 7. There are no other possibilities.
+
+sum-of-prime-factors First, write out all of the factors. Second, circle the factors that are prime numbers. Third, add up the prime factors.
+
+1 6x + 3x + 5x + 2 = 7x + 37
+2 How many minutes are in 25 seconds?
+3 What is the sum of the prime factors of 120?
+
+
+10-09-2021 9th grade
+
+1. General Quadratic
+
+f(x) = x^2 - 8x - 9200
+
+Find the domain.
+Find the range.
+Find the y-intercept.
+Find the x-intercepts using the quadratic formula.
+Find the x-intercepts by factoring.
+Find the vertex.
+Find the axis of symmetry.
+What regions of x is the function increasing?
+What regions of x is the function decreasing?
+
+2. Quadratic Conversion
+
+Convert y = x^2 + 6x + 7 into the form y = a(x-h)^2 + k
+Convert y = (x-3)^2 + 6 into the form y = ax^2 + bx + c
+
+10-09-2021 announcement
+Instead of saying, "teacher" when you need something, say "I have a question" or "excuse me."
+When there are questions on the homework you don't know, it is because I forgot to teach it during class. 
+
+10-09-2021 assignment
+
+
+What fraction of numbers from 11 to 29 exclusive are a multiple of three and a multiple of 4?
+What ratio of numbers from 1123 to 1129 are even?
+What is the ratio of odd numbers to even numbers from 1123 to 1129?
+
+
+10-10-2021 handout reading nope
+So We can type over here and it seems to be pretty stable.aaaaaaaa It's been a while since I've used a computer on t
+
+Cooking the onions later.
+
+Somehow the
+Reading is magic. 
+It is the secret to learning everything.
+
+When you read outloud, read with a professional attitude.
+How will you read when you are 20 years old?
+How will you read when you are a young woman or a young man?  
+How will you read when you are practicing for an important interview?
+
+Read like that. 
+Because it is the secret to learning.
+
+
+Maybe one of your classmates will:
+
+Laugh at you when you read.
+Laugh at you because you don't know how to pronounce a word.
+Laugh at you because you have an accent.
+Interrupt you and start talking to someone else.
+Interrupt you by giggling and whispering to someone else.
+Interrupt you by tapping their pen or pencil to get you to read faster.
+Say, "Why are you reading so slow?"
+Say, "Can you please read faster?"
+Say, "You're wasting time by reading so slowly."
+Say, "Cmon. I'm waiting. Hurry up."
+Say, "Hurry up, hurry up. You're reading too slow."
+Say, "Why are you trying so hard?"
+Say, "Why are you doing what the teacher wants you to do?"
+Say, "Why are you trying to be so cool?"
+Say, "Why are you trying to show off?"
+Say, "Wow, you're such a good reader" in a sarcastic voice.
+Say, "I bet you practice reading every day" in a sarcastic voice.
+Say, "Cmon bro. Take it easy. Just do it whatever."
+Say, "Haha. You don't even know how to read."
+
+@centerbox
+Ignore the haters.
+Focus on you.
+
+
+Reading Tips:
+
+Pronounce each word clearly.
+Read in your own voice. There are 8.3 billion people on earth. Only one person has your voice: you.
+
+
+
+
+
+
+When solving for x, there are a few common strategies. The most useful strategy is put all the x's on one side, and put all the numbers onto the other side. But there are other useful strategies too. One of these strategies is: "Try to get rid of decimals and fractions."
+
+Consider this equation: 2x + 0.1 = 0.5x.
+
+It's not very fun because there are decimals. Let's multiply everything by 10.
+
+
+left-side:
+2x * 10 is 20x.
+0.1 * 10 is 1.
+
+Right-side:
+0.5x * 10 is 5.
+
+We are allowed to do this because we did it to everything. We did it to the left side. We did it to the right side. Essentially, just like you can multiply a fraction by 10 on top and 10 on bottom to create an equivalent fraction, you can create an equivalent equation in the exact same way.
+
+Our new equation is 20x + 1 = 5. This is so much nicer!
+
+How did I know to multiply by everything by 10? It's because I looked at all the decimals and saw that the biggest decimal place is 1 decimal place.
+
+2x - 0.0001 = 0.5x
+
+For this equation, the biggest decimal place is no longer 1 place decimal place. It's 4 decimal places. To cancel this out, I will need 4 extra zeroes, which means I will multiply everything by 10000.
+
+2x * 10000 is 20000x.
+0.0001 * 10000 cancels to 1.
+0.5x * 10000 is 1 left-shift and 4 right-shifts to give 5000x.
+
+The equivalent equation is: 20000x - 1 = 5000x. 
+
+Move 5000x to the left side.
+Move 1 to the right side.
+The final answer is x = 1/15000
+
+
+Let's do the same thing, this time with fractional equation. Kepp in mind the goal: Remove decimals and remove fractions by changing the equation into an equivalent "nicer" equation.
+
+2x/3 = 6
+
+The left side has a denominator of 3. That is the same thing as saying, "currently, the left side is being divided by 3." How do you cancel out divided by 3? You multiply by 3. Let's multiply the entire equation by 3.
+
+left-side: 2x/3 * 3 cancels to just 2x.
+Right-side: 6 * 3 = 18.
+
+The equivalent equation is 2x = 18. Much nicer!
+
+(2x - 3 + 2x - 9 + a - c)/3 = 6
+
+Scary scary. But you just do the same thing. The equivalent equation is 2x - 9 + a - b = 18.
+
+"Omg!!! What is that "a"? What is that "b"? Don't worry. The question will probably say something like, "a is 4" or "b is half of 10."
+
+2x/3 = x - 4
+
+The denominator is 3 so that is the target that we will try to cancel out. On the left side, after multiplying by 3, it will just be 2x. On the right side, x * 3 is 3x, and 4 * 3 is 12.
+
+The equivalent equation is 2x = 3x - 12
+
+(2x + 1)/3 = (3x - 2)/4
+
+This time, both sides of the equation have a denominator. You will do the exact same thing ... you just do it twice, one for each side.
+
+First we get rid of divided by 3. That means multiply by 3 on both sides.
+
+Left side is now: (2x + 1)
+Right side is now: 3 * (3x - 2) / 4
+
+Now we get rid of the divided by 4. That means multiply by 4 on both sides.
+
+Left side is now: 4 * (2x + 1)
+Right side is now: 3 * (3x - 2) 
+
+Expand the left side: (expand just means to multiply it out)
+4 * 2x = 8x
+4 * 1 = 4
+
+The left side is: 8x + 4
+
+Expand the right side: 
+3 * 3x = 9x
+3 * 2 = 6
+
+The right side is 9x - 6
+
+Finally, the equivalent expression is 8x + 4 = 9x - 6.
+Put the x's on one side, and put the numbers on the other side.
+We will end up with 10 = 1x.
+x = 10
+
+That was a lot. Do you think you can do a question on your own? I bet you can. I bet if someone gave you 30 minutes and some math notes and 3 slices of delicious apple pie, you could definitely do the problem: (2x + 3)/2 = (5x - 6)/5
+
+
+
+The feelings will coalesece. 
+
+
+
+For a very long time now, we have been solving for x. 2x + 6 = 10. 2x/3 = 3x - 2. Et cetera et cetera. These questions are called one-variable equations because there is only one variable: "x."
+
+But it doesn't have to be one variable. We can solve two-variable equations too.
+
+x + y = 4
+x - y = 2
+
+Find x and find y.
+
+Guess a number for x. I guess ... 10. But then no number works for y.
+Guess a number for x. I guess ... 9. But then no number works for y.
+Guess a number for x. I guess ... 8. But then no number works for y.
+
+Eventually, you will find two numbers that works for both x and y in both equations. That will be the answer.
+
+
+Do you know what's even more fun than two-variable equations?
+
+Yes! Yes you guessed it! Three-variable equations.
+
+x + y + z = 6
+x - 2y = 4
+z + x = 3
+
+At first it looks impossible, but you have all the tools that you need to solve it. 
+
+We have learned a lot of techniques for solving for x.
+
+Substitution is the most
+
+He stopped. There is no more. 
+
+Words can spike their emotions in a certain way, for better or worse. It is almost always correct to never spike with sarcasm. 
+
+Follow the guidelines of 
+
+Fourth grade, they are still very young. 
+
+Irrational angere that stems from one's own circumstances
+
+When Maylynn is at Davis, it feels like she is much more hardened. 
+
+Do not presoak too much food because you will forget about it.
+
+Verbal ask: Please read in a professional voice. You will learn more.
+
+Starting the program at younger ages.
+
+Absorb knowledge through play, games, creating. 
+
+
+grade 1 - still learning to read
+grade 2 - still learning to read
+grade 3 - still learning to read
+grade 4 - absorb knowledge thru reading stories
+grade 5 - absorb knowledge thru reading stories and notes
+grade 6 - absorb knowledge thru reading notes
+grade 7 - absorb knowledge thru reading notes
+
+New York State 6th Grade Exam
+
+Bigger numbers. Smaller numbers. Why does it look 
+
+How hard it is for me?
+How about how hard it is for them?
+They don't have any opportunities. They don't have a chance to work. They are coming up from the very bottom. Their path is harder than mine.
+
+Pay money to use it.
+
+If they ask, 
+
+Analyze the
+
+
+English is more important than math in the younger grades.
+Accept that this is how it is. Each kid will be alone. 
+
+Need the help of high schoolers.
+
+6th grade is part of middle school, and they won't accept it.
+
+SAT Math Class. 20 dollars for 1 month. Try 1 month free. No.
+
+Xuesheng bu gou.
+
+To have my feelings hurt. Does impact the actions that I take. The time will pass by pretty quickly. Grinding away at some infernal job. 
+To open the gates.
+
+I will not abandon anyone. 
+
+There is a culture of disrespect with the class that I am currently teaching. It will not go away, even with time. I do not blame them for it. It is how it is. It is how the energies flow. I cannot teach them in person anymore. Whose fault is it that they're not respectful? I am the one who is supposed to establish firm boundaries and I did not do this. But this is an inherent weakness of my style.
+
+
+I don't have to do everything. Generating the json. Every single week. And uploading a hardcopy. In response to mistakes. 
+
+Can't cook spicy food.
+The food is too spicy.
+
+Chinese movies 
+
+The animal aspect of demonstrating strength. That is time square. the biggest companies demonstrating that they can afford the real estate. 
+
+A culture of hardwork. A culture of excellence. 
+
+You can't change things from underneath people. When 
+
+I am deciding to end the current operation of the program because the way it currently goes, doesn't work. It does not grow larger.
+
+People who fight for their own phenotype. People who don't want to be controlled.
+
+
+
+xue sheng ke yi zai brooklynlearning.github.io/practice zuo ewai de lian xi
+
+
+
+
+const teaching2021 = {
+    explicitChallenges: false,
+    explicitPushes: false,
+    personalLetters: false,
+    prescriptiveMethods: false,
+    hiddenChallenges: true,
+    explicitPromises: false,
+    preEmptiveTeaching: true,
+    bandaidLearning: true,
+    directivesForParents: 'never',
+    directivesForStudents: 'rarely',
+    permitDisrespectfulness: 'never',
+    reprimandGently: 'always',
+    studentExplanations: 'depends',
+    parentLetters: false,
+    parentAnnouncements: true,
+    fancyFolders: true,
+    studentCertificates: true,
+    progressReports: false,
+    dontPushTooHard: true,
+    structuredHomework: true,
+    studentBerating: false,
+    studentRecommendations: false,
+    gentleStudentPushes: true,
+    commands: false,
+    bountifulExamples: true,
+    pennyPushing: false,
+    treatingTheStudentAsASubCharacterToTheParent: false,
+    fieryAgendas: false,
+    callsForAction: false,
+    oneOrTwoYearsHarder: 'sometimes',
+    teachersMustDemonstrateExcellence: true,
+    tattleTalingToTheParentsAboutStudentBehavior: false,
+    storyTime: 'the story will be different for the different ages',
+    allowTheTeachersToBeFree: true,
+}
+
+
+
+
+
+
+
+
+
+10-14-2021 muse
+
+Have empathy for the parents.
+What did the coaches say to you?
+
+
+To find the 100th decimal value of 1/7 (pronounced 1 over 7), begin with long division. 
+@pdflongdivision(1/7)
+
+That's very good. Now keep going. We have to find the 100th decimal. There are 90 more decimals to go.
+
+We don't have to keep going. There's a pattern.
+
+The teacher commands you to find 90 more decimals.
+
+
+Every parent thinks their experience is completely unique, but it's not. 
+We seek out what is comfortable for us. 
+
+
+10-14-2021 essay Variable Word Problem Questions
+
+Example 1: X candies cost Y dollars. How much do Z candies cost?
+
+This type of question is called a "pure variable question" because there are no numbers. Instead, all of the numbers have been replaced with variables.
+
+A helpful strategy when approaching questions like these is to make up some numbers for yourself. Don't make up weird numbers like 23 or 1.443. Choose nice numbers like 2, 3, 4, 5, 6, 10, 12, 20, 60.
+
+Let's rewrite the question as: 2 candies cost 10 dollars. How much do 6 candies cost?
+
+If 2 costs 10, the pattern is times 5. So 6 will cost 6 * 5 = 30 dollars.
+
+Now, turn all of the numbers back into their original variables. 
+
+X = 2
+Y = 10
+Z = 6
+
+And we know that using these numbers, the answer that we're going to get is 30.
+There's only one way to make 30 with these numbers: 6 * 10 / 2.
+
+The final answer is Z * Y / X.
+
+Example 2: X candies cost 10 dollars. How much do 5 candies cost?
+
+This is called a "mixed-variable question" because there are both variables and numbers. You should do it the exact same way, except this time, the question has already made up a few of the numbers for you. 
+
+Let's make up a number for X. I will choose the number 1.
+
+The question is now: 1 candy costs 10 dollars. How much do 5 candies cost? 
+Answer: 50 dollars.
+
+Write out the variables:
+X = 1
+10 = 10
+5 = 5
+
+How can we make the number 50? There are two options:
+
+10 * 5 * 1
+10 * 5 / 1
+
+This is not good. There are two ways of doing it. Which one is the correct way? Don't know. That means, it was a mistake to choose the number 1. I will do it again, and choose a different number: 2. 
+
+The question is now: 2 candies costs 10 dollars. How much do 5 candies cost? 
+
+If 2 candies cost 10 dollars, 1 candy costs 5 dollars, which means 5 candies cost 25 dollars.
+Answer: 25 dollars
+
+Our numbers:
+
+X = 2
+10 = 10
+5 = 5
+
+This time it works. There is only one way to make 25: 5 * 10 / 2
+Putting the variables back in, the answer is: 5 * 10 / X.
+Simplify, and the final answer is 50/X.
+
+"...But I don't know what X is. AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!"
+
+That's fine. For these types of variable questions, this is just how it goes. The answer will almost always have a variable in it. The only time the answer will not have a variable is if the variable cancels out. For example, a final answer like 50X/X. The X's will cancel, and the answer will just be 50.
+
+Closing Points:
+
+The variables we used in these examples were X,Y, and Z. But it doesn't have to be these letters. The question can use any letter from A to Z. Instead of letters, they might even use weird symbols like "emoji.alpha" or "emoji.beta". Also, instead of candies as we used in these examples, it might instead be Lynn's delicious homemade granola bars. No matter what they use, no matter how delicious Lynn's homemade granola bars are, the strategies you use for solving these questions, remains the same.
+
+
+10-14-2021 andrei
+
+I often feel reluctant to give parents "good news."
+
+Reason: They get overhyped, and start having high expectations. Their kid underperforms.
+
+I often feel reluctant to give parents "bad news."
+
+Reason: They start thinking their kid is going to fail and not get into college and work at Walmart. They start putting pressure on the kid to change or improve. Their kid performs worse.
+
+The end result: I don't give parents any news.
+
+But obviously this is incorrect. The parents want to know what's going on.
+
+How do I give information that parents want to hear, while at the same time, not creating any expectations, or creating any fears?
+
+
+The most important thing is energy.
+In about 10 years, Alan's brain will calm down, and he will 
+Russian families are really similar to Chinese families. Maybe it has something to do with originations in communism. Corruption follows communism, but it follows capitalism as well.
+
+All you need is a video camera and you can do some amazing things. Separation of assets.
+
+Alan's brain seems to prevent him from achieving to the degree that he would like.
+
+She comes up at 12:00 is when the thing ends.
+
+10-15-2021 letter alan
+
+Hey Alan!
+
+No lesson this weekend. I am going to spend the weekend building the math website.
+The website is not going to be perfect.
+But it's going to be okay. 
+
+-- 
+
+Our focus from now until May, I believe, will be on math.
+Everyday, I will post 10 to 15 questions onto the website.
+
+-- 
+
+What about grammar and reading?
+
+I believe for the most part we are done with grammar and reading. Everything I know, I think you know too. (Check the end of this letter. I've written down tips, tricks, and strategies)
+You should still practice some on your own. (Check the end of this letter for a SAT Book and answerkey)
+Let me know any time you're unsure of something. 
+
+When you practice grammar and reading, practice:
+
+1. being careful
+2. being decisive
+3. being fast and accurate at the same time
+
+
+--
+
+SAT Book and Answerkey:
+
+Long
+
+Basically, upload it per week. Will be how to do it.
+
+
+The feeling of being alone and different.
+The feeling of having to fit in, when you don't want to fit in.
+
+A place where students can safely talk with each other.
+
+Apple pie. Something that is doable. 
+
+GothamChess "Levi Rozman" carved a niche out for himself. Mad respect for that.
+Alan doesn't really have the ability to go deep.
+The parenting style of asian, middle-eastern, and russian parents, is all extremely similar. The altruism I gained came after Melia, Jennifer, Anh, when I was in a constant state of taking. 
+
+Somehow, I woke up too early and I ... 
+
+The students will remember what I gave. No homework. 
+
+Plotting points on a line. 
+Read it like you mean it. Read it like you're giving an important speech. 
+
+It's not the same. It's going to be different each time.
+It just disappeared.
+
+Don't have microsoft word ... but you can make do with something else.
+
+We have class tomorrow. It will just be a little bit cold.
+The feeling of shame.
+The feeling of hiding.
+
+No advertisements to the students
+No advertisements verbally to the parents
+No long text messages to the parents
+The program needs someone like Yijie who can vibe with the parents.
+I am playing a game that doesn't permit you to win. That means, I cannot rely on this game. I knew from the very start, before 
+
+Hi $name, 
+
+When you need something, don't say "teacher."
+You can say, "Excuse me", or "I have a question."
+
+Thanks,
+Mr. Lee
+
+
+
+No invoking yourself when giving resources or suggestions to other people. @alex-chinese @andrei-table @devinmyers-table
+
+
+design systems which have easily achievable positive feedback loops. 
+design systems with inherent accountability @amazon
+we don't actually change as we grow older. We just become more of what we currently are.
+prepare lunch at 11. eat leftovers from dinner
+i have to eat lunch sooner
+the passwords are in my closet on the box of paper
+I am worried that one day this computer is just going to explode and stop working and my files won't be recoverable. Hence, I purchased a new computer.
+
+coding is all about preferences and it's really hard to communicate personal preferences to other people and also why those preferences are correct
+
+get plane tickets for thanksgiving
+
+build dads website
+to want to do it yourself
+Something super structured with logical connections
+a library of phrases
+you have to do it even if it goes to the point
+
+
+loginto paypal
+log into vanguard
+
+find the dish scrubber
+get more of the clips
+get paper clips
+o
+What is the opposite of factoring out a number? For example, expanding 2 * (2 + 3) into 4 + 6. Is there a name for this?
+
+
+
+g how do you round negative numbers
+it is correct to batch my internet usage together. wait until you have multiple items, and then do it
+i have to make a good
+
+parsing the latex will change it immediately right there and there.
+
+a fraction ... literally everything can be parsed in i.t , and the items can all be batched together
+
+it should be optioned inside of the TextParser on the js side.
+
+
+
+SAT Grammar Notes
+
+Talking through the question. 
+
+Boys, do you want to join the math program.
+
+They won't want to read together.
+
+Asking for help.
+
+With teamwork, anything is possible.
+
+Volunteer at Student Circles
+
+Lemonade and sandwiches!
+
+studentcircles.org
+
+Math and English
+
+what is 80% of the same number?
+
+Everything should be introduced via options. I have work to do.
+
+Everything ... pre-allocated.
+
+Do some of the problems. 
+
+i didn't do that part yet. 
+Start from something simple.
+
+
+My body seems to be okay from eating the tilapia. Although the sinewy aspect is kind of scary.
+
+zdhould be a diverse attack.
+
+
+SAT English Homework
+
+Type up a clear explanation for why you chose each answer.
+
+Grading Rubric:
+
+Good: A good explanation is written in fine english, clear, to the point, provides specific evidence, and examines details.
+Not good: A not good explanation does not provide clear evidence, and is vague or generic.
+
+Email to kdog3682@gmail.com
+
+
+Alan: 
+Somehow I need to send these 
+
+Find Answers for GMAT Book
+
+Parents don't know what they're doing a lot of the times. A lot of the time, they make incorrect decisions. Not just parents. It's everyone. Parents create kids when they're bored. Because kids create meaning. 
+Trash pickup is on Saturday morning.
+
+
+There's going to be trash in the morning and it's going to smell like shit.
+
+10-17-2021 letter stanley
+Hi Stanley,
+
+Turn anger into power.
+
+Alvin makes you mad.
+You yell or push or swear Alvin.
+
+Who wins?
+No one.
+Everyone gets more and more angry.
+
+
+Alvin makes you mad.
+Turn the anger into power.
+Do pushups.
+Grow strong muscles.
+
+Who wins?
+You win.
+
+
+10-17-2021 shunt
+
+20% of 10
+20% more than 10
+20% of 20% of 10
+20% more than 20% less than 10
+
+Elina has 10 cupcakes. She gives 1/2 of a cupcake to each of her cats. How many cats does Elina have?
+
+Sam sells 2 and 7/8 gallons of lemonade. Bob sells 2/3 as much as Sam. How much does Bob sell?
+
+Sam has 3 cats and 4 dogs. She feeds the cats twice per day, and the dogs 3 times per day. How many times does she feed her pets in total in 1 week?
+
+What is the value of ((n * n) - n) + n * n?
+
+Elina is making a delicious kale salad. Her salad dressing uses 8 ounces of oil and 3 ounces of vinegar for 10 salad servings. 
+
+To make strawberry lemonade, Elina combines 5 ounces of strawberry soda with 7 ounces of lemon water. There are 8 ounces in 1 cup. Ho
+
+A rectangle has a base of 6 and 4/5 ft and a height of 3 and 2/8 inches. In square feet, what is the area of the rectangle?
+
+For exercise, Elina jogged 2 miles on Sunday and walked 3 miles on Monday and swam 4 miles on Tuesday. How many total feet did Elina travel for her intense exercising?
+
+equivalentExpression(1284 ÷ 4)
+rounding(15.74)
+
+
+dividingFractionsModule
+a/b / c/d
+
+a/b / c/d
+a/b / c/1
+a/b / c
+
+a/b / c/d
+a/1 / c/d
+a / c/d
+1 / a/b
+1 / b/a
+
+a/b / a/b
+
+a/b / b/a
+
+a / ((b/a) / b)
+a / ((a/b) / b)
+
+exponentsModule
+2 * 2 * 2 = 2 to the 
+
+percentagesModule
+
+
+For all values of x, 2x is equivalent to which expression?
+
+This question is exactly the same as: 2x is equivalent to which expression?
+
+x + 5
+x + 0
+x * 3
+x * 2
+
+"For all values" means, "plug in any number that you like for x."
+
+
+
+
+
+
+
+Elina feeds each squirrel 1/3 pounds of acorns every Friday. How many squirrels can she feed with 10 pounds of acorns?
+
+To make her special fruit salad, Elina uses apples, oranges, and grapes. Her salad in total, weighs 1 pound. If Elina uses 1/7 pounds of apples, 2/5 pounds of oranges, how many pounds of grapes does she use?
+
+do electric flyswatters work?
+Elina lives 3 miles from the park. Sam lives 6 times as far as Elina from the park.
+
+Dividing whole numbers always makes the original number smaller. For example, 8 div 2 = 4. The 8 has become smaller. But for fractions, this is not always true. For example, 1/2 div 1/50 = 25. How did that happen! We divided a fraction, by a smaller fraction, and somehow ended up with a much bigger whole number???
+
+One way to understand it is to turn your fractions into decimals.
+
+1/2 becomes 0.5
+1/50 becomes 0.02
+
+Now let's turn the decimals into money.
+
+0.5 is 0.5 dollars is 50 cents.
+0.02 is 0.02 dollars is 2 cents.
+
+2 cents goes into 50 cents 25 times.
+That's how we ended up with the answer of 25.
+
+const requireList = {
+    '\\d+/\\d+ \\w+ \\d\\.\\d': 'decimalConversion',
+}
+
+hard Elina lives 3 miles from the park. Sam lives 8 miles away from Elina. Walking at a rate of 10 meters per second ... 
+
+
+At CTown Supermarket, Avocados cost 4 for 5 dollars after a store discount of $1.67. Without the discount, how much would one avocado cost?
+
+Mrs. Alvarez purchaes 75 cents worth of serrano peppers. If the price is $2.49 for one pound of serrano peppers, how many pounds id Mrs. Alvarez purchase?
+
+A chicken drumstick jumbo pack costs $4.20. If one pack has 7 drumsticks, what is the price of 1 drumstick?
+
+
+
+After eating 3/7th of a cake, 
+
+Elina has 3/4th of a cake. 
+
+$2: 5, 2, 1/2, 1/3
+
+divisonNumbers = [
+
+]
+
+If homework is not assigned, Alan doesn't do it.
+
+
+The ratio of boys to girls in Aaron's tangerine dance class is 40:60. What percent of the class are girls? 
+
+What is the prime factorization of 8, 16, 64, 27, 60, 37, 112
+
+a/a
+2a/a
+3a/a
+a/a * b/b * c/c
+
+a/b / a/b
+1/1 / 1/1
+1/3 / 1/3
+1/4 / 4/1
+4/1 / 1/4
+1/4 / 1
+1 / 1/4
+2 / 2/3
+3 / 3/4
+4 / 4/5
+x / x/3
+1 / a/b
+
+Bonus Challenge
+1 / (x+1)/(x-1) // suddenly too hard.
+
+Sitting down was not correct.
+
+
+Alan was never able to take in the math story.
+Their brains reset when they are not feeling happy.
+
+25% of 8
+25% of (2 more than 6)
+25% of (1 plus the smallest prime number less than 8).
+
+1/4th of 8
+2/8th of (16 - 9)
+one-quarter of (2 numbers that add up to 8)
+just doing random questions.
+
+
+10-18-2021 parseit
+5 machines take 5 minutes to make 5 tshirts. 100 machines makes 100 tshirts in how many minutes?
+
+
+Super grass doubles in size every day. It takes 10 days for John's super grass to cover his garden. Ben's garden is twice as big as John's. How many days will it take super grass to cover Ben's garden?
+
+When Lucy was 6 years old, her sister was half her age. Lucy is 40 years old now. How old is her sister?
+
+
+How many times does the number 8 show up from 1 to 100?
+
+Leon works at the aquarium. When he tries to put each turtle in its own tank, he has one turtle too many. But if he puts two turtles into each tank, he has one tank too many. How many turtles and how many tanks does Leon have?
+
+I am a three-digit number. My second digit is 4 times bigger than the third digit. My first digit is 3 less than my second digit. Who am I?
+
+Using only addition, how can you add eight 8’s to get the number 1,000?
+
+
+Eggs are $0.12 a dozen. How many eggs can you get for 1 dollar? 100
+
+I am a three-digit number. My tens digit is six more than my ones digit. My hundreds digit is eight less than my tens digit. What number am I? 193
+
+3 bottles of wine: Ancient Grape, Disaster Delicious, and Red Parrot. Disaster Delicious is twice as old as Red Parrot. Ancient Grape is twice as old as Disaster. In 50 years, Red Parrot will become half as old as Ancient Grape. How old is Ancient Grape right now?
+
+
+When Big Steve trains for a hot dog contest, he says to himself, "Aye aye aye Big Steve. Don't you worry about starting small. Everybody goin' start somewhere. You start at 2 hot dogs per day yes sir. Aye, 2's a good starting point. But every single day, you gotta push it Big Steve you gotta push. You gotta eat 2 additional hot dogs."
+
+Big Steve's hot dog coach wants Big Steve to eat 100 hot dogs. How many days will it take Big Steve to accomplish this goal?
+
+When Big Steve trains for a hot dog contest, he says to himself, "Aye aye aye Big Steve. Don't you worry about starting small. Everybody goin' start somewhere. You start at x hot dogs per day yes sir. Aye, x is a good starting point. But every single day, you gotta push it Big Steve you gotta push. You gotta eat 2 additional hot dogs." Is the first 50 days, Big Steve ate 3250 hot dogs. How many hot dogs did Big Steve eat on the 51st day?
+
+The base of a triangle increases by 50% and its altitude (height) decreases by 50%. The resulting area is
+[
+the same as the original area
+12.5% less than the original area
+12.5% more than the original area
+]
+
+
+Kloe eats 25% of a pizza because she is a hungry. Aaron, Kaylee, and Elina split up the remaining pizza evenly. How much of the original pizza, do each of Aaron, Kaylee, and Elina get?
+
+
+Elina is having a math party with her friends"Guys!" Elina shouts excitedly. "Want to do something really really fun?" Her friends nod. "Of course!" "Let's count up all the zeroes that show up from 1 to 100." "O.M.G. How did you think of something that exciting?" asks Kaylee.
+
+Sam has a blue hat and a green hat. He also has a blue shirt and a red shirt. How many different outfit combinatiosn can Sam make if he is NOT allowed to wear a same color shirt with a same color hat?
+
+A palindrome is something that can be read the same forward as backwards. "BOB" is a palindrome. "ANNA" is a palindrome. The phrase, "MADAM I AM ADAM" is also a palindrome. The numbers "222", "12321" and "99" are all palindromes. What percentage of numbers from 1 to 120 are palindromic?
+
+
+
+
+
+
+
+
+
+
+function countDigitAppearances(from, to, query) {
+    const regex = query.toString()
+    const store = []
+    for (let i = from; i <= to; i++) {
+        store.push(...s.match(RegExp(regex, 'g')))
+    }
+    return store
+}
+
+function isPalindrome(s) {
+ const regex = /[^A-Za-z0-9]/g
+ s = s.toString().toLowerCase().replace(regex, '')
+ for (let i = 0; i < 0.5 * s.length; i++) {
+   if (s[i] !== s[len - 1 - i]) { 
+       return false
+   }
+ }
+ return true
+}
+
+getPalindromes(n) {
+    return range(n).filter(isPalindrome)
+}
+
+Don't write rules like this: Class rules: 1. Do not call anyone else "smart" unless you mean it in a positive way. 2. If you see someone get a wrong answer, don't say: "Ha! You got the answer wrong!"
+
+How many numbers from x to y are a multiple of a, b, c, but not a multiple of d?
+"From 10 items, choose 3." Which choice is the correct expression?
+
+
+Sally takes a number, multiples it by 2, and then adds 2, and then divides by 2, and then subtracts 2. The answer is 2. What is Sally's number?
+
+hard Eighteenpointsareequallyspacedonacircle,fromwhichyouwillchooseacertainnumberatrandom.Howmanydoyouneedtochoosetoguaranteethatyouwillhavethefourcornersofatleastonerectangle?AMC Practice Questions and Solutions — Junior
+
+Floor is a function which rounds a value down. For example, floor(1.9999) will round 1.999 down to the nearest whole number, which is one. What is floor(pi)?
+
+10-18-2021 shsatparse
+
+m x-4=11nlyp11=4nlwistv of xpy -14 0 7 8 22
+m if k is an even number, woftf zcmust be a odd number kp2 3k 3kp2 k[k-1] [kp1][k-1]
+    5 donuts for 3 dollars means 810 donuts for [/eratio]
+
+d wistvo what is the value of
+d wistv what is the value
+d wotf which of the following 
+myd asqrtapbsqrtb=183nlbsqrtapasqrtb=182nlf.9.5[apb]=qm
+
+m 99 9801 98 9604 97 ____ 96 9216
+
+
+
+10-18-2021 dialogue mathfacts doagain
+a gm ev1
+ev gm Aaron1
+a today we’re going to learn some math facts.
+kl I’ll go first. The first math fact is for comparing numbers with greater than or less than, the bigger number always points at the smaller number.
+kay, Elina which statement is correct: /5gt3 or /5lt3qm
+e The answer is /5gt3
+a Great job Elina. The bigger number is the one that points. Follow the direction of the arrow. 5 is indeed greater than 3.
+
+“greater than” and “less than” are also accompanied by “greater than or equal to” and “less than or equal to.”
+
+pmwb fe/for example
+fe, /5gt5 is not true because 5 is not greater than 5, but /5gte5 is true because is greater than or equal to 5.
+
+mf2; to find the area of a rectangle, you multiply the base by the height.
+can I multiply by the length instead of the baseqm
+of course you can. the base and the length mean the same thing. but do keep in mind, math books usually write the formula as /area=bth.
+i’m special. i want to multiply by the length times the width instead of the base times the height. is that okayqm
+el, you can multiply by whatever you want. just remember that it’s always going to be x times y.
+what’s x and what’s y?
+
+x is the hoooooooooorizontal distance. hooooooorizontal is looooooong like a hotdog.
+y is the vertical distance. vertical starts with the letter V which looks like a tall mountain. Also, y is taller than x.
+
+x is up for left to right. 
+y is for up and down.
+that means you can write the area of a rectangle as /bth or /xty or /ltw.
+
+mf3. to find the perimeter of a rectangle, all you have to do is add up all of the sides.
+
+hey el, what’s the perimeter of a rectangle with sides of 4, 5, 6, 7qm
+that’s an impossible question el1 the opposite sides of a rectangle are always equal1 take a look at these rectangles.
+that’s correct1 gj el1
+
+what’s the perimeter of a rectangle where 1 side is twice the other side and the area is 8qm
+
+hummzles. well area means base times height. it’s time to start guessing a few numbers.
+i like to start my guess with a easy number to keep things simple.
+how about we guess the number 1qm
+and since the other side has to be twice as long, the other side is going to be 2.
+1 times 2 equals 2.
+but we want 8!
+let’s try the number 2 this time.
+that means the other side is 4.
+2 times 4 is 8!
+Woot woot! we did it1
+everybody. pull out a permanent marker and mark. your. answer1 the answer is 8!
+/i el reaches for her permanent marker and is about to circle “8.” el2 swats the marker away.
+what are you doing el2qm i was about to mark my answer.
+i was saving you said el. the question doesnt want 
+it’s okay el
+
+mf4. a square is a special type of rectangle where all the sides are equal.
+
+mf5 % means divide by 100.
+I thought % means percents?
+They are. But you can also think of percents as a special type of fraction where the denominator has to be 100. 
+Does that mean I can write something like 1%%%?
+Sure. It would simply mean 1 divided by 100, divided by 100, divided by 100.
+mf6 ! means factorial.
+What’s a factorial?
+I thought ! means exclamation mark. Like, “I just ate a pork dumpling. Oh yeah!”
+In math, “!” is called factorial. It’s kind of hard to explain what it means. You just have to see it.
+Show me!
+3! = 3t2t1 and 4! = 4t3t2t1
+5! equals 5t4t3t2t1?
+Yup. 
+Just like with percents, you can stack factorials together. You can do something like 3!!
+mf7. 0! equals
+Zero! Guys, this exclamation mark is not a factorial, it’s my excitement.
+im terribly sorry, el but it’s not zero.
+What? But look at the pattern
+3! = 3t2t1
+2! = 2t1
+1! = 1
+0! = 0
+it has to be zero.
+That’s what it certainly seems like, but for now just memorize. 0! equals 1. In high school, you will go through a proof which proves why it is. 
+okay. next math fact. number: 1 is not a prime number. 1 only has one unique factor. A prime number will always have two unique factors.
+mf9 the word “distinct”, “unique”, and “different” all mean the same thing.
+kay um Kloe. This isn’t english class. Why are we learning vocabulary words?
+kloe because sometimes, the question will use these words to try and confuse you.
+Also, questions will sometimes add on the words “whole number, positive, or integer.”
+The question could ask you, “What are the factors of 6?”
+But instead, to make the question seem harder, they will ask, “What are the positive integer factors of 6?” Don’t be thrown off by the extra words. The question is just asking for the factors of 6.
+kloe Another thing to be careful about when doing factor questions is to remember that 1 is a factor. Lots of times, students will write 2, 3, and 6 are the factors of 6, without writing the 1.
+mf10 consecutive means “in a row”, like 1, 2, 3, 4.
+And consecutive odd means “in a row” but only odd numbers.
+And consecutive even means “8, 10, 12, 14, et cetera.”
+mf11 an integer is a number that doesn’t have a decimal.
+so an integer is a whole numberqm
+yup yup
+mf12 a rational number is any number which can be written as fraction.
+so f2/3 is a fraction.
+and f 1/100 is a rational number.
+and 3 is a rational number.
+I thought 3 is a whole number. 
+Sometimes whole numbers can be rational numbers.
+How?
+You can write 3 as 3/1. 
+So a whole number is always going to be rational number too?. 
+Yup yup.
+You can say 100 is a whole number and a rational number because 100/1 = 100?
+Yup yup!
+mf13 A never ending decimal without a pattern is called an irrational number.
+⅓ equals 0.33333 which is a never-ending decimal. 
+But the decimal has a pattern. You can predict what will come next. It’s going to be all threes. Therefore, it is NOT irrational. 
+What about 1/7?
+1/7 written as a decimal is 0.142857142857. It has a pattern of 142857.
+So what’s an irrational number then? 
+fpi is irrational. pi is a number that often shows up in circle geometry. Usually, we just use the number 3.14, but if you want write it all the way out, pi = 3.1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 5923078164 0628620899 8628034825 3421170679 and on and on forever. 
+
+
+Are there any other irrational numbers?
+Yup. The square-root of 2. Like Pi, it goes on forever. 
+What does it look like?
+It looks like this.
+sqrt2 = 1.4142135623730950488016887242096980785696718753769480731766797379907324784621
+070388503875343276415727350138462309122970249248360558507372126441214970999358314132226659275055927557999505011527820605714701095599716059702745345968620147285174186408891986095523292304843087143214508397626036279952514079896872533965463318 and on and on forever in a random pattern.
+
+What’s a square root?
+I’m so glad you asked Elina! That’s our next math fact.
+
+by the way, can I ask a question real quick?
+Of course Aaron. It’s your life. 
+It's my life! ~
+It's now or never ~
+Guys what are we singing!
+But I ain't gonna live forever ~
+I just want to live while I'm alive ~
+“It’s My Life,” by Bon Jovi.
+So my question is, earlier we saw that a number can be a whole number and a rational number at the same time. Can a number be a rational number and an irrational number at the same time?
+That’s a great question Aaron. The answer is no. It is mutually exclusive. Either you are rational, or you are irrational. You cannot be both.
+
+One way to remember is to know that the prefix “ir” means NOT. For instance, irregular means NOT regular. Irreversible means NOT reversible. Irrational means NOT rational.
+
+Now back to square roots.
+Do we have to? Can we take a break instead?
+But I want to tell you what a square root is!
+Fine…
+A square root is when you’re planting a carrot. 
+
+6pxgt3. wvcxnb
+
+Great job everyone!
+
+
+
+What does mutually exclusive mean?
+It’s a phrase in math that means “can’t both happen at the same time.” For example, being a girl or a boy is mutually exclusive. You cannot be both at the same time. 
+
+
+
+It’s when you go backwards from a square. 3 squared equals 9. Therefore, going backwards, the square root of 9 is 3.
+Why are you so big brain Aaron?
+I’m not. I’m just me.
+Then how do you know what a square root is?
+Because I’m reading it from a piece of paper.
+
+10-18-2021 parse evangeline
+
+
+After growing 16,000 potatoes, msevang realizes she has way too many potatoes. After all, who needs 16,000 potatoes? She decides to give away all of her potatoes except for 1000 of them. "Everybody can have a bag of 5 potatoes!" How many people will be able to get some of evang's potatoes?
+
+msemily was one of the lucky people to get some of Evangeline's potatoes. "Oh boy. time to eat some potato soup tonight," says emily. her recipe says, "For every potato, you will need 3 carrots, 1 onion, and 1 green pepper." She decides to use all 5 potatoes for her potato soup. In total, how many carrots, onions, and green peppers will emily need?
+
+msmch was also one of the lucky people to receve a bag of msevang's potatoes. Rather than make potato soup like emily, mch decides to make french fries. evang's potatoes aren't normal potatoes. they're jumbo-sized. that means each potato can be chopped into 60 french fries. However, mch messes up on one of the potatoes and only chops 55 strips instead of 60 strips. how many french fries does mch end up makingqmm
+
+mr daniel wanted to wake up early to get in line for some of evang's potatoes. he set his alarm clock for 6:30AM. Unfortunately, he overslept and woke up at 7:37AM. by how many minutes did mr daniel oversleep?
+
+to make sure he could get some of evang's special potatoes, mralvin woke up at 430AM. When he arrived at 4:40AM, there were already 400 people in line. As alvin stood in line, he noticed that every 5 minutes, 3 more people joined the line. How many people were in line at 5:00AM?
+
+"I'm coming!" huffed mrhx as he ran as fast as he could to the evang's potato line. "I'm coming!" But it was too late. It was 8:18AM, and there were already 2034 people in line. Using the information from the previous question, what time should hx have arrived in order to get some of the potatoes?
+
+mr daniel watched as everyone headed towards evang's potato line. It didn't matter to him though. He didn't want any potatoes. His favorite food was donuts. The closest Dunkin Donuts was 720 meters away. at 7:40AM, as everyone streamed by, daniel headed the opposite direction to Dunkin Donuts, walking at a speed of 9 meters every minute. What time will daniel arrive at Dunkin Donuts?
+
+Unfortunately, what daniel didnt account for was that this morning, there would be lots and lots of traffic due to the once-in-a-life-time event of evang's potatoes. As a result, his traveling speed would be 3 times slower. What time does daniel actually arrive at Dunkin Donuts?
+
+"It's Kaylee!" shouted Daniel when he arrived at Dunkin Donuts. Indeed, mskaylee was sitting at one of the booths munching on a delicious strawberry frosted donut. Like Daniel, Kaylee's favorite food was also donuts. "Hi Daniel." "Kaylee, that donut looks delicious. How much does it cost?" "1 dollar and 35 cents." Daniel pays for the donut with all quarters. How much change does he get back?
+
+all throughout the day, Mr. Aaron watched as evang handed out bags and bags of potatoes. These were the biggest potatoes he had ever seen. Each was the size of a football. The potato must have weighed at least 5 pounds. To convert pounds to ounces, there are 16 ounces in one pound. How many ounces does one of evang's potatoes weigh?
+
+A normal potato usually only weighes 8 ounces. How many normal potatoes do you have to put together to get the weight of one of evang's potatoes?
+
+Sichuan stir-fried potatoes with soy sauce, seseme oil, ginger, and garlic. This is the recipe msgrace was thinking about as she stood in her kitchen. With evang's humongous potatoes, grace was going to make the best stir-fry potato strips in the whole world. Grace has 8 classmates with whom she's going to share her potato dish. She wants everyone, including herself, to have 40 strips. How many strips in total is that?
+
+Continuing from the previous question, if one potato can be sliced into 200 strips, and Grace has a bag of 5 potatoes, after serving everyone 40 strips, how many strips will she have left over?
+
+mrlucas didnt have to wait in line for evang's potatoes. thats because lucas is evang's brother. "how many potatoes wud u lk lucas" asks evang. "you can have 9 times as much as me" replies lucas. evang has 1000 potatoes left after giving away most of her potatoes. how many will lucas getqm
+
+after a very long day, mselina happily walked home with her 5 potatoes. "I will eat 1% of a potato every single day," said Elina. How many days will her 5 potatoes last?
+
+
+10-18-2021 parse kaylee funny
+
+most people score 80% or 90% or 95% on a test. not kaylee. kaylee scored 90,000% on a test. The test Kaylee took was worth 100 points. How many extra credit points did she score? /90000
+
+as a result of kaylee’s excellent score, all of the younger students wanted to learn her secrets. "my secret?" said Kaylee. "The key is to eat a healthy breakfast."
+thats a wonderful secret1 said mrhx
+more shouted mr. alvin.
+more whispered ms grace, who wasn’t a very loud speaker.
+ms emily waved her hands. "more!"
+“well”, said kaylee, my second secret is to do some light stretching before the test. Stretching helps your body carry oxygen to the brain. More oxygen in the brain means it's big brain time.
+the 4th graders took out their notepads and wrote down kaylee’s second secret.
+only someone who scored 90,000% on a test would know something as smart as that! said mrdan
+what else! asked mr alvin.
+
+for the next 5 hours, Kaylee told secret after secret.
+“No more!” cried Kaylee as the clock hit the 6th hour. She looked as if she was about to fall over. “I’m thirsty. I need a drink of water.”
+“Just one more secret” cried msmch. I also want to score 90,000% on a test.
+Teach us your ways Kaylee echoed Daniel.
+
+“Okay fine1 My 144th secret is to use a sharp pencil with a good eraser.”
+And before anyone else could ask another question, Kaylee ran off to get a drink of water.
+
+Based on the information in the passage, how many secrets does Kaylee tell per every 15 minutes?  /prop(6 144 0.25 x)
+
+Tips:
+Any time you see the words "how many" and "every [insert number here]", it is probably a ratio question. A ratio question usually gives you 3 numbers, and your job will be to set up the ratios to find the missing fourth number.
+
+
+10-18-2021 dialogue michelle division
+
+gm ev1
+gm msmch
+today we are going to learn anything except for ...
+except for what msmchqm
+except for division1
+how come u dont like division msmchqm 
+are you scared it is hiding your bed when you go to sleep at night?
+because i just dont. we can learn about anything else.
+anything in the whole world?
+yup.
+msmch, do you want to learn my grandfather's grandfather's grandfather's middle name?
+of course she doesnt mrdan, msmch would much rather learn about my grandmother's favorite tea.
+no1 msmch wants to learn the secret to roller blading really really fast.
+ev1. i have an important announcement. today, we will not learn about division.
+thats right mralvin. instead, today, we shall learn about chocolate chip cookies.
+how many chocolate chips should we put on each cookie?
+How about 100?
+But there are only 50 chocolate chips in the bag mrhx.
+Let's put 9 chocolate chippies on each cookie. 
+But if we do that, we will only be able to make 5 cookies. And there are 7 of us.
+Msmch, how do you know we can only make 5 cookies?
+Because the pattern is 9 chocolate chips for 1 cookie.
+Which means 18 chocolate chips for 2 cookies.
+27 for 3 cookies.
+36 for 4 cookies.
+45 for 5 cookies.
+54 for 6 cookies.
+But wait mrlucas1 we cant do 6 cookies because we only have 50 chocolate chips in the bag.
+mch thats exactly right mrdan. Since 54 chocolate chips goes over how much we have, that means the most we can have is going to be 5 cookies. 
+
+Which means we will have 5 chocolate chips leftover. What will we do with these delicious chippies?
+We will feed them to Bobbert. He loooooves chocolate chippies.
+Who's Bobbert?
+He's the praying mantis that lives on the window.
+
+
+10-18-2021 mathq
+
+If 10% of a number is 7, what is 80% of the number?
+
+
+10-18-2021 dialogue #1
+
+
+E Good morning everyone.
+Aaron Good morning Elina.
+Kloe Good morning friends.
+E Kaylee, aren’t you going to say good morning?
+K No Elina. I’m sorry, but I’m too excited. I don’t have time to say good morning. I just want to start learning about percentages. Right! Now!
+Aaron I got you! Percentages are all around us. For example, a 90% score on a test.
+Kloe Or a 30% chance to rain.
+K Or a 0.0001% chance of getting hit by lightning. 
+E For math, one of the most popular kinds of percentage questions that you will see is called decimal conversion. 
+K What’s that?
+A Basically, you convert a percentage into a decimal. And then you multiply by something. And then sometimes you add, and sometimes you subtract.
+Kloe Here’s an example question. John has 10 dumplings. 40% are shrimp-flavored. How many dumplings are shrimp flavored?
+A The first step is decimal conversion. 40% becomes 0.4.
+Kaylee Wait. How did you do that?
+A I don’t know. You just do it. Like this: 40% becomes 0.40 which is the same as 0.4. 
+E 140% becomes 1.4.
+Kloe 33% becomes 0.33.
+A 5% becomes 0.05.
+E 11% becomes 0.11
+A 12% becomes 0.12
+K So, basically, you move the decimal over 2 places to the left?
+A Exactly!
+Kloe Step 2. Multiply. 10 times 0.4 = 4.
+E Step 3. You’re done! The answer is 4.
+K That’s it? 
+E That’s it!
+K But I bet it can get harder.
+A Nothing is hard when you believe in yourself.
+Kaylee But sometimes, it’s hard to believe in yourself. 
+E That’s what friends are for. They will help you believe in you.
+Kaylee How?
+Kloe By believing in you. 
+Kaylee Do you believe in me?
+Kloe Of course. I’m your friend.
+A It’s the power of friendship!
+Elina You can do it Kaylee!
+Kaylee I can do it!
+A The next question is “What is 30% of 20?”
+Kaylee Isn’t this the same as the dumpling question? Don’t you just do 0.3 times 20?
+E Exactly! The answer is 6.
+Kaylee Harder!
+Kloe What is 30% more than 20?
+Aaron Remember what I said earlier about how you multiply, and then sometimes you add or subtract? Well that’s what we do now. 30% of 20 is 6. 30% more than 20?
+Kaylee You just add it on!
+Aaron Yes!
+Kaylee So the answer is 26?
+Aaron Yes!
+Kaylee Harder!
+Elina What is 30% less than 20?
+Kaylee The answer is 14 because 20 - 6 equals 14?
+Elina Yes!
+Kaylee Harder!
+Kloe What is 30% less than 30% more than 30% less than 30% more than 20?
+Kaylee No.
+Kloe Okay no.
+Elina Are we finished?
+Aaron Yeeeeeeee!
+
+10-18-2021 g4 parse doctor
+            
+mralvin wants 7 more cakes than msmch and msmch wants 10 less cakes than msevang who has 100 cakes. how many cakes does mralvin want /100-10p7
+
+if you want cakes, the best place to buy them is at mrlucas's cake shop. "A cake for every day!" is mrluca's motto. If mrlucas has a different cake for every day, how many cakes does he have for 3 yearsqm /3t365 cakes
+
+Every Wednesday, mrlucas has a special deal for dancers. If they buy 2 cakes, they get the third cake free. msemily is a dancer. "Does this deal work for any number of cakes mrlucas?" asks msemily
+
+"yup. every 2 cakes, since you're a dancer, the third will be free."
+
+"What if I want to buy 80 cakes?"
+
+The best place to buy cakes is 
+Then you will get x free cakes. 
+
+What number could x be?
+
+the secret ingredient to baking delicious high quality cakes is fresh ingredients. Fresh cream. Fresh milk. Fresh eggs! On Sundays, mrlucas goes to a farm to collect fresh farmer's eggs. He takes 4 buckets with him. Each bucket can fit 38 eggs. If mrlucas can also fits 3 eggs into both his left and right pockets, how many eggs in total can he collectqm /38t4p3t2
+
+mralvin is waiting for lucas at the farm. 
+
+"Howdy howdy lucas," says mralvin. 
+
+"howdy howdy alvin." 
+
+together, alvin helps lucas collect eggs. At last, it took them 15 minutes, but they finally fished packing all of the eggs for mrlucas. 
+
+"Wow, we finished really fast. Thank you so much for your help Mr. Alvin."
+
+"No problem Mr. Lucas."
+
+In total, 120 eggs were packed in 15 minutes. Based on this rate, how many eggs did Lucas and Alvin pack in one minute?
+
+10-18-2021 g6 hard ratios percentages word-problems homework
+
+John and Ben are collecting logs of wood. They are going to each collect 60 logs. At noon, John has collected one-quarter of how many Ben has collected. 
+
+a[bpcpdpe]=
+2[ap1] p 2[ap2] =
+5 pennies, 1 dime, and 1 nickelans
+2 dimes and 5 pennies
+18 pennies
+]
+
+All throughout the day, Mr. Aaron watched as evang handed out bags and bags of potatoes. These were the biggest potatoes he had ever seen. Each was the size of a football. The potato must have weighed at least 5 pounds. To convert pounds to ounces, there are 16 ounces in one pound. How many ounces does one of evang's potatoes weigh? 80 ounces
+
+A normal potato usually only weighs 8 ounces. How many normal potatoes do you have to put together to get the weight of one of evang's potatoes? 10 normal potatoes
+
+Sichuan stir-fried potatoes with soy sauce, sesame oil, ginger, and garlic. This is the recipe Ms. Grace was thinking about as she stood in her kitchen. With evang's humongous potatoes, grace was going to make the best stir-fry potato strips in the whole world. Grace has 8 classmates with whom she's going to share her potato dish. She wants everyone, including herself, to have 40 strips. How many strips in total is that?
+
+one of msevang's potatoes can be sliced into 200 strips, and Grace has a bag of 5 potatoes. after serving everyone 40 strips, how many strips will Grace have left over? 680 strips
+
+Mr. Lucas didn't have to wait in line for evang's potatoes. That's because lucas is evang's brother. "how many potatoes would you like lucas" asks evang. "you can have 9 times as much as me" replies lucas. Evang has 1000 potatoes left after giving away most of her potatoes. How many potatoes will lucas get? 100 potatoes
+
+at msemily and ms evang's sushi restaurant, there are 8 tables. each table can sit 9 people. if a party of 120 people come into the restaurant, how many people will not be able to sit at a table? /120-8t9
+
+
+
+Ms. Evangeline and Ms. Emily and Ms. Grace are having a sushi party. Ms. Emily eats twice as much as Ms. Evangeline. Ms. Grace eats twice as much as Ms. Emily. Ms. Evangeline eats 5 delicious pieces of tuna sushi. How many pieces do they eat together in total? /5t4p5t2p5
+
+Bonnie, Stephanie, Anderson, and Alexander are having a sushi party. 
+
+ 
+
+Mr. Hao Xiang smells something delicious. "Mmm," he says to himself. "Something smells delicious!" Wait a minute! He suddenly sees it. It's Ms. Evangeline, Ms. Emily, and Ms. Grace having their sushi party. "Ms. Evangeline, Ms. Emily, Ms. Grace, can I join your sushi party?" 
+"It depends," says Ms. Grace.
+"What's your favorite food?" asks Ms. Emily.
+"SUSHI!!!" shouts Mr. Hao Xiang.
+"Then of course you can join our sushi party!" says Ms. Evangeline.
+On the plates and plates of sushi, there are still 18 pieces of yellowtail sushi and 10 pieces of toro sushi and 6 pieces of snapper. Mr. Hao Xiang takes half of each flavor. In total, how many pieces does he take? 
+/18p10p6,half
+
+after mrhx takes half of each flavor, msgrace and msemily pack the remaining sushi into boxes. A box can only fit 6 pieces of sushi. how many boxes will be needed to pack up all of the remaining sushi?
+
+/18p10p6,half,div6,ceil
+
+As emily, hx, evang, and grace walk out of the sushi bar, they pass by mralvin with 3 humongous bags.
+
+hey alvin says hx. me, emily, grace, and evang were just having a sushi party.
+what's that delicious smell asked emily. she stuck out her head and inhaled deeply.
+
+hey everyone says alvin. the delicious smell is 129 crispy chicken wings1" he tells emily.  they are split evenly between the 3 bags. 1 of the bags is spicy flavored. the rest are normal. 
+
+how many non-spicy crispy chicken wings does alvin haveqm /129,div3
+
+----------------
+
+# Sushi Party
+
+Austin wants 6 more sushis than Shujing and Sandy combined.
+Sandy wants 5 less than Shujing.
+
+If Shujing orders a total of 60 sushis, how many are for Austin?
+

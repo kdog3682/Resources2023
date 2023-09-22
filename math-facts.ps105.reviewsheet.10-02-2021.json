@@ -1,0 +1,46 @@
+[
+  [
+    "factors",
+    "The ways to make 9 are 1 × 9 and 3 × 3. That means the factors for 9 are 1, 3, and 9. For 22, the possibilities are 1 × 22 and 2 × 11. That means the factors for 22 are 1, 2, 11, 22. How many factors do 9 and 22 have in common? They only have ONE factor in common: the number 1."
+  ],
+  [
+    "prime−factors",
+    "How many prime factors do 9 and 22 have in common? The only factors 9 and 22 share are 1. But 1 is not a prime number. Therefore, they have ZERO prime factors in common."
+  ],
+  [
+    "decimal−multiplication",
+    "What does 0.06 times 5 equal? 3 decimals on 0.011 means shift LEFT 3 times. 2 extra zeroes on the 1300 means shift RIGHT 2 times. That means the final answer, will shift LEFT once. 5 × 6 = 30. After shiffint left once, the answer is 0.3."
+  ],
+  [
+    "lowest−common−multiple",
+    "What is the smallest common multiple of 3 and 7? Because these numbers are small, you can list it out. 3, 6, 9, 12, 15, 18, 21, 24, 27 ... for 3. And, 7, 14, 21, 28, 35 ... for 7. The smallest common multiple occurs at 21. The answer is 21."
+  ],
+  [
+    "unique",
+    "The word \"unique\" and \"distinct\" means \"different\". The sum of the unique factors of 8 will be to get all the factors of 8 that are different from each other (1, 2, 4, 8) and then add them up."
+  ],
+  [
+    "percents",
+    "20% of 30 = ? \"of\" means multiply. \"%\" means \"percentage\" which means divide by 100 which means shift the decimal to the left twice. We can rewrite the question as 0.2 × 30. The answer is 6."
+  ],
+  [
+    "percents",
+    "20% of 20% of 20% of 20 = 0.2 × 0.2 × 0.2 × 0.2 × 20 = 32 with ONE right−shift and FOUR left−shifts to give a final answer of 0.032."
+  ],
+  [
+    "percents",
+    "20% more than 30 = ? First find 20% of 30 which is 6. (See previous question) Since we want more than, add this number onto the 30."
+  ],
+  [
+    "ratios−with−percents",
+    "40% of Aaron's tangerine dance class is boys. The rest are girls. What is the ratio of girls to boys? 40% means 4 out of 10. That means the ratio will be 4 to 6 for boys to girls, which means the ratio of girls to boys will be 6 to 4."
+  ],
+  [
+    "prime−factorization",
+    "It means break a number down into ONLY prime factors. The prime factorization of 8 is 2 × 2 × 2. You can't do 4 × 2 because 4 is not a prime number."
+  ],
+  [
+    "conversions",
+    "How many hours in 1 minute? 60 minutes is 1 hour. 59 minutes is 59/60 hours. 58 minutes is 58/60 hours. So in one minute, we have 1/60 hours. As a decimal: 0.166 hours."
+  ]
+]

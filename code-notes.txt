@@ -1,13 +1,54 @@
-02-02-2023 
+pl-resourceBuilder.js
 ----------------
-CreateCyclicE3
-htmlProseParser 
-CreateOX4
-    Bound to CreateParser ... 
-    Optional stateArg (use to be called contextArg)
-    The items need to have regex and parser as the keys.
+foa personalDescriptors
+    value color type
+    mom purple 
+    dad green
+
+css 
+    frontPageLabels > *:hover
+        bg:r
+
+css
+    writing
+        bg:b
+----------------
+resourceBuilder(s)
+----------------
+firstConsumer: createVue.js
+----------------
+
+resourceBuilder is constructed from lineEdit.buildParser which takes options interface or takes fn:postParse which acts on the resultant lineEdit.stateContextNode.
+
+This particular variant of postParse outputs a storage.toJSON(). Each of lineEdit.stateContextNode's children are run through. If a key value is inside of resourceBuilderFunctionDict, then the node is parsed.
+
+Importantly, only top level child nodes are parsed. This particular variant of postParse does not do deep iteration.
 
 
-worksheet-components.js
-    All of the items are going here.
-    It is the primary consumer.
+----------------
+/home/kdog3682/2023/pl-create.js
+----------------
+
+const foobarRef = {
+    boo(a, b) {
+        /* (boo)(?: (.+)) */
+        return {a, b}
+    },
+
+    foo(a, b) {
+        /* (foo)(?: (.+)) */
+        return {a, b}
+    },
+    default(s) {
+        return s
+    }
+}
+const a = parserFactory(foobarRef, 'matchall')
+const b = parserFactory(foobarRef, 'split')
+console.log(a('boo foo a b c foo d e f\nasdf foo a b'))
+console.log(b('boo foo a b c foo d e f\nasdf foo a b'))
+----------------
+`matchall` comes from compileRE.createParser which has now been deleted.
+The object for parserFactory can have a `default` and it will be fine. It is ignored. parserFactory.split is a thin wrapper around createSplitParser
+
+There is no discernable difference between the resultant values of `a` and `b`

@@ -1,0 +1,368 @@
+E Good morning everyone.
+Aaron Good morning Elina.
+Kloe Good morning friends.
+E Kaylee, aren’t you going to say good morning?
+K No Elina. I’m sorry, but I’m too excited. I don’t have time to say good morning. I just want to start learning about percentages. Right! Now!
+Aaron I got you! Percentages are all around us. For example, a 90% score on a test.
+Kloe Or a 30% chance to rain.
+K Or a 0.0001% chance of getting hit by lightning. 
+E For math, one of the most popular kinds of percentage questions that you will see is called decimal conversion. 
+K What’s that?
+A Basically, you convert a percentage into a decimal. And then you multiply by something. And then sometimes you add, and sometimes you subtract.
+Kloe Here’s an example question. John has 10 dumplings. 40% are shrimp-flavored. How many dumplings are shrimp flavored?
+A The first step is decimal conversion. 40% becomes 0.4.
+Kaylee Wait Aaron. How did you do that?
+A I don’t know. You just do it. Like this: 40% becomes 0.40 which is the same as 0.4. 
+E 140% becomes 1.4.
+Kloe 33% becomes 0.33.
+A 5% becomes 0.05.
+E 11% becomes 0.11
+A 12% becomes 0.12
+K So, basically, you move the decimal over 2 places to the left?
+A Exactly!
+Kloe Step 2. Multiply. 10 times 0.4 = 4.
+E Step 3. You’re done! The answer is 4.
+K That’s it? 
+E That’s it!
+A The next question is “What is 30% of 20?”
+Kaylee Isn’t this the same as the dumpling question? Don’t you just do 0.3 times 20?
+E Exactly! The answer is 6.
+Kaylee Give me a harder question.
+Kloe What is 30% more than 20?
+Aaron Remember what I said earlier about how you multiply, and then sometimes you add or subtract? Well that’s what we do now. 30% of 20 is 6. 30% more than 20?
+Kaylee You just add it on!
+Aaron Yes!
+Kaylee So the answer is 26?
+Aaron Yes!
+Kaylee Harder!
+Elina What is 30% less than 20?
+Kaylee The answer is 14 because 20 - 6 equals 14?
+Elina Yes!
+Kaylee Harder!
+Kloe What is 30% less than 30% more than 30% less than 30% more than 20?
+Kaylee No.
+Kloe Maybe next time?
+Kaylee Okay fine we'll do it next time.
+Elina Are we finished?
+Aaron Yeeeeeeee!
+
+// this will just confuse me.
+// the way math is taught is completely rote.
+// and lacking of creativity. that is partially why students stagnate
+// i am falling into bad habits
+// hmm ...
+
+// 07-19-2022 
+
+# Write 99% as a decimal.
+
+To the left to the left!
+Humzles?
+Scoot the decimal place to the left to the left.
+Why?
+Because that is what dividing by 100 does. Dividing by 100 scoots the decimal to the left by two places.
+But I don't see "divide by 100" anywhere.
+You do.
+Where?
+% means divide by 100.
+
+So 99% equals 0.99?
+Yup
+
+98% equals 0.98?
+Ja mama!
+
+97% equals 0.97?
+Oui oui mama!
+
+197% equals 1.97?
+Si mama!
+
+Practice
+
+Turn each percentage into a decimal.
+
+Step 1. Scoot the decimal place to the left to the left.
+Step 2. That's it.
+
+1001%
+101%
+100%
+10%
+1%
+0.1%
+0.01%
+0.001%
+0.0001%
+
+
+
+# Find 10% of 10% using decimals
+
+"10%" is the same as 0.1
+"of" means multiply
+The question is basically: 0.1 * 0.1 equals?
+Multiplying decimals is hard!
+The secret to multiplying decimals is to pretend the decimals aren't there.
+Um ... are you allowed to do that?
+$, what do you see, when you see the number 0.1?
+I see 0.1
+Nope. You see 1!
+No... I seriously see 0.1.
+Ignore the decimals $.
+$, you cant just ignore the decimals. Thats not how math works.
+$, trust me. It will work.
+Fine. 0.1 is "1" if you say so.
+0.1 * 0.1 = ?
+I guess it equals 1 * 1 which equals 1.
+Now put the decimals back in.
+How?
+0.1 has 1 decimal. The other 0.1 also has a decimal. In total, there are 2 decimal places. This means we need to shift our answer by 2 decimal places.
+Shift "1" by 2 decimal places?
+oui oui.
+What does oui oui (pronounced "we we") mean?
+It means "yes yes!" in french.
+Oui oui! So one shift. 1 becomes 0.1. One more shift. 0.1 becomes 0.01. Is the answer to 10% of 10% = 0.01?
+Oui oui!
+
+Write the answer as a decimal
+
+@1213%toD
+
+
+Different ways of doing things
+
+Hola chica.
+Bonjourno bro.  
+
+Shall we go eat some soup at Rosa's Soup and Sandwiches?
+Mmm. Soup. I love it. Should I bring a fork or a spoon?
+... Seriously?
+What?
+A fork?
+What's wrong with a fork?
+Who eats soup with a fork?
+I mean, not like there is a rule that says you can't. I like forks.
+
+narrator The boy is correct. If you want to, you can use a fork to eat soup. However, it is simply easier to eat soup with a spoon. You could use a fork. But you should not. For percents, should you use the decimal way or the fraction way? It depends on the question. Sometimes one way will be much better than the other way.
+
+## 1/2 of 40% of 25 equals
+
+I will turn 1/2 into 0.5 using long division.
+I will turn 40% into 0.4 using scoot to the left scoot to the left.
+For, 0.5 * 0.4, I will ignore the decimals.
+I will do 5 * 4 which equals 20.
+Now, I will put the decimals back in. 
+There are 2 decimals. 20 becomes 2 becomes 0.2.
+Almost there.
+Now, I will do the second part: 0.2 * 25.
+I will ignore the decimals.
+2 * 25 = 50.
+I ignored the decimal on the 2. So I have to scoot left once.
+50 becomes 5.
+The answer is 5.
+1/2 of 40% of 25 equals 5.
+
+Bro.
+Yeah?
+There's an easier way.
+I like my way.
+Bro ... Can I show you my way? 
+Like doing it with fractions or something? I like doing it with decimals. With fractions, you have to simplify and stuff. It is complicated.
+Let me show you just once.
+Fine.
+
+40% means 40/100 which simplifies into 4/10 which simplifies into 2/5.
+The question becomes: 1/2 * 2/5 * 25/1
+
+The 2s will cancel.
+The 5s will cancel.
+
+The answer is 5.
+
+But you have to simplify. You had to simplify 40% into 40/100 into 4/10 into 2/5. That is so much work.
+$, can I tell you my secret?
+Im listening.
+I dont simplify.
+What do you mean? I just saw you simplify.
+Thats because I was showing an example. On actual homeworks, I dont simplify.
+Then how do you do it?
+Basically, I just memorized them.
+What did you memorize?
+All of the percentages.
+ALL OF THEM?
+The most common ones. The ones that show up all the time. This way I never have to simplify. I see 40%. I'm not even thinking. I just know it is 2/5.
+
+Is that ... cheating?
+Why would this be cheating? Your mind belongs to you. You can put anything you want into your mind.
+Do any other people do this? Memorizing percentages as fractions?
+
+A long time ago, I had a friend named Whitney. I thought she was the smartest person ever. One day, I asked her, "Whitney. How do you do it? How are you so smart?"
+What did she say?
+Here is exactly what she said. I remember it like yesterday. She said, "Hey $self. Im not that smart. I just take good notes, and I try to remember everything." After hearing her say this, a lot of things changed for me. 
+Hey $
+Yeah?
+What percentages should I memorize?
+Here are the common ones. 1,2,5,10,20,25,30,40,50,60,70,75,80,90, 100, 200, 300, 400, 500.
+
+Write each percentage as a fraction.
+1,2,5,10,20,25,30,40,50,60,70,75,80,90, 100, 200, 300, 400, 500
+
+
+# Different ways of doing things PART II
+
+Find 12% of 13.
+
+I see %. That means I turn 12% into a fraction. 12% becomes 12/100.
+Stop it $! Dont use a fork. Use a spoon.
+Okay. I see 12 * 13. The answer is 156. % means scoot scoot. The answer is 1.56.
+Perfect!
+
+Sally swims 50% farther than John who swims 5 miles. How far does Sally swim?
+
+I see %. I know what to do. I turn 50% into 50/100 and then I simplify 50/100 into ...
+$, use the spoon! Use the spoon my friend!
+Okay. 50% means half. Half of 5 is 2.5. Sally swims farther by 2.5 miles. Sally swims a total of 7.5 miles.
+Perfecto! That is perfecto!
+
+
+Write 2/5 as a decimal.
+I see the division sign. It is time for long division. My favorite! First,
+Spoon it my friend! Spoon!
+Okay. First I memorize 2/5 is 40%. Next, I scoot scoot the decimal place. The answer is 0.4.
+Perfetta!
+
+The price of beef ($13) decreases by 13%. What is the new price of beef?
+
+I see multiplication. 13 * 13 is 169. Scoot scoot the decimal placce. The decrease is 1.69. Not done yet. The new price is decreased. So we subtract it off. 13 - 1.69 equals $11.31. Final answer.
+TAI HAO LE!
+
+
+Reading Carefully
+
+Hey $,
+Yeah?
+All it takes is one word.
+One word?
+Yup. One word. If you read one word wrong, you might get the entire math question wrong.
+That reminds me ... :(
+What does it remind you of $?
+Once upon a time, there was a birthday party I was invited to.
+That's awesome. Did you go?
+I thought about the party for weeks and weeks. I was super excited. The person who invited me was really special to me.
+Was the person a girl? [wink]
+Maybe.
+Did you have a crush on her? [wink]
+Maybe.
+So did you go? How was it?
+I READ THE CARD WRONG.
+What!!!????
+WHEN I WENT TO THE RESTURANT, NO ONE WAS THERE.
+How did you read the card wrong?
+I DONT KNOW.
+You dummy $!
+I KNOW.
+Bro. Math questions. And birthday invitations. You have to read them carefully.
+
+
+Questions
+
+The price of beef ($13) increases by 13%. What is the old price of beef? [The old price of beef is 13 dollars]
+The price of beef ($13) increases by 13%. What is the change in price of beef? [1.69]
+
+
+Start at the place with most information
+
+What does starting at the place of most information mean?
+It means you are a math detective. You have 1 piece of information about Tom, 1 piece about Sam, and 2 pieces about Joe.
+Start with Joe?
+Affirmative.
+
+50% of the girls play volleyball. 40% of the boys play volleyball.
+There are 20 fewer boys in the class than girls. 30 girls dont play volleyball. How many boys dont play volleyball?
+
+Word questions like these are packed with information.
+
+
+
+
+
+"3 more than 5."
+
+Should you write 5 + 3?
+Or should you write 3 + 5?
+Does it matter?
+It absolutely does.
+5 + 3 = 3 + 5. They both equal 8. Why does it matter?
+
+1. Watch Mr. Mario's math lesson on Percents
+Link: 
+
+It matters because we want to remember this pattern. You are right. For addition, it doesnt matter. 5 + 3 = 3 + 5. But for subtraction, it WILL matter. 5 - 3 is not the same as 3 - 5.
+
+Everyone, I would like to add something.
+Yes $?
+
+"3 more than 5" is like saying, "I have 5, but I want 3 more." That is why the 5 goes first.
+
+That is a neat observation $. "10 less than 100." Is this like having 100 pancakes, and then saying, actually, please take away 10? We start with 100, and then we take 10 away.
+thats completely correct $.
+
+
+"10 more than 5 less than 100."
+
+Where is the starting point for this question? Is it 3, 5, or 100?
+Think about it in terms of pancakes.
+I think we start with 100 pancakes.
+And then we say to the waiter, "Actually sir, please take 5 of them away."
+And then we say to the waiter, "Actually actually sir, please send us 10 more."
+And the waiter says to us, "You crazy!"
+We start with 100.
+Subtract 5.
+Add 10
+The math expression is 100 - 5 + 10.
+It feels like it always happens in reverse. Why does this happen?
+
+
+
+
+Try this one. "3 less than 5." Should you write it 5 - 3? Or should you write it 3 - 5? 
+You should not write 3 - 5. That will give you negative 2.
+That is why we write 5 + 3 instead of 3 + 5. 
+
+
+
+
+
+
+
+The price of chicken ($12) decreases by 12%. What is the change in price?
+
+I see multiplication. 13 * 13 is 169. Scoot scoot. The decrease is 1.69. But im not done yet. The new price is decreased. So we subtract it off. 13 - 1.69 equals 11.31 dollars. Final answer.
+Awesome!
+
+
+Taking each kid under my wing. The care of a teacher.
+
+When students are strong at rote algebra, 
+
+Maria and Nihan,
+
+Would you like to try online-tutoring next week?
+
+There will be a website.
+If it is able to be used.
+4 quarters in a dollar.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,13 +1,88 @@
-1680465899 kids forget things very fast. but if i make an outstanding product ... maybe there is a chance they will use it.
-1680521037 i dont think the children will be contacting me. that is how it should be. they will have a new teacher. they will keep learning. life goes on. I tried to diminish the pain as much as possile. but it will still hurt. Jennys daughter is of my generation. Fiona is of my generation.
-1680635754 you absly cannot masturbate to ai porn. this is a hard lock.
-1680720177 i think it is wrong to put 1 component per file. it creates much needless hassle. 3b1b had very big py files. files should be organized by the story that they tell.
-1681149140 no using the word "know" in letters
-1681159240 using mixins makes the classes a little bit smaller in size
-1681231782 Dr. Kantorwitz called. My platelets and WBC are low.
-1681241976 low wbc may be due to my diet. that is not a problem
-1681241986 low platelet count ... I should ask mom
-1681250750 jobapp king education regent math instructor
-1681250784 jobapp g3-g5 math teacher
-1681250800 jobapp bayridge cook
-1681251412 my stomach doesnt feel good. but i know this is related to stress.
+1681509064 one of the reasons that the functions can be brought into a vue component from anywhere is because vue rebinds each function to its context.
+1681575866 feeling kind of melancholy today.
+1681576693 go play basketball earlier in the morning before the good players arrive. keep it light and chill. When you feel disrespected ... just take it. there are other ways to channel your anger.
+1681589094 the difference btwn iterate and traverse is that iterate is more of a for-loop while traverse can handle directions. traverse is more complex
+1681659158 generosity and kindness beget more of it.
+1681662969 competition can only happen when victory can be found in losing too
+1681681521 cartesian products are used to generate all possible values for a given input
+1681846210 there is no such thing as metaclasses in js
+1682202836 today i learned much more about firebase
+1682342594 doc gets the doc ref. getdoc gets the snapshot
+1682343027 doc and ref can be used interchangably @ firebase ...
+1683795329 tricked on stale bagels  spilled water onto checkout  feeling antisocial
+1683833503 cmd:manim opens a url to read manim code
+1683890192 pm floating menu
+1683896540 visual:ca and filegetter:ca
+1683905083 volunteer fix basketball nets
+1683905475 metadata on files is not reliable. dont use
+1683907519 i am not an artist. but maybe one day, a financial grant can permit students to draw
+1683916029 i can hear their voices. i can see their smiles. i have not forgotten them at all
+1683916785 new dir markdown
+1683919089 event sniffles and allergies and eye-tearing
+1683919098 sign of summer = allergies
+1683919135 im not going home over the summer, but I will make a big effort to make something nice for my parents. virtual communications
+1683919566 no air conditioner. dunno why. but i know this true
+1683922559 no impossible challenges. challenges need to feel fun, and somewhat doable.
+1683923981 fn:getvim is very useful for collecting vim data
+1683926521 the way to do it is to do light-teasing which in its own way, has protective buffer effects
+1683929332 javascripted via spidermonkey could be injected into diablo some how ... wow
+1683941107 uploaded bkl/codeground
+1684172992 construction work starts in may and it is debiliating. and if the weather is not good either, there is no where to work
+1684247147 it is worth it to write the configurations in yaml because many configs follow the yaml format
+1684334630 it feels like my tongue will never heal. Pain dramatically affects ones ability to focus and concentrate.
+1684793317 I do not know the endgame. I do not know how to reach the end game. I do not know how to make it profitable. I do not know a stratey. But I know their smiles are real. I know this deeply
+1684871687 toothpaste, toothbrushes, chickpea and splitpea, bagel
+1684932619 Obs.Plot doesnt feel easy to use. It can totally be much simpler.
+1685308813 no chess please
+1685478215 it is surprisingly convenient for classes and objects to both be able to follow dot notation implicitly. this is something that python forbids
+1685479947 bleeding gums
+1685479960 sleepy in afternoon
+1685479970 reading reddit in morning
+1685542420 by the subway is actually a decent place to work. it is secluded. yes there are sounds and noises. but i dont feel allergies and i dont feel terribly bothered. the one problem is a bathroom. as well as protection against the sun. as well as the lighting kind of sucks
+1685733461 apparently you do not need to use toString() inside of template literals. it does it automatically
+1686243859 i cannot play chess and i cannot watch game of thrones. bad things happen.
+1686243933 task connect cm-next exports to cm-main
+1686436241 it is important for node to have a create ability because the create is tied to the nodeType. StateContext vs Vob for example, would create different things.
+1686436567 It is uncomfortable how messy some of the code is right now. Basically, can be sure that something is going to break if it gets changed.
+1686437039 clip.html should not be pushed to github. none of the clip files should be pushed
+1686571261 if second time start up, run vite
+1686851284 deprecate ec.js --> /home/kdog3682/2023/ElementController.js
+1687803567 today is students graduation week. Andrei is right. If they fall off the path, they are going to have a hard time.
+1687895807 live and let live with the insects who call this park home
+1688655448 ubf = usefulButForgotten
+1688672365 you can place dollars without quotes
+1689597955 give people exactly what they want. nothing more. nothing lss.
+1689598004 do not make any promises
+1689599213 css can be created via js or link. With js, the timing can be affected. You dont need to load the resource immediately. You can load it when you want to use it
+1689603064 conversations are super distracting for me.
+1689607053 how people view you, starts to become how you view yourself. Some people view you positively. Some view you negatively. Some view you as an idol. Some view you as a pawn. Everyone has a different view. The sum aggregate of these views shapes a daily feedback loop between the "you" as determined by the world and the "you" as determined from inside
+1689608796 why was I so unproductive this past weekend, and relatively productive today?
+1691162991 burned stove horrible smell worst
+1691718476 apologized to tiffany giang
+1691718519 apologized to bobby
+1692109675 purchased wonderboom3 for 100 dollars
+1692109697 after a certain age, you cannot do the jobs you once did
+1692127889 alex bol flatten.js is how to do matrix transforms
+1692239754 today was pretty productive
+1692239761 stomachache starting to go away
+1692240821 pac.txt belongs in pythondir
+1692278650 stomach is feeling better
+1692456361 my stomach is starting to feel better
+1692457516 today i am working on flatten.js
+1692457531 it2 am working on creating a wrapper
+1692732668 children experience everything with more vibrance.
+1692776765 turtle.js is svg-pathing via svg-turtle.js from online
+1692788747 I want to honor the rules that I set for myself. I will not do it.
+1692794748 my feelings are sometimes wrong when i sit and muse. my feelings are most accurate on the counter punch
+1692797716 do not play hard defense on mao. do not attempt to steal the ball. the safest path is to go gentle.
+1692806114 i am often lost in navigating my feelings. try to not lose yourself during important times kevin
+1692910831 I have to build it up step by step. It is the only way.
+1692977906 bluetooth doesnt need wifi to work which is incredible
+1692977931 the tsa pat down is really annoying ... but it is part of the protocol
+1692977941 my laptop ... might be more durable than it appears
+1692993268 turtle2 uses append instead of appendChild
+1693066987 some want to be taken care of. Some want to be caretakers
+1693235396 losing a friend: devin parada
+1694915156 my writing is bad when there is too much Ti
+1695050619 have to alternate between standing and sitting when working
+1695050632 have to have fresh air

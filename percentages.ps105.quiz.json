@@ -1,0 +1,113 @@
+[
+  {
+    "question": "Karla and Louis are collecting logs of wood. They are going to each collect 60 logs. At noon, Karla has collected one-quarter of how many Louis has collected.  The number of logs that Louis still has to collect is equal to 40 logs. To reach 60 logs, how many more logs does Karla need to collect?",
+    "choices": {
+      "U": "45",
+      "V": "50",
+      "W": "55",
+      "X": "60"
+    },
+    "answer": "W",
+    "index": 1
+  },
+  {
+    "question": "Karla has suddenly noticed a very interesting ratio. A 6 inch flower has a shadow of 4 inches. A 10 inch flower has a shadow of 6 and 2/3 inches. She sees if the ratio works for other things. A 2 foot rock has a shadow of 16 inches. The ratio is the same! Over the camping ground, there is a large evergreen tree. Karla measures the shadow of the tree. It comes out to 80 feet. \"I know how tall the tree is!\" Karla says triumphantly. How tall is the tree?",
+    "choices": {
+      "A": "120 feet",
+      "B": "130 feet",
+      "C": "140 feet",
+      "D": "150 feet"
+    },
+    "answer": "A",
+    "index": 2
+  },
+  {
+    "question": "Louis is impressed by Karla's shadow trick. One hour later at 5:00PM, she measures the shadow of the same 6 inch flower, but strangely, the ratio is different from what Karla had measured 1 hour earlier. This time the shadow has grown much longer to 9 inches. Which statement below is INCORRECT?",
+    "choices": {
+      "A": "At 4:00PM the shadow was 33.33% less than the flower's length.",
+      "B": "At 5:00PM the shadow was 150% more than the length of the flower.",
+      "C": "At 4:00PM the shadow was 25% shorter than the length of the flower.",
+      "D": "At 5:00PM the shadow was 225% of the length of the shadow 1 hour ago.",
+      "E": "At 4:00PM the shadow was 2.25 times smaller than the shadow at 5:00PM."
+    },
+    "answer": "A",
+    "index": 3
+  },
+  {
+    "question": "After 4 people takes a bowl of fried rice, a wok of rice is still half full. This means that 1 bowl is equal to",
+    "choices": {
+      "A": "25/100 of the wok.",
+      "B": "2% of the wok",
+      "C": "0.25% of the wok.",
+      "D": "50% of the wok"
+    },
+    "answer": "A",
+    "index": 4
+  },
+  {
+    "question": "Night time has arrived. Everyone gets into their sleeping bags and tents. Fiona peered out at the night sky and stars. Tonight was a full moon. Lucky! Full moons only happen once a month. In August, there are 31 days. What percentage, to two decimal places, of August is a full moon?",
+    "choices": {
+      "A": "3.22%",
+      "B": "3.23%",
+      "C": "3.24%",
+      "D": "3.25%"
+    },
+    "answer": "A",
+    "index": 5
+  },
+  {
+    "question": "While Fiona is appreciating the moon, Karla is counting the glimmering stars. She forms a small square with a side-length of 1 inch with her thumb and index finger and looks through it. Inside of the square, she can glimpse 4 stars. If the ratio of stars to square-area stays the same, how many stars should Karla see inside of a square of side-length 2 inches?",
+    "choices": {
+      "A": "16",
+      "B": "8",
+      "C": "12",
+      "D": "4"
+    },
+    "answer": "A",
+    "index": 6
+  },
+  {
+    "question": "0.05 is equal to?",
+    "choices": {
+      "Q": "50%",
+      "R": "5%",
+      "S": "500%",
+      "T": "0.5%"
+    },
+    "answer": "R",
+    "index": 7
+  },
+  {
+    "question": "If 10% of a number is 7, what is 80% of the number?",
+    "choices": {
+      "M": "70",
+      "N": "56",
+      "O": "5600",
+      "P": "0.7"
+    },
+    "answer": "M",
+    "index": 8
+  },
+  {
+    "question": "Which of the following expressions has the least value?",
+    "choices": {
+      "U": "90% of 10",
+      "V": "6% of 1000",
+      "W": "5% of 1400",
+      "X": "3% of 2500"
+    },
+    "answer": "U",
+    "index": 9
+  },
+  {
+    "question": "George bought a car at $5000 and sold it at $5500. What was his percent profit?",
+    "choices": {
+      "M": "4%",
+      "N": "6%",
+      "O": "8%",
+      "P": "10%"
+    },
+    "answer": "P",
+    "index": 10
+  }
+]

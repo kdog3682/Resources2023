@@ -1,0 +1,118 @@
+{
+  "Chapter 1: The Language and Tools of Algebra": [
+    "1-1 Variables and Expressions",
+    "1-2 Exponents and Order of Operations",
+    "1-3 Simplifying Algebraic Expressions",
+    "1-4 Rational, Irrational, and Decimal"
+  ],
+  "Chapter 2: Solving Linear Equations": [
+    "2-1 Writing Equations",
+    "2-2 Solving Equations",
+    "2-3 Solving Equations with Variables on Both Sides",
+    "2-4 Equations with No Solution and Identity",
+    "2-5 Solving for a Specific Variable"
+  ],
+  "Chapter 3: Functions and Linear Equations": [
+    "3-1 Relations and Functions",
+    "3-2 Rate of Change and Slope",
+    "3-3 Slope-Intercept Form and Point-Slope Form",
+    "3-4 Parallel and Perpendicular Lines",
+    "3-5 Solving Systems of Linear Equations",
+    "3-6 Absolute Value Equations"
+  ],
+  "Chapter 4: Linear Inequalities and Graphs": [
+    "4-1 Solving Inequalities",
+    "4-2 Compound and Absolute Value Inequalities",
+    "4-3 Graphing Inequalities in Two Variables",
+    "4-4 Graphing Systems of Inequalities"
+  ],
+  "Chapter 5: Word Problems in Real-Life Situation": [
+    "5-1 Solving Word Problems Using Linear Models",
+    "5-2 Solving Word Problems with Equations",
+    "5-3 Solving Word Problems Using Systems of Equations",
+    "5-4 Solving Word Problems Using Inequalities"
+  ],
+  "Chapter 6: Ratios, Rates, and Proportions": [
+    "6-1 Ratios and Rates",
+    "6-2 Proportions",
+    "6-3 Ratios, Rates, and Proportions Word Problems"
+  ],
+  "Chapter 7: Percents": [
+    "7-1 Percent of Change",
+    "7-2 Percents and Equations",
+    "7-3 Percent Word Problems"
+  ],
+  "Chapter 8: Statistics": [
+    "8-1 Mean, Median, Mode, and Range",
+    "8-2 Standard Deviation",
+    "8-3 Graphical Displays",
+    "8-4 Scatter Plots",
+    "8-5 Populations, Samples, and Random Selection"
+  ],
+  "Chapter 9: Categorical Data and Probability": [
+    "9-1 Permutations and Combinations",
+    "9-2 Rules of Probability",
+    "9-3 Categorical Data and Conditional Probabilities"
+  ],
+  "Chapter 10: Law of Exponents and Polynomials": [
+    "10-1 Laws of Exponents and Scientific Notation",
+    "10-2 Adding, Subtracting, Multiplying, and Dividing Polynomials",
+    "10-3 FOIL Method and Special Products",
+    "10-4 Prime Factorization, GCF, and LCM",
+    "10-5 Factoring Using the Distributive Property"
+  ],
+  "Chapter 11: Quadratic Functions": [
+    "11-1 Graphs of Quadratic Equations",
+    "11-2 Factoring Trinomials",
+    "11-3 Factoring Differences of Squares and Perfect Square Trinomials",
+    "11-4 Solving Quadratic Equations by Completing the Square",
+    "11-5 Quadratic Formula and the Discriminant",
+    "11-6 Solving Systems Consisting Linear and Quadratic Equations"
+  ],
+  "Chapter 13: Polynomial and Radical Functions": [
+    "13-1 Polynomial Functions and Their Graphs",
+    "13-2 Remainder Theorem and Factor Theorem",
+    "13-3 Radical Expressions",
+    "13-4 Solving Radical Equations",
+    "13-5 Complex Numbers"
+  ],
+  "Chapter 14: Rational Expressions": [
+    "14-1 Rational Expressions",
+    "14-2 Solving Rational Equations",
+    "14-3 Direct, Inverse, and Joint Variation",
+    "14-4 Solving Word Problems Using Rational Equations"
+  ],
+  "Chapter 15: Trigonometric Functions": [
+    "15-1 Trigonometric Ratios of Acute Angles",
+    "15-2 The Radian Measure of an Angle",
+    "15-3 Trigonometric Functions of General Angles and the Unit Circle"
+  ],
+  "Chapter 16: Lines and Angles": [
+    "16-1 Lines, Segments, and Rays",
+    "16-2 Angles",
+    "16-3 Parallel and Perpendicular Lines"
+  ],
+  "Chapter 17: Triangles": [
+    "17-1 Angles of a Triangles",
+    "17-2 Pythagorean Theorem and Special Right Triangles",
+    "17-3 Similar Triangles and Proportional Parts",
+    "17-4 Area of a Triangle"
+  ],
+  "Chapter 18: Polygons": [
+    "18-1 Parallelograms",
+    "18-2 Rectangles, Squares, and Trapezoids",
+    "18-3 Regular Polygons"
+  ],
+  "Chapter 19: Circles": [
+    "19-1 Arcs, Angles, and Tangents",
+    "19-2 Arc Lengths and Areas of Sectors",
+    "19-3 Inscribed Angles",
+    "19-4 Arcs and Chords",
+    "19-5 Equations of Circles"
+  ],
+  "Chapter 20: Surface Areas and Volumes": [
+    "20-1 Prisms",
+    "20-2 Cylinders and Spheres",
+    "20-3 Pyramids and Cones"
+  ]
+}

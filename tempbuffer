@@ -1,9 +1,0 @@
-
-function setVueRenderer(x) {
-    const component = {
-        render: renderf(x)
-    }
-    Vue.component(dashCase(x.name), component)
-    return component
-}
-

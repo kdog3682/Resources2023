@@ -1,133 +1,409 @@
-               01-19-2023                grader.js
-               01-19-2023      reportCardConfig.js
-               01-19-2023           VueRenderer.js
-               01-20-2023              Prettier.js
-               01-24-2023               physics.js not rly in use
-               01-24-2023                  exam.js empty
-               01-25-2023         VoiceRecorder.js td one day
-               01-25-2023            googleApps.js worth doing i think
-               02-09-2023    googleAppConnector.js connected
-               01-25-2023         vue-shortcuts.js i think delete
-               01-25-2023     ElementController.js del
-               01-25-2023        organizePython.js i think del
-               02-10-2023              compiled.js del
-               02-13-2023                   vim.js del it
-               02-13-2023                   svg.js merge with geo
-               02-13-2023              vue-data.js
-               02-13-2023                 shunt.js del
-               02-14-2023   generateReportCards.js
-               02-15-2023         Templates.txt.js del
-               02-15-2023             deepEqual.js
-               02-15-2023     chatGptDownloader.js
-               02-15-2023                    tt.js del
-               02-16-2023                 ofile.js del
-               02-20-2023                  null.js del
-               02-20-2023                  asdf.js del
-               02-21-2023            getImplied.js
-               02-23-2023              fixProse.js
-               02-23-2023             fixGender.js
-               02-23-2023       geometry.shapes.js merge svg
-               02-23-2023        vue-directives.js del
-               02-28-2023      parser-factories.js used in lineEdit
-               02-28-2023data-parsers.deprecated.js del
-               03-01-2023                  data.js chat gpt data
-               03-01-2023  worksheet-components.js deprecated
-               03-01-2023             latexTree.js dunno how to use
-               03-01-2023         answerPattern.js
-               03-01-2023               mathgen.js see differences with math.js
-               03-01-2023           Interactive.js
-               03-02-2023              fraction.js maybe read Fraction library
-               03-02-2023        mathgen.config.js
-               03-03-2023        javascriptApps.js linked
-               03-07-2023                   App.js linked
-               03-03-2023                  todo.js del
-               03-06-2023 birthdayAnnouncements.js del
-               03-07-2023       base-components.js only wc2 in use
-               03-07-2023           HTMLBuilder.js del
-               03-08-2023  vueComponentWrappers.js mmm...
-               03-08-2023          StateContext.js sc2 doesnt work
-               03-08-2023            birdRouter.js
-               03-08-2023            animations.js
-               03-08-2023         studentRouter.js
-               03-08-2023           parseGrades.js
-               03-09-2023                   pdf.js dep
-               03-09-2023               mathcha.js  del
+09-20-2023
 
-               03-09-2023            serverApps.js
-               03-09-2023          simpleServer.js
-
-               03-10-2023                uglify.js
-               03-10-2023            unit-tests.js
-               03-10-2023      ProblemGenerator.js dep definitely because it is in pg
-               03-10-2023              mathApps.js
-               03-14-2023              advanced.js
-               03-14-2023                  math.js
-               03-15-2023       googleAppScript.js
-               03-15-2023            node-utils.js
-               03-15-2023           hello_world.js dep ... was used for typescript test
-               //03-15-2023                 latex.js
-               //03-16-2023               fixMath.js
-               //03-16-2023            nerdSolver.js
-               //03-16-2023            directives.js
-               //03-16-2023generateMultipleChoice.js
-               03-16-2023                    ma.js
-               03-16-2023                  temp.js del
-               03-16-2023               vueData.js helps understand markdown parser
-               03-17-2023               globals.js 
-               03-17-2023                  main.js
-               03-17-2023               OX3HTML.js
-               03-17-2023              LineEdit.js
-               03-17-2023           color-utils.js
-               03-17-2023             css-utils.js
-               03-17-2023                    ec.js
-               03-17-2023             Puppeteer.js
-               03-17-2023         browser-utils.js
-               03-20-2023            DateObject.js
-               03-20-2023               wob.ini.js
-               03-20-2023         wob.worksheet.js
-               03-20-2023                 clock.js
-               03-20-2023                server.js
-               03-20-2023                  clip.js
-               03-20-2023         vob.worksheet.js
-               03-20-2023worksheet-components-2.js
-               03-20-2023     QuestionGenerator.js
-               03-20-2023             vue-utils.js
-               03-21-2023         CodeOrganizer.js
-               03-21-2023             variables.js
-               03-21-2023                 Lezer.js
-               03-21-2023                     a.js eh keep 
-               03-21-2023                     b.js keep
-               03-21-2023                  test.js what im currently testing
-               03-21-2023             Classroom.js
-               03-21-2023                   env.js
-               03-21-2023              markdown.js
-               03-21-2023            splitKatex.js
-               03-21-2023                 parse.js
-               03-21-2023         hammyDialogue.js
-               03-21-2023              dialogue.js
-               03-21-2023              textEdit.js
-               03-21-2023         codeOrganizer.js
-               03-21-2023           htmlBuilder.js
-               03-21-2023                 utils.js
-               03-21-2023             compileRE.js
-               03-21-2023            scratchpad.js
-               03-21-2023       consumableParse.js
-               03-21-2023             createRNG.js
-
-
-# Draw a picture of a cake
-Ham eats half a cake. The rest is shared equally between Sam and Pam. What fraction of the cake does Sam get?
-
-
-# Draw a picture of a pizza
-
-Sam has a pizza with 10 slices.
-He eats 2 slices.
-What fraction of the pizza is left?
-
-
-For quizzes, you can start right when you get it.
-For exams, we will wait for everyone before starting.
-It is correct to start qzes right away and for exams to be waited for.
-
-It is very correct to be sparse with the letters you send. It was correct to not send Vincent a letter about comparisons.
+/home/kdog3682/2023/10k_wght500gradN25_40px.svg
+/home/kdog3682/2023/App.js
+/home/kdog3682/2023/CSSFunctionDict.js
+/home/kdog3682/2023/CSSParserBuilder.js
+/home/kdog3682/2023/Classroom.js
+/home/kdog3682/2023/CodeMirrorEditor.js
+/home/kdog3682/2023/CodeOrganizer.js
+/home/kdog3682/2023/DateObject.js
+/home/kdog3682/2023/DomBuilder.js
+/home/kdog3682/2023/DomElement.js
+/home/kdog3682/2023/DomTree.js
+/home/kdog3682/2023/Element2.js
+/home/kdog3682/2023/ElementController.js
+/home/kdog3682/2023/Interactive.js
+/home/kdog3682/2023/JSObject.js
+/home/kdog3682/2023/Kevin  Lee  Resume.js
+/home/kdog3682/2023/Lezer.js
+/home/kdog3682/2023/Lezer2.js
+/home/kdog3682/2023/LineEdit.js
+/home/kdog3682/2023/LineEdit2.js
+/home/kdog3682/2023/LocalEvaluator.js
+/home/kdog3682/2023/Maylynn Letter 2.md
+/home/kdog3682/2023/Messages.js
+/home/kdog3682/2023/OX3HTML.js
+/home/kdog3682/2023/Prettier.js
+/home/kdog3682/2023/Puppeteer.js
+/home/kdog3682/2023/Puppeteer2.js
+/home/kdog3682/2023/QuestionGenerator.js
+/home/kdog3682/2023/SpeechController.js
+/home/kdog3682/2023/StateContext.js
+/home/kdog3682/2023/Stylesheet.js
+/home/kdog3682/2023/TypeAssertion.js
+/home/kdog3682/2023/VElementController.js
+/home/kdog3682/2023/Vob2.js
+/home/kdog3682/2023/VoiceRecorder.js
+/home/kdog3682/2023/VueWindowListener.js
+/home/kdog3682/2023/WindowStorage.js
+/home/kdog3682/2023/XMLObject.js
+/home/kdog3682/2023/a.html
+/home/kdog3682/2023/a.js
+/home/kdog3682/2023/abc.js
+/home/kdog3682/2023/advanced.js
+/home/kdog3682/2023/animations.js
+/home/kdog3682/2023/answerPattern.js
+/home/kdog3682/2023/app-codeOrganizer.js
+/home/kdog3682/2023/app-juneJson.js
+/home/kdog3682/2023/app-linKeSong.js
+/home/kdog3682/2023/app-organizeCode.js
+/home/kdog3682/2023/app-prettier.js
+/home/kdog3682/2023/app-readParse.js
+/home/kdog3682/2023/appscript.js
+/home/kdog3682/2023/asdf.js
+/home/kdog3682/2023/ask.js
+/home/kdog3682/2023/b.js
+/home/kdog3682/2023/backup.js
+/home/kdog3682/2023/base-components.js
+/home/kdog3682/2023/base-components.v1.js
+/home/kdog3682/2023/base.css
+/home/kdog3682/2023/baseComponents.html
+/home/kdog3682/2023/baseComponents.js
+/home/kdog3682/2023/birdRouter.js
+/home/kdog3682/2023/bray.math.index.es.js
+/home/kdog3682/2023/browser-utils.js
+/home/kdog3682/2023/build.html
+/home/kdog3682/2023/buildServerHTML.js
+/home/kdog3682/2023/bundle.js
+/home/kdog3682/2023/c.js
+/home/kdog3682/2023/cabmap.js
+/home/kdog3682/2023/callables.json
+/home/kdog3682/2023/casperChineseComponents.js
+/home/kdog3682/2023/chalk.js
+/home/kdog3682/2023/chalk2.js
+/home/kdog3682/2023/changelog.md
+/home/kdog3682/2023/chatGptDownloader.js
+/home/kdog3682/2023/chatgpt.html
+/home/kdog3682/2023/checkout.js
+/home/kdog3682/2023/chineseWebsiteComponents.js
+/home/kdog3682/2023/chroma.js
+/home/kdog3682/2023/chroma.min.js
+/home/kdog3682/2023/chromoSpiral.js
+/home/kdog3682/2023/class.js
+/home/kdog3682/2023/clip.html
+/home/kdog3682/2023/clip.js
+/home/kdog3682/2023/clip2.js
+/home/kdog3682/2023/cm-components-2.js
+/home/kdog3682/2023/cm-components.html
+/home/kdog3682/2023/cm-components.js
+/home/kdog3682/2023/cm-css-editor.js
+/home/kdog3682/2023/cm-languages.js
+/home/kdog3682/2023/cm-lezer.js
+/home/kdog3682/2023/cm-main.js
+/home/kdog3682/2023/cm-next.js
+/home/kdog3682/2023/cm-prettier.js
+/home/kdog3682/2023/cm-simpleTextExtensions.js
+/home/kdog3682/2023/cm-themes.js
+/home/kdog3682/2023/cm-utils.js
+/home/kdog3682/2023/cm.esm.js
+/home/kdog3682/2023/cm.html
+/home/kdog3682/2023/cm.js
+/home/kdog3682/2023/cm2.js
+/home/kdog3682/2023/cm3.js
+/home/kdog3682/2023/cmc.html
+/home/kdog3682/2023/cms.js
+/home/kdog3682/2023/code.log
+/home/kdog3682/2023/codeOrganizer.js
+/home/kdog3682/2023/codeOrganizer2.js
+/home/kdog3682/2023/codemirror-commands.js
+/home/kdog3682/2023/codemirror.js
+/home/kdog3682/2023/color-utils.js
+/home/kdog3682/2023/colorClusterSort.js
+/home/kdog3682/2023/commands.js
+/home/kdog3682/2023/comments.js
+/home/kdog3682/2023/comments.py
+/home/kdog3682/2023/compileRE.js
+/home/kdog3682/2023/compiled.js
+/home/kdog3682/2023/consumableParse.js
+/home/kdog3682/2023/consumableParse.v1.js
+/home/kdog3682/2023/consumableParse2.js
+/home/kdog3682/2023/contenteditable.js
+/home/kdog3682/2023/conversations.json
+/home/kdog3682/2023/convertUnits.js
+/home/kdog3682/2023/copyBuffer.temp.js
+/home/kdog3682/2023/cp2.js
+/home/kdog3682/2023/crayola.js
+/home/kdog3682/2023/createRNG.js
+/home/kdog3682/2023/createVue.js
+/home/kdog3682/2023/createVueComponentPropRef.app.js
+/home/kdog3682/2023/create_production_html.js
+/home/kdog3682/2023/css-data.cleaned.json
+/home/kdog3682/2023/css-data.json
+/home/kdog3682/2023/css-utils.js
+/home/kdog3682/2023/css.js
+/home/kdog3682/2023/cssApps.js
+/home/kdog3682/2023/cssLoader.js
+/home/kdog3682/2023/cx.js
+/home/kdog3682/2023/cy.js
+/home/kdog3682/2023/cypher.js
+/home/kdog3682/2023/d.js
+/home/kdog3682/2023/d3-array.js
+/home/kdog3682/2023/d3-axis.js
+/home/kdog3682/2023/d3-math.js
+/home/kdog3682/2023/d3-path.js
+/home/kdog3682/2023/d3-polygon.js
+/home/kdog3682/2023/d3.js
+/home/kdog3682/2023/data-parsers.deprecated.js
+/home/kdog3682/2023/data.js
+/home/kdog3682/2023/dialogue.js
+/home/kdog3682/2023/dialogue2.js
+/home/kdog3682/2023/directives.js
+/home/kdog3682/2023/dl.html
+/home/kdog3682/2023/e.js
+/home/kdog3682/2023/ec-handle.js
+/home/kdog3682/2023/ec-main.js
+/home/kdog3682/2023/ec.html
+/home/kdog3682/2023/element-utils.js
+/home/kdog3682/2023/elementObjects.js
+/home/kdog3682/2023/env.js
+/home/kdog3682/2023/examples.js
+/home/kdog3682/2023/extendedYamlParser.js
+/home/kdog3682/2023/f.js
+/home/kdog3682/2023/files.json
+/home/kdog3682/2023/fire.js
+/home/kdog3682/2023/fixGender.js
+/home/kdog3682/2023/fixMath.js
+/home/kdog3682/2023/fixProse.js
+/home/kdog3682/2023/flat.html
+/home/kdog3682/2023/flatten.esm.js
+/home/kdog3682/2023/flatten.js
+/home/kdog3682/2023/fonts
+/home/kdog3682/2023/fonts.css
+/home/kdog3682/2023/foo.json
+/home/kdog3682/2023/fraction.js
+/home/kdog3682/2023/g.js
+/home/kdog3682/2023/generate.js
+/home/kdog3682/2023/generateMultipleChoice.js
+/home/kdog3682/2023/generateReportCards.js
+/home/kdog3682/2023/generated.css
+/home/kdog3682/2023/geometrics.js
+/home/kdog3682/2023/geometrics.triangle.js
+/home/kdog3682/2023/geometry.shapes.js
+/home/kdog3682/2023/getBlocks.js
+/home/kdog3682/2023/getColor.js
+/home/kdog3682/2023/git-checkout.temp.js
+/home/kdog3682/2023/git-data.json
+/home/kdog3682/2023/git-data2.json
+/home/kdog3682/2023/git-data3.json
+/home/kdog3682/2023/git.js
+/home/kdog3682/2023/github.temp.js
+/home/kdog3682/2023/gitter.js
+/home/kdog3682/2023/globals.js
+/home/kdog3682/2023/goldenSpiral.js
+/home/kdog3682/2023/googleAppConnector.js
+/home/kdog3682/2023/googleAppScript.js
+/home/kdog3682/2023/googleApps.js
+/home/kdog3682/2023/gpt-downloader.v2.js
+/home/kdog3682/2023/gpt-downloader.v2NaNoutput.js
+/home/kdog3682/2023/grader.js
+/home/kdog3682/2023/graph-helpers.js
+/home/kdog3682/2023/guotie.js
+/home/kdog3682/2023/guotie.today.js
+/home/kdog3682/2023/h.js
+/home/kdog3682/2023/ham.html
+/home/kdog3682/2023/ham.js
+/home/kdog3682/2023/hammy-components.js
+/home/kdog3682/2023/hammy.html
+/home/kdog3682/2023/hammy.js
+/home/kdog3682/2023/hammyComponents.js
+/home/kdog3682/2023/hammyConfig.js
+/home/kdog3682/2023/hammyDialogue.js
+/home/kdog3682/2023/highlight.js
+/home/kdog3682/2023/htmlBuilder.js
+/home/kdog3682/2023/htmlLineParsers.js
+/home/kdog3682/2023/i3.html
+/home/kdog3682/2023/imba-preflight.css
+/home/kdog3682/2023/index.html
+/home/kdog3682/2023/index2.html
+/home/kdog3682/2023/jankyJavascript.js
+/home/kdog3682/2023/javascript.backup.dependencies.json
+/home/kdog3682/2023/javascript.dependencies.json
+/home/kdog3682/2023/javascript.dependencies.json.backup
+/home/kdog3682/2023/javascript.master.json
+/home/kdog3682/2023/javascriptApps.js
+/home/kdog3682/2023/javascriptImportLibrary.json
+/home/kdog3682/2023/javascriptServerApps.js
+/home/kdog3682/2023/jsbin.css
+/home/kdog3682/2023/juneComponents.js
+/home/kdog3682/2023/juneJson.json.js
+/home/kdog3682/2023/katex.min.css
+/home/kdog3682/2023/katex.min.js
+/home/kdog3682/2023/lambda.js
+/home/kdog3682/2023/lang.js
+/home/kdog3682/2023/lang.terms.js
+/home/kdog3682/2023/latex.js
+/home/kdog3682/2023/latexTree.js
+/home/kdog3682/2023/lezer-parseGoogleFontString.js
+/home/kdog3682/2023/lezer-python.js
+/home/kdog3682/2023/lezer-utils.js
+/home/kdog3682/2023/lezerGenerate.js
+/home/kdog3682/2023/linearAlgebra.js
+/home/kdog3682/2023/loadResources.js
+/home/kdog3682/2023/lorem.js
+/home/kdog3682/2023/ma.js
+/home/kdog3682/2023/main.js
+/home/kdog3682/2023/markdown.js
+/home/kdog3682/2023/material-icons.css
+/home/kdog3682/2023/math-utils.js
+/home/kdog3682/2023/math.js
+/home/kdog3682/2023/math.vector3.js
+/home/kdog3682/2023/mathApps.js
+/home/kdog3682/2023/mathProblems.js
+/home/kdog3682/2023/mathgen.config.js
+/home/kdog3682/2023/menu.vue.js
+/home/kdog3682/2023/methodshop.js
+/home/kdog3682/2023/my-data-website.js
+/home/kdog3682/2023/my-email-data.json
+/home/kdog3682/2023/my-files.json
+/home/kdog3682/2023/my-math-website.js
+/home/kdog3682/2023/nerdSolver.js
+/home/kdog3682/2023/nerdamer.min.js
+/home/kdog3682/2023/next.js
+/home/kdog3682/2023/node-utils.js
+/home/kdog3682/2023/node_modules
+/home/kdog3682/2023/null.js
+/home/kdog3682/2023/numberPatterns.js
+/home/kdog3682/2023/objects.svg.js
+/home/kdog3682/2023/observable-data.json
+/home/kdog3682/2023/old-css-utils.js
+/home/kdog3682/2023/output.js
+/home/kdog3682/2023/package-lock.json
+/home/kdog3682/2023/package.json
+/home/kdog3682/2023/parse-observable.js
+/home/kdog3682/2023/parse.config.js
+/home/kdog3682/2023/parse.history.js
+/home/kdog3682/2023/parse.js
+/home/kdog3682/2023/parse.run.js
+/home/kdog3682/2023/parseGrades.js
+/home/kdog3682/2023/parselib.js
+/home/kdog3682/2023/parser-factories.js
+/home/kdog3682/2023/pdfgen.colors.js
+/home/kdog3682/2023/pdfgen.components.document.js
+/home/kdog3682/2023/pdfgen.components.main.js
+/home/kdog3682/2023/pdfgen.generators.js
+/home/kdog3682/2023/pdfgen.make.js
+/home/kdog3682/2023/physics.js
+/home/kdog3682/2023/pl-comprehensiveMarkdown.js
+/home/kdog3682/2023/pl-create.js
+/home/kdog3682/2023/pl-d3Builder.js
+/home/kdog3682/2023/pl-htmlBuilder.backup.js
+/home/kdog3682/2023/pl-htmlBuilder.js
+/home/kdog3682/2023/pl-invivoVueBuilder.js
+/home/kdog3682/2023/pl-markdownBuilder.js
+/home/kdog3682/2023/pl-markdownLeafParser.js
+/home/kdog3682/2023/pl-refFromString.js
+/home/kdog3682/2023/pl-resourceBuilder.js
+/home/kdog3682/2023/pl-stringFixers.js
+/home/kdog3682/2023/pl-svgBuilder.js
+/home/kdog3682/2023/pl-utils.js
+/home/kdog3682/2023/playground.css
+/home/kdog3682/2023/plot.html
+/home/kdog3682/2023/plot.js
+/home/kdog3682/2023/plugins_babel.mjs
+/home/kdog3682/2023/plugins_estree.mjs
+/home/kdog3682/2023/plugins_html.mjs
+/home/kdog3682/2023/pm-index.js
+/home/kdog3682/2023/pm-schema-test.js
+/home/kdog3682/2023/pm-setup.js
+/home/kdog3682/2023/pm.js
+/home/kdog3682/2023/preflight.css
+/home/kdog3682/2023/prettier.js d
+/home/kdog3682/2023/production.config.js
+/home/kdog3682/2023/pythonFileServer.js
+/home/kdog3682/2023/repo.temp.js
+/home/kdog3682/2023/reportCardConfig.js
+/home/kdog3682/2023/reportCards.js
+/home/kdog3682/2023/request.js
+/home/kdog3682/2023/rollup.js
+/home/kdog3682/2023/rollup.output.js
+/home/kdog3682/2023/routerApps.js
+/home/kdog3682/2023/routers.create.js
+/home/kdog3682/2023/routers.pdfgen.js
+/home/kdog3682/2023/rp.archive.js
+/home/kdog3682/2023/rp.js
+/home/kdog3682/2023/runServerApp.js
+/home/kdog3682/2023/runSkulpt.js
+/home/kdog3682/2023/runVite.js
+/home/kdog3682/2023/s.js
+/home/kdog3682/2023/scaleAndAxis.js
+/home/kdog3682/2023/scratchpad.js
+/home/kdog3682/2023/screenshot.jpg
+/home/kdog3682/2023/serve_html_file.js
+/home/kdog3682/2023/server.js
+/home/kdog3682/2023/serverApps.js
+/home/kdog3682/2023/serverArgManager.js
+/home/kdog3682/2023/setup.sh d
+/home/kdog3682/2023/setupComponent.js
+/home/kdog3682/2023/shoppingList.js d
+/home/kdog3682/2023/spellcheck.js d
+/home/kdog3682/2023/splitKatex.js
+/home/kdog3682/2023/standalone.mjs
+/home/kdog3682/2023/story.js
+/home/kdog3682/2023/stringToJson.js
+/home/kdog3682/2023/studentRouter.js
+/home/kdog3682/2023/style.css
+/home/kdog3682/2023/stylesheet-textarea.test.js d
+/home/kdog3682/2023/styleshop.js
+/home/kdog3682/2023/svg-paths.json
+/home/kdog3682/2023/svg-paths.json.js
+/home/kdog3682/2023/svg.js
+/home/kdog3682/2023/svgApps.js
+/home/kdog3682/2023/svgElements.js
+/home/kdog3682/2023/t.html d
+/home/kdog3682/2023/table.css 
+/home/kdog3682/2023/temp.css d
+/home/kdog3682/2023/temp.html d
+/home/kdog3682/2023/temp.js d
+/home/kdog3682/2023/temp.json d
+/home/kdog3682/2023/temp.txt.js d
+/home/kdog3682/2023/test.html d
+/home/kdog3682/2023/test.js
+/home/kdog3682/2023/test.json d
+/home/kdog3682/2023/test2.html d
+/home/kdog3682/2023/textEdit.js
+    hasnt been touched in a while
+/home/kdog3682/2023/themeMirror-WilliamNeuman.external.js d
+/home/kdog3682/2023/today.guotie.js
+/home/kdog3682/2023/today.js
+    hasnt been touched in a while
+/home/kdog3682/2023/today2.js
+    an active file
+/home/kdog3682/2023/todo.js d
+/home/kdog3682/2023/tokens.js d
+/home/kdog3682/2023/turtle.js
+    it is path drawing
+/home/kdog3682/2023/turtle2.js
+/home/kdog3682/2023/txt.vim
+/home/kdog3682/2023/uglify.js
+/home/kdog3682/2023/unit-tests.js
+/home/kdog3682/2023/utils.js
+/home/kdog3682/2023/utils2.js d
+/home/kdog3682/2023/v-buffer-manager.css d
+/home/kdog3682/2023/variables.js
+/home/kdog3682/2023/vcm-methods.js
+/home/kdog3682/2023/view.js d
+/home/kdog3682/2023/vimscript.js d
+/home/kdog3682/2023/vite.config.js
+/home/kdog3682/2023/vite.config.js.timestamp-1692213290993-e21fcdf034e6d.mjs d
+/home/kdog3682/2023/vite.html
+/home/kdog3682/2023/viteBuild.js
+/home/kdog3682/2023/viteServe.js
+/home/kdog3682/2023/vob.worksheet.js
+/home/kdog3682/2023/vue-data.js
+/home/kdog3682/2023/vue-registrar.js
+/home/kdog3682/2023/vue-utils.js
+/home/kdog3682/2023/vue.esm.browser.js d
+/home/kdog3682/2023/vue.esm.browser.min.js
+/home/kdog3682/2023/vue.min.js
+/home/kdog3682/2023/vueComponentWrappers.js
+/home/kdog3682/2023/vueData.js
+/home/kdog3682/2023/vueSetup.js
+/home/kdog3682/2023/wob.ini.js n:find out how this was done
+/home/kdog3682/2023/worksheet-components-2.js
+/home/kdog3682/2023/wrappers.js
+/home/kdog3682/2023/ws2.vob.js
+/home/kdog3682/2023/xmlString.js a
+/home/kdog3682/2023/yaml-example.js n:feels too complicated
+/home/kdog3682/2023/yaml.grammar d
+/home/kdog3682/2023/yaml.terms.js d

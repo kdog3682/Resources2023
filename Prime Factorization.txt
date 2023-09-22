@@ -1,0 +1,65 @@
+Hi everyone. My name is Oscar.
+
+And my name is Owen. Today, Oscar and I are going to teach "Prime Factorization."
+
+The name "Prime Factorization" sounds intimidating. But actually? It's just a fancy way of saying, "break a number into its prime factors."
+
+The prime factorization of 6. Are you ready $?
+
+I was born ready $.
+The answer is 2 * 3.
+
+What? That's it?
+
+That's it.
+
+Are you sure?
+
+I am.
+2 * 3 equals 6. 
+2 is prime.
+3 is prime.
+The answer is absolutely 2 * 3.
+
+Let's do a harder one.
+
+The prime factorization of 12.
+
+Hmm. Okay.
+How about 3 * 4?
+
+You're very close $.
+
+What's wrong?
+I know 3 * 4.
+I know 3 is prime.
+Ahh ... the 4 is not prime. What do I do $
+
+Break the 4.
+
+With a karate chop?
+
+Yes.
+
+Ki-yahhhhhhhhhh!!!!!!!
+Okay. I broke the 4 into 2 * 2.
+
+Now put it all together.
+
+The final answer is 3 * 4 --> 3 * 2 * 2.
+
+Challenge: What is the prime factorization of 100?
+
+My friends, 100 seems like a big number.
+
+But as with all big things, take it one step at a time.
+First, we know 100 = 10 * 10.
+
+Are we done $?
+
+Not yet because 10 is not a prime number.
+Let's break the 10 into primes.
+
+10 equals 2 * 5.
+
+There we go. The final answer for the prime factorization of 100 is 10 * 10 --> 2 * 5 * 2 * 5.

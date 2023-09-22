@@ -1,0 +1,716 @@
+
+Olivia's squirrels want a rectangular playpen with a total area of 48 inches squared. Olivia checks the arts and crafts store and sees that they sell fencing for 50 cents per inch. What is the least amount of money Olivia can use to create this pen?
+
+----------------
+
+# Carrying Cupcakes
+
+Shujing, Ivy, and Sandy have a cupcake delivery service.
+
+The rule is each cupcake deliverer has to carry the same amount.
+If Shujing carries 20, then Ivy carries 20, and Sandy carries 20.
+
+One day, Shujing is sick. As a result, Ivy and Sandy both had to carry more.
+
+If Ivy carried 60 cupcakes on this day, how many cupcakes would Ivy have had to carry if Shujing was able to be there too?
+----------------
+
+
+2 chickens can lay 8 eggs in 3 days.
+How many eggs can 3 chickens lay in 6 days?
+----------------
+
+
+Kate is 5 years older than Lenny. Lenny is 2 years younger than Maria. Maria is twice as old as Norman. Norman is 10 years old. How old is Kate?
+
+----------------
+
+There are 11 walrus on land, and 7 in the water. 
+Some of the walruses on land move into the water.
+As a result, the number of water walruses is now twice the number of land walruses. How many walruses moved from land to water?
+----------------
+
+
+On a scale model, a real distance of 1 foot is represented by 1 inch. What length represents a real distance of 1 inch?
+
+------------------------------
+
+How many different numbers can be formed from the digits 7, 8, 9 if the number must be even and no digit within the number can be repeated?
+
+------------------------------
+
+A roofing contractor uses shingles at a rate of 3 bundles for each 96 square feet of roof covered.  At this rate, how many bundles will he need to cover a roof that is 416 square feet?
+
+------------------------------
+
+Jack and Roberto are guarding a tower. Each watches for 5 hours, then rests 5 hours while the other watches. Roberto begins his first watch at 6:00PM. When will he begin his third watch?
+
+------------------------------
+
+A video game originally priced at 44 dollars was on sale for 10% off. Julian received a 20% employee discount applied to the sale price. There is also a state sales tax of 5%. How much does Julian pay for the video game?
+
+------------------------------
+
+A box contains 7 red marbles and 4 green marbles.  Five marbles are removed at random. As a result, the probability of drawing a green marble is now 50%. How many red marbles were removed from the box?
+
+------------------------------
+
+Ryan must read 150 pages for school. He took 30 minutes to read the first 20 of the assigned pages. At this rate, how much additional time will it take him to finish the reading?
+
+------------------------------
+
+How many different ways can you make 75 cents using only nickels, dimes, and quarters, if you must have at least one of each coin?
+
+------------------------------
+
+Group A has all the integers from 10 to 125.
+Group B has all the integers from 82 to 174.
+
+How many integers are only in Group A or only in Group B?
+
+------------------------------
+
+A mixture weighing 90 grams contains three elements: X, Y, and Z.
+
+The ratio of X to Y is 4 to 9.
+The ratio of Y to Z is 9 to 5.
+
+If all of Z is removed from the mixture, what will the new weight be?
+
+When one element is completely removed from the mixture, the new mixture weight is 43. Which element was removed?
+
+------------------------------
+title: Kaylee's Secrets
+type: essay
+
+Kaylee did really well on her last exam. As a result, everyone wanted to learn her secrets.
+
+"My secrets?" said Kaylee. "The key is to eat a healthy breakfast."
+
+"That is a wonderful secret!" said Hao Xiang.
+"Tell us more!" shouted Alvin.
+"More secrets please" whispered Grace, who wasn't a very loud speaker.
+
+"Well", said Kaylee. "A little bit of exercise also helps. It gets your juices going."
+
+The 4th graders took out their notepads and wrote down kaylee’s second secret. "Get your juices going."
+
+For the next 2 hours, Kaylee told secret after secret. “No more!” cried Kaylee as the clock struck the 3rd hour. Kaylee looked as if she was about to fall over. “I’m thirsty. I need a drink of water.”
+
+"Just one more secret", cried Michelle. 
+"Oh please Kaylee. Just one more", said Hao Xiang.
+
+"Okay fine! My 144th secret is to use a sharp pencil with a good eraser."
+
+Before anyone could ask another question, Kaylee covered her ears, and as fast as she could, ran away. She needed a drink of water.
+
+In the second hour, Kaylee tells twice as many secrets as in the first hour. In the third hour, Kaylee tells 30 secrets. How many secrets does Kaylee tell in the first hour?
+
+
+
+----------------
+
+John and Ben are collecting logs of wood. They must each collect 60 logs. At noon, Ben has 40 logs and John has 1/4 of what Ben has. How many more logs does John need?
+
+----------------
+
+
+Based on the position of the sun, the length of the shadow of an object will be proportional to the length of the object itself.
+
+Kloe notices a 6 inch flower has a shadow of 0.4 inches. Next, Kloe measures the shadow of a large evergreen tree and it comes out to 20 feet. How tall must the tree?
+
+----------------
+
+
+After 4 people each take a bowl of fried rice from the pan, the pan is still 2/3rds full. Based on this information, 1 bowl of fried rice is what percentage of the pan?
+
+----------------
+
+If 10% of a number is 7, what is 80% more than the number?
+
+----------------
+
+What percent of 1 hour is 1 second? 
+
+----------------
+
+Alice and Jim shoot a total of 405 basketball shots.
+Alice makes 2/3 of her shots and Jim makes 4/5.
+How many shots did they make together?
+----------------
+
+It take X beavers to build a damn in 60 days. If there were 8 more beavers, the damn could've been finished 10 days faster. Find X.
+
+----------------
+Find the largest integer n for which 5^n is a factor of 298! + 299! + 300!
+----------------
+I am divisiby by 3 and the sum of my digits is divisible by 7. What number could I be?
+----------------
+
+----------------
+
+What is the 100th decimal value of 1/13?
+
+----------------
+
+What time is it 10 hours and 45 minutes before 5:00PM?
+
+----------------
+
+
+A palindrome is a number or word that is the same backwards as it is forwards. “BOB” is a palindrome. “747” is also a palindrome. What percent of numbers from 1 to 100 are palindromes?
+
+What percent of numbers from 1 to 1,000 are palindromes?
+
+----------------
+
+How many seconds are in one year?
+
+----------------
+
+How many centimeters are in one mile?
+
+----------------
+
+There are 5 heads and 14 feet in a farm of cows and chickens. How many cows and how many chickens are there?
+
+
+----------------
+
+Alice and Bob take 2 hours to do the job.
+Bob and Charlie take 3 hours to do the job.
+Charlie and Alice take 4 hours to do the job.
+
+How many minutes will the job take if everyone works together?
+----------------
+
+Sam has 2 more sisters than she has brothers. How many more daughters than sons do Sam's parents have?
+
+----------------
+title:Sammy's Long Journey
+
+During the day, Sammy the snails climbs up the wall by 3cm. During the evening, he falls asleep and slides down by 2cm. The wall is 100 meters high. How many days will it take for the snail to reach the top of the wall
+----------------
+
+How many times do you have to divide by 2 to turn 128 into 1?
+----------------
+
+At a certain time in the morning, Sally travels from New York to Brooklyn. Along the same path and at the same departure time, Sheryl travels from Brooklyn to New York. They pass by each other at noon. Sally arrives at Brooklyn at 4PM. Sheryl arrives at New York at 9PM. What time did the two ladies depart?
+
+----------------
+note: This is not a test prep question. It requires too much generative thinking. Test prep questions will usually be less generative, and more analytical.
+
+
+Sam's age is the sum of 4 prime numbers.
+
+The second number is the third number minus the first.
+The last number is the third number plus the first.
+
+How old is Sam?
+
+----------------
+type:riddle
+
+Three friends, Mr. Red, Mr. Yellow, and Mr. Blue each wear a differently colored hat. 
+The hat colors are red, yellow, or blue.
+
+Mr. Red: My friends, none of us is wearing a hat that matches our own name.
+Mr. Yellow: You are absolutely correct Mr. Red.
+
+Who wears the blue hat?
+
+----------------
+
+
+When 15 is divided by X, the remainder is 2. What number is X?
+
+----------------
+
+John eats 1/7 of a cake and then Sarah eats 1/4 of the remaining cake. What percentage of the original cake remains?
+----------------
+
+The remainder of X divided by 4 is 5 more than the remainder of X + 3 divided by 6. What number is X?
+
+answer: x % 4 = ((x + 3) % 6) + 5
+----------------
+
+The ratio of apples to oranges to mangos is 3 to 5 to 2. If there are 12 mangos, how many fruits in total are there?
+
+----------------
+#repetitive
+The ratio of red christmas lights to blue christmas lights is 3 to 2. There are a total of 200 christmas lights. How many of them are blue?
+
+----------------
+
+Olivia is gathering peanuts, almonds, and cashews. It is winter time, and her squirrels (Nibbles and Juniper) are going to be hungry.
+
+Nibbles: I want twice as many almonds as cashews.
+Juniper: I want 3 times as many peanuts as almonds.
+
+In total, Olivia gathers 18 nuts. How many are peanuts?
+----------------
+
+Leon: If you add my number with Raymond's, it equals 12.
+Raymond: If you multiply my number with Leon's it equals 20.
+
+What could Leon and Raymond's numbers be?
+
+----------------
+
+It will be 6PM in England in 5 hours. England is 4 hours ahead of New York. What time was it in New York 3 hours ago?
+
+
+----------------
+
+Judy is 10 years older than Carmen and twice as old as Frances. If Frances is 6 years old, how old is Carmen?
+
+----------------
+
+The average of 8 numbers is 2. The number "8" is added to this set of numbers. What is the new average?
+
+----------------
+The price of watermelons increases by 10% on Monday, and then decreases by 10% on Tuesday. What is the overall percent change in price?
+
+----------------
+
+What percent of 0.006 is 3/5?
+
+----------------
+
+A standard dice has 6 sides numbered from 1 to 6. Sam rolls a dice and Bob rolls a dice. What is the probability that the sum of their dice rolls adds up to 3?
+
+
+----------------
+Title: The Secret to Math Success
+Grade Level: Implicit
+Difficulty Level: Implicit
+Characters: Implicit
+Topics: Incremental Sums
+
+Ms. Ivy was reading a book to her students called, "The Secret to Math Success".
+
+"Chapter 1", read Ms. Ivy. "Believe in yourself."
+
+Chapter 1 had 10 pages and each page had an inspirational picture along with the quote "Believe in yourself."
+
+Chapter 2 was also called, "Believe in yourself."
+
+Vincent raised his hand. "Ms. Ivy, does every page have the quote "Believe in yourself?"
+
+"I think so," said Ms. Ivy. She flipped through the book. Indeed, she didn't see a single page without the quote.
+
+In the book, each chapter has 1 more page than the previous chapter. There are a total of $incrementalSum(10, 1, 5) pages. How many chapters does Ms. Ivy's book have?
+
+----------------
+# Daphne's Brick Shop
+
+Mr. Hu needs bricks because Mrs. Hu wants a new chimney.
+
+"Brick sellers!" said Mr. Hu angrily. "They always charge extremely high prices. They make me furious."
+"Have you tried Daphne's Brick Shop?" asked Mrs. Hu.
+"Who is this Daphne?"
+"She's a very nice person," said Mrs. Hu.
+"Hmmph", said Mr. Hu. "We'll see."
+
+The next day, Mr. Hu visited Daphne's Brick Shop.
+"Hello hello", said Mr. Hu hurriedly to the young girl at the counter. "Do you know where Daphne is?"
+
+"That's me", said Daphne. "How may I help you?"
+
+"You're Daphne? But ... but you're just a kid!"
+
+“That’s right,” said Daphne defiantly. “I’m 11 years old!”
+
+“Hmm”, said Mr. Hu. He decided to give Daphne a little test. "I'm building a chimney for my wife. What type of brick would you recommend?"
+
+Without hesitating, Daphne replied, "You will need fire bricks." 
+
+"That is correct," said Mr. Hu. He took off his glasses to get a better look at Daphne. "I would also like to decorate the outside of the chimney."
+
+"Use facing bricks if you would like decorative patterns. Use clinker bricks for a more traditional or rustic look."
+
+"You really know your stuff!" said Mr. Hu excitedly.
+
+"Of course," said Daphne.
+
+Mr. Hu orders 24 facing bricks, half as many clinkers, and 4 times as many fire bricks as facing bricks and clinker bricks combined. 
+
+Here is Daphne's pricing chart.
+
+priceTable {
+    fire
+    glazed
+    clinkers
+    glass
+    roman
+    rumbled
+    facing
+    monarch
+    danish
+    concrete
+    interlinking
+    sailor
+    fly ash
+    sand lime
+}
+
+How much money does Mr. Hu spend at Daphne's Brick Shop?
+----------------
+
+Difficulty Level: 5th Grade
+Characters: Emerson, Jamin, Leon
+Topics: Finding the Middle Number
+Title: Leon's Haircut
+
+
+Leon went to the barber to get a haircut.
+"How many hairs did the barber cut?" asked Emerson
+Leon rubbed his chin. "I don't know. Maybe 500?"
+"No way", said Jamin. "Do you how small a hair is? I think it must be at least 5000 hairs.
+
+Emerson was deep in thought. Finally, he said, "I think the true number of hairs is right in the middle of both of your guesses."
+
+If Emerson is correct, how many of Leon's hairs did the barber cut?
+
+----------------
+
+If 20% of n is equal to 40, what is the value of 5 times n?
+----------------
+
+Title: Lowest Common Multiple
+type: strategy
+
+What is the LCM of 688 and 1142?
+
+Step 1: Write the prime factorizations
+
+    Prime factorization of 1142: 2 * 571
+    Prime factorization of 688: 2 * 2 * 2 * 2 * 43
+
+Step 2: List the unique factors
+
+    1. 2
+    2. 43
+    3. 571
+
+Step 3: Count the largest number of occurences
+
+    2: 
+        Shows up 1 time in 1142.
+        Shows up 4 times in 688. (WINNER)
+
+    43:
+        Shows up 0 times in 1142.
+        Shows up 1 time in 688. (WINNER)
+
+    571:
+        Shows up 1 time in 1142.  (WINNER)
+        Shows up 0 times in 688.
+
+Step 4: Put it all together
+
+    The answer is 2 * 2 * 2 * 2 * 43 * 571.
+
+----------------
+
+Half of Kaylee's pear grove is not pear trees. It's actually apple trees. However, if she plants 2 more pear trees, the percentage of apple trees goes down to 40%. How many apple trees are there in Kaylee's pear grove?
+
+----------------
+
+What is the 101st number in the repeating sequence: 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1?
+
+
+----------------
+
+Emerson and Owen are training for a race.
+Emerson runs a lap every 20 minutes.
+Owen runs a lap every 15 minutes.
+
+When Owen is at the halfway point of his 4th lap, what fraction of his current lap does Emerson still need to complete?
+----------------
+
+
+# Jamin's Chicken Burgers
+diff: hard
+
+On a very large rectangular steel rack 2 feet wide, Jamin grills 20 chicken patties at a time.
+
+Each chicken patty is in the shape of a circle with a radius of 3 inches.
+Each chicken patty needs to have 2 inches of space on all sides.
+
+----------------
+How many 1 inch cubes fit inside a 1 foot cube?
+
+----------------
+
+Sammy the snail crawls 1 inch a day. How many hours will it take Sammy to crawl 0.5 inches?
+----------------
+
+The price of a lemon tree is halved 10 times. Right now, te price is 1 dollar. What was the original price of the lemon tree?
+----------------
+
+#Bonnie's Bagel Shop
+
+Every morning Bonnie makes the best bagels in town. To make 50 bagels, she uses 2/15 of a sack of flour.
+
+This morning, Bonnie made 200 bagels. If th
+
+What fraction of the sack of flour did she use?
+
+8/15
+
+Jeff's Pokemon Card Shop
+
+At Jeff's pokemon card shop, holographic rares cost 5 dollars. Regular rares cost half as much as holographic rares. Commons cost 20 cents. Uncommons cost 3 times as much commons.
+
+Mingru buys 1 holographic rare, 2 regular rares, 3 uncommons, and 4 commons. How much money does Mingru spend?
+
+1 * 5 + 2.5 * 2 + 60 * 3 + 20 * 4
+
+#Stephanie's Perfume Shop
+
+Stephanie is mixing together herbs and oils to make wonderful perfumes. Her best-selling perfume is called "lavender ocean breeze."
+
+Her recipe is top secret, but here is what we know.
+
+Stephanie uses:
+1/15 of a bottle of coconut.
+1/20 of a bottle of alcohol.
+1/30 of a bottle of essential oil.
+
+
+How much more coconut than alcohol does Stephanie use?
+1/15-1/20
+--
+How much more alcohol than coconut does Stephanie use?
+1/20-1/30
+
+--
+How much coconut, alcohol, and essential oil does she use in total?
+
+
+#Fraction Rank
+
+For ranking fractions, think of the denominator as the number of pizza slices. If you cut the pizza into more and more slices, that means each person's slice becomes smaller, and smaller.
+
+@sequence(1/15, 1/20, 1/30, 1/45)
+
+Rank the fractions from SMALLEST to BIGGEST.
+
+@answerBox(smallestToBiggest, 4)
+
+
+#Find the Value of X + Y + Z
+
+x + 5 = 20
+y - 5 = 20
+z + y = 25
+
+What does x + y + z equal?
+
+15 
+20
+25
+40
+
+
+@circle
+What does 9 divided by 5 equal?
+1R4
+
+Fraction to Mixed Number
+The way I turn 9/5 into a mixed number is first I do 9 divided by 5 which equals 1 remainder 4.
+
+
+
+2^30 is approximately equal to 1 billion.
+Which answer choice is closest to 2^32?
+3 billion
+4 billion
+5 billion
+6 billion
+
+2 times 2 times 2 times 2 ... 30 times equals 1073741824.
+1 billion equals 1000000000.
+
+What does 1073741824 - 1 billion equal?
+
+
+
+
+Sum of all the factors
+
+What is the sum of the factors of 28?
+
+56
+
+
+Ratios 
+10 pens cost $5.90.
+How much do 5 pens cost?
+
+Ratios 
+10 pens cost $5.90.
+How much do 4 pens cost?
+
+What is the K-factor to go from A to B?
+
+
+Step 1. Find the factors of 1.
+Step 2. Add up all of the factors.
+
+Repeat steps 1 and 2 for the numbers (2,4,8,16,32,64)
+
+There is a pattern.
+
+What is the sum of all the factors of 1024?
+Normally, this question might take a few minutes because you have to find all of the factors one at a time.
+However, the pattern will let you figure out the answer much much faster.
+
+Rank the following numbers from SMALLEST to LARGEST.
+
+-4, 1, 0, -3, -2.
+
+#Finding Prime Numbers
+
+@range(70, 80)
+
+Circle all of the prime numbers from 70 to 80.
+
+Tip #1: The only even prime number is 2.
+Tip #2: Any number that ends in 5 can be divided by 5.
+
+#Mystery Prime Number
+
+I am a prime number between 70 and 80.
+If you subtract my ten's digit from my one's digit, the result is also a prime number!
+
+What number am I?
+----------------
+
+Alexander decides to buy his friends 2 packs of pencils or 3 packs of erasers. 
+
+Anderson: Can I have pencils and erasers?
+Alexander: Nope, you get what you get.
+Anderson: But ... but I'm your bro!
+
+Here are the prices at the school supply store.
+
+priceTable {
+    pencil pack: 1.50
+    eraser pack: 1.25
+}
+
+Alexander spends exactly 11.75 dollars.
+The number of eraser packs he buys is 3. 
+How many friends did Alexander buy school supplies for?
+
+
+
+Hammy Hint: Hi everyone. It's me Hammy. This question might seem like it has a lot of possibilities, but trust me. There is only one answer.
+
+Write out the possibilities.
+Some of you (cough Mingru cough) will try to do this question in your head.
+
+Practice writing it out on paper.
+It will make you strong.
+
+Hammy is telling the truth.
+
+--------------------------------------------------------
+
+At dance class, Austin steps to the left. Then steps to the right. Then steps forwards. Then steps backwards. Then twirls his hands. Then shakes his knees. Then jumps in the air and does the splits. Then, the pattern repeats.
+
+During one song, the total number of twirls and knee shakes Austin does adds up to 10. Based on this information, how many times did Austin step?
+
+--------------------------------------------------------
+Summer time is the perfect time to play mahjong. 
+
+But you can't play Mahjong without bubble tea. That's why Mrs. Ping and her friends always order from Sandy and Shujing's Bubble Tea Shop.
+
+dialogue Mrs. Ping & Shujing {
+
+    Hi Shujing, it's me again.
+
+    Why hello there Mrs. Ping! 
+    Are you and your friends are playing Mahjong today?
+
+    We most certainly are. 
+
+    I am ready to take your order!
+    insertion needed
+
+}
+
+Here is Sandy and Shujing's bubble tea menu. 
+What will the final price be?
+
+
+09-19-2023 
+
+
+What did the buffalo dad say to his kid who was leaving for an adventure?
+
+Start: 81
+Shift 1: 8.1
+Shift 2: 0.81
+Shift 3: 0.081
+Shift 4: 0.0081 
+
+Example 2: 0.9 * 600
+
+First do 9 * 6 = 54
+Second, there are 2 extra zeros. Shift RIGHT twice. There is 1 decimal place. Shift LEFT once.
+
+Start: 54
+Shift right 1: 540
+Shift right 2: 5400
+Shift left 1: 540
+
+Example 3: 0.01 * 0.2 * 3000
+
+First, do 1 * 2 * 3 = 6
+Second, There are 3 extra zeroes. Shift RIGHT 3 times. There are 3 decimal places in total. Shift LEFT 3 times. 
+
+Start: 6
+Shift right 1: 60
+Shift right 2: 600
+Shift right 3: 6000
+Shift left 1: 600
+Shift left 2: 60
+Shift left 3: 6
+
+Tip: If you have the same number of extra zeros and decimals, they will cancel each other out.
+
+${toString(iterate(
+
+09-30-2021 !Removing Decimals from Fractions
+
+Example 1: 1/0.1 has a decimal place in the bottom. Multiply the top and bottom by 10 because there is 1 decimal place.
+
+Example 2: 0.23/0.00000009
+
+There are 8 decimal places in the denominator. There are 2 decimal places in the numerator. The winner is 8. Multiply the top and bottom with 8 zeroes. 
+
+8 zeroes means "times 100,000,000".
+
+The denominator's 8 decimal places will cancel with the 8 zeroes. We will be left with the number 9.
+
+For the numerator, if we are multiplying by 8 zeroes, that means we shift RIGHT 8 times.
+
+Current: 0.23
+1 shift: 2.3  
+2 shift: 23
+3 shift: 230
+4 shift: 2300
+5 shift: 23000
+6 shift: 230000
+7 shift: 2300000
+8 shift: 23000000
+
+The answer is 23000000/9.
+
+
+break
+
+${toString(iterate(10, (i) => stepbounded(randomfractiondecimal, i)()))}

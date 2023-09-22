@@ -1,112 +1,114 @@
+# Stephen's Special Ability
+
+topics: guessing prime numbers
+
+It was a peaceful evening.
+Stephen was finishing up his math homework.
+He had one more question, and then it would be time to watch Naruto.
+
+.centered-math-question 
+I am 2-digit prime number and my digits add up to 10. What is the smallest number I could be?
+
+"Hmm...", thought Stephen. The digits need to add up to 10. He wondered what the number was. It needed to be a prime number. He knew 11 was a prime number. Was the answer 11?
+
+"It can't be", Stephen said to himself.
+"The digits of 11 only add up to 2."
+
+Maybe the number was 53?
+Stephen sighed. It wasn't 53.
+53 was indeed prime, but the digits of 53 add up to 8.
+
+It couldn't be 63 either.
+6 + 3 equals 9
+
+"73!" Stephen shouted aloud.
+The number had appeared in his mind like a bolt of lightning.
+
+The digits of 73 add up to 10.
+Also, 73 feels like a prime number.
+
+You can't divide it by 2, 4, 6, 8 because 73 is odd.
+You can't divide it by 3 because of Mrs. Ping's trick.
+You can't divide it by 5.
+
+The answer was 73!
+
+Stephen typed on his keyboard, "73."
+Soon, it would be time to watch Naruto.
+He clicked "submit answer."
+
+The screen flashed, "Incorrect."
+
+What!
+But how?
+How could 73 be incorrect?
+73 was a prime number.
+The digits of 73 added up to 10.
+
+Stephen read the question again.
+
+.centered-math-question 
+I am 2-digit prime number and my digits add up to 10. What is the smallest number I could be?
+
+Ahhhhh. 
+Stephen had forgotten a very important detail: "Smallest."
+
+"My answer works", Stephen said to himself. "But there must be another prime number that adds up to 10 which is smaller than 73."
+
+Stephen's eyes lit up. "37!"
+
+Afterall, 37 was just 73 reversed.
+37 felt like a prime number because lots of numbers that end in 7 are prime.
 
 
-Hmm... thought Stephanie. And the digits need to add up to 10.
+It's odd so it can't be divided by 2,4,6,8.
+Mrs. Ping's trick says you can't divide it by 3.
+You can't divide it by 5.
 
-She knew 11 was a prime number. But the digits of 11 add up to 2.
+Stephen ran through the numbers in his head.
+Yes. He was pretty sure the answer was 37.
 
-Maybe 53? 
-Nope. The digits of 53 add up to 8.
+He typed "37" and pressed "submit answer."
 
-55 thought Stephanie triumphantly.
-Wait a minute.
-55 ends with 5.
-That means you can divide it by 5.
-55 is not a prime number.
+Incorrect Answer
 
-Sigh. This was taking too long.
-Stephanie had no other choice.
-Stephanie didn't want to, but she would use it.
+Nooooooooooooooooooooo!
+How could 37 still be wrong?
 
-It was a special ability that all young ninjas are taught.
+Stephen looked at the clock.
+It was 4:37PM.
+Naruto was starting soon.
 
-Special Ninja Technique! shouted Stephen.
-Steven formed the hand signs in rapid motion.
 
-OX
+Stephen had no choice. 
+He would have to use it.
 
-BEAR
+He didn't want to use it. But he would.
+It was his special ability.
 
-WOLF
+Stephen got up from his chair.
+He took a deep breath, and slowly exhaled.
+He took another deepth breath and then shouted, "STEPHEN SPECIAL ABILITY!"
 
-HARE
+Stephen formed the ninja hand signs in rapid motion.
 
-"Show-my-work-no-jutsu!!!!!!" shouted Stephen.
+@handSigns()
 
-Lights sparkled around Stephen.
-Wind started circling around Stephen's room.
+The ground shook.
+Light sparkled around Stephen.
+Wind circled around his hands.
 
-Poof! A sharp Number 2 pencil appeared in his left hand.
+"SHOW-MY-WORK-NO-JUTSU!!!!!!!!!!"
 
-Poof! A sharp Number 2 pencil appeared in his right hand.
+Poof! A sharp number 2 pencil appeared in Stephen left hand.
+Poof! A sharp number 2 pencil appeared in Stephen right hand.
 
-Kiyahhhhhhhhhhhhhh!
+With a pencil in both hands, Stephen wrote out all the prime numbers from 1 to 100. 
 
-With a pencil in both hand, Stephen started showing all of his work. He wrote out all the prime numbers from 1 to 70. 
+"This is the power", cried Stephen, "of showing my work!"
 
-"Ah ha!" said Steven, when he finished. "Now I see everything!"
+@stephenSequence({range: [1, 100], prime: 1, highlight: {digitSum: 10}})
 
-He looked at all of the prime numbers he had written. 3 of them stood out.
+Stephen smiled. He saw everything. He looked at all of the prime numbers he had just written. 3 of them stood out. Stephen picked the smallest one, and submitted his answer.
 
-The question only needed one answer.
-Stephen, 
-
-I a 2-digit prime number and my digits add up to 10. What number am I?
-
-Stephen wrote his answer.
-
-The first number you could be is 19.
-The second number you could be is 
-
-You want one?
-I will give you three!
-
-Stephen's mom walked into the kitchen.
-
-Why is it so dirty in here?
-
-Kiyaaaah!
-
-The End
-
-Stephen Special Ability: 
-
-Before he realized it, he had finished all of his homework.
-
-He wrote out all the ...
-
-There were two of them!
-
-There are pieces
-
-Stephanie's Fractions
-
-It was a pleasant evening.
-
-Wait a minute.
-
-What was that white paper on her 
-
-Actually Stephanie had a small
-
-"Grandmama!"
-
-Get away from our Stephanie
-
-You can have some humor inside.
-
-Muhahahaha.
-
-Stephanie's grandma looked at Stephanie for a moment, then she grabbed a broom.
-
-She rushed to Stephanie's room.
-
-Indeed, in the center of Stephanie's desk was the 
-
-You get away from our Stephanie shouted Grandma Li.
-
-She raised the broom high above her head, and brought it down.
-
-Rather than give advice, give actionable events.
-Relationships require chemistry, compatability, and values. Values come from culture and experiences.
-Sometimes the letters do not work. Sometimes, they do work. 
-My interaction with Devin the teacher Assistant was perhaps incorrect.
+This time, it was correct.

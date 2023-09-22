@@ -1,0 +1,354 @@
+[
+  {
+    "score": 78,
+    "gradeLevel": 4,
+    "fullName": "Haojun",
+    "firstName": "Haojun",
+    "comments": "Haojun is a good student.\nSometimes, he works too fast and makes mistakes.\n\nTry to slow down Haojun.\nBy slowing down, you will be able to be more careful.\nMore importantly, helps your brain grow stronger.\n\nSlowing down is not fun or easy.\nBut it is important.\n\nHaojun did not do well on this last exam. I will give Haojun extra help.\nNext time, Haojun will definitely do better.\n\n",
+    "grades": {
+      "Problem Solving": "B",
+      "Logical Reasoning": "B",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A-",
+      "Overall Performance": "B"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 93,
+    "gradeLevel": 4,
+    "fullName": "Shu Jing Zhao",
+    "firstName": "Shujing",
+    "comments": "Shujing is wonderful.\nShujing is kind, sincere, and is a joy to have in class.\n\nShujing is very funny. She has a playful nature and a great sense of humor.\nShujing is creative. She often has interesting solutions for her math problems.\n\nOne of Shujing's weaknesses is calculations.\nSometimes, Shujing makes simple mistakes.\n\nBut I know Shujing knows how to do it.\nAll she needs to do is focus more, and I know 100%, these simple mistakes will disappear.\n\nKeep up the good work Shujing.\n",
+    "grades": {
+      "Problem Solving": "A-",
+      "Logical Reasoning": "A-",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A-"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 93,
+    "gradeLevel": 4,
+    "fullName": "Austin Wang",
+    "firstName": "Austin",
+    "comments": "Austin is wonderful.\nAustin is kind, sincere, and is a joy to have in class.\n\nAustin is hardworking. His homework is always completed well. \nAustin often does extra assignments in class, as well as extra homework worksheets. \n\nI am proud of Austin's work ethic.\n\nAustin cares about his work. That is one of the most important traits for a student to have.\nKeep up the good work Austin.\n",
+    "grades": {
+      "Problem Solving": "A",
+      "Logical Reasoning": "A",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 95,
+    "gradeLevel": 4,
+    "fullName": "Anderson Chen",
+    "firstName": "Anderson",
+    "comments": "Anderson is wonderful.\nAnderson is kind, sincere, and is a joy to have in class.\n\nAnderson brings a fun sense of humor to class. When we do math readings, Anderson often reads with an australian accent that makes all of his classmates laugh.\n\nWhen Anderson is in the mood, he does excellent work.\nOn these days, he is super productive and it is wonderful.\n\nSometimes during class, Anderson likes to brag.\nI hope Anderson will brag a little bit less.\n\nAnderson is a strong student.\nBut the secret to growing stronger and stronger and stronger is to be humble.\n\n",
+    "grades": {
+      "Problem Solving": "A",
+      "Logical Reasoning": "A",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 95,
+    "gradeLevel": 4,
+    "fullName": "Alexander Chen",
+    "firstName": "Alexander",
+    "comments": "Alexander is wonderful.\nAlexander is kind, sincere, and is a joy to have in class.\n\nSometimes Alexander doesn't follow class rules. \nBut I know Alexander doesn't do it on purpose.\n\nAlexander is caring. He often looks out for his classmates.\nWhen Anderson's shoe isn't tied, Alexander ties it for him.\nWhen one coloring picture is saved for Felix, Alexander takes it out of the pile and gives it to the teacher so that no one else take Felix's picture.\nWhen the classroom board is dirty, Alexander will often wipe it down, even when the teacher doesn't want him to.\n\nWhen Alexander wants to be, he can be a very mature young man.\nMr. Lee is always happy to see it.\n\n",
+    "grades": {
+      "Problem Solving": "A",
+      "Logical Reasoning": "A",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 92,
+    "gradeLevel": 4,
+    "fullName": "Ming Rui Zhu",
+    "firstName": "Mingrui",
+    "comments": "Mingrui is wonderful.\nMingrui is kind, sincere, and is a joy to have in class.\n\nMingrui is a good student.\nSometimes, he works too fast and makes mistakes.\n\nTry to slow down Mingrui.\nBy slowing down, you will be able to be more careful.\nMore importantly, helps your brain grow stronger.\n\nSlowing down is not fun or easy.\nBut it is important.\n\n",
+    "grades": {
+      "Problem Solving": "A-",
+      "Logical Reasoning": "A-",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 94,
+    "gradeLevel": 4,
+    "fullName": "Bonnie Jiang",
+    "firstName": "Bonnie",
+    "comments": "Bonnie is wonderful.\nBonnie is kind, sincere, and is a joy to have in class.\n\nBonnie does good neat work.\nShe has excellent handwriting.\nShe has many different colored pens that she likes to write with.\n\nSometimes Bonnie talks too much to her friends.\nBut most of the time, Bonnie is a very good student.\n\nBonnie is capable of a lot.\nI hope she will push herself 1 inch further because she can definitely do it.\n\n",
+    "grades": {
+      "Problem Solving": "A-",
+      "Logical Reasoning": "A-",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 88,
+    "gradeLevel": 4,
+    "fullName": "Stephen Mai",
+    "firstName": "Stephen",
+    "comments": "Stephen is wonderful.\nStephen has a fun sense of humor and brings a happy feeling to the class.\n\nSometimes Stephen goofs off too much, but for the most part, Stephen's classroom behavior has been excellent.\n\nFor this exam, Stephen could've done much better.\nStephen usually does very well with fractions.\nSomehow on this exam, Stephen seems to have forgotten it.\n\nStephen doesn't show much work and still often gets the answer correct. This is a bad habit. For 4th grade, it is okay. But math will get much harder. Showing work is a very important skill.\n",
+    "grades": {
+      "Problem Solving": "A",
+      "Logical Reasoning": "A",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A-",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 86,
+    "gradeLevel": 4,
+    "fullName": "Felix Lee",
+    "firstName": "Felix",
+    "comments": "Felix is a good student who cares very much about his work.\nHe often asks questions, and after school, will do extra work with the teacher.\n\nSometimes, Felix does not get a good score on quizzes or exams.\nHowever, Felix is very capable of doing them. One time, he solved a super long division question over 10 digits that he wrote all for himself.\n\nWhen Felix is focused and attentive, Felix's abilities are much stronger.\n\nI know Felix will do much better on the next exam.\nWe will do extra practice and make it happen.\n\n",
+    "grades": {
+      "Problem Solving": "B+",
+      "Logical Reasoning": "A-",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A-"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 82,
+    "gradeLevel": 4,
+    "fullName": "Stephanie Li",
+    "firstName": "Stephanie",
+    "comments": "Stephanie is wonderful.\nStephanie is kind and considerate, and is a joy to have in class.\nYou can always count on Stephanie to take care of her friends.\n\nSometimes, Stephanie is super neat, and her work is super good. \nSometimes, Stephanie is a potato.\n\nStephanie didn't do that well on our first exam.\nI know Stephanie will do better on the next one because Stephanie is going to have extra practice.\n\n",
+    "grades": {
+      "Problem Solving": "B+",
+      "Logical Reasoning": "B+",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A-"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 91,
+    "gradeLevel": 4,
+    "fullName": "Jayden Zhang",
+    "firstName": "Jayden",
+    "comments": "Usually, Jayden is sweet, caring, and wonderful. \nSometimes, Jayden is a grumpy potato.\n\nBut that's okay.\nEveryone has good days and bad days.\n\nJayden is very capable of mathematics.\nBut when he is in the mood to work, he can do very good work.\n\n",
+    "grades": {
+      "Problem Solving": "B+",
+      "Logical Reasoning": "B+",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A-"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 94,
+    "gradeLevel": 4,
+    "fullName": "Ivy Liu",
+    "firstName": "Ivy",
+    "comments": "Ivy is wonderful.\nIvy is kind and considerate, and is a joy to have in class.\n\nI am very proud of Ivy always asking lots of questions.\nI am very proud of Ivy being super focused during exams.\n\nI believe a very important thing for Ivy, is when Ivy believes in Ivy.\nIvy always does great work when she believes in herself.\n\nKeep up the good work Ivy.\nKeep growing stronger and stronger and stronger.\n\n",
+    "grades": {
+      "Problem Solving": "A-",
+      "Logical Reasoning": "B+",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A-"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 100,
+    "gradeLevel": 4,
+    "fullName": "Vincent Chen",
+    "firstName": "Vincent",
+    "comments": "Vincent is wonderful.\nVincent is kind, sincere, and is a joy to have in class.\n\nVincent is a strong student.\n\nSometimes, strong students fall into the trap of over-confidence.\nI hope Vincent doesnt fall into this trap.\nI hope Vincent stays calm like a cucumber.\n\nKeep growing stronger and stronger and stronger Vincent.\nThere are many more things to discover,\nMany more things to create.\n\n",
+    "grades": {
+      "Problem Solving": "A",
+      "Logical Reasoning": "A",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 97,
+    "gradeLevel": 4,
+    "fullName": "Alex Deng",
+    "firstName": "Alex",
+    "comments": "Alex is wonderful.\nAlex is kind, sincere, and is a joy to have in class.\n\nHe is neat and studious and a strong learner.\nI am very proud of his effort and consistent work.\n\nKeep it up Alex.\nKeep growing stronger and stronger and stronger.\n\n",
+    "grades": {
+      "Problem Solving": "A",
+      "Logical Reasoning": "A",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 95,
+    "gradeLevel": 4,
+    "fullName": "Jeffery Liang",
+    "firstName": "Jeffery",
+    "comments": "Jeffery is wonderful.\nJeffery is kind, sincere, and is a joy to have in class.\n\nHe is neat and studious and a strong learner.\nI am very proud of his effort and consistent work.\n\nKeep it up Jeffery.\nKeep growing stronger and stronger and stronger.\n\n",
+    "grades": {
+      "Problem Solving": "A",
+      "Logical Reasoning": "A",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 80,
+    "gradeLevel": 4,
+    "fullName": "Sandy Chen",
+    "firstName": "Sandy",
+    "comments": "Sandy is wonderful.\nSandy is kind, sincere, and is a joy to have in class.\n\nSandy has not been doing very well this semester. We have been learning fractions and it is a little bit hard for Sandy.\n\nBut Sandy has a very good attitude.\nI hope Sandy will believe in herself that it is all going to make sense.\nAll she needs is a little more practice.\n\n",
+    "grades": {
+      "Problem Solving": "B+",
+      "Logical Reasoning": "B+",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "B+",
+      "Overall Performance": "B+"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 96,
+    "gradeLevel": 5,
+    "fullName": "Leon Tang",
+    "firstName": "Leon",
+    "comments": "Leon is wonderful.\nLeon is kind, sincere, and is a joy to have in class.\n\nLeon is a good student.\nSometimes, he works too fast and makes mistakes.\n\nTry to slow down Leon.\nBy slowing down, you will be able to be more careful.\nMore importantly, helps your brain grow stronger.\n\nSlowing down is not fun or easy.\nBut it is important.\n\n",
+    "grades": {
+      "Problem Solving": "B+",
+      "Logical Reasoning": "A",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 96,
+    "gradeLevel": 5,
+    "fullName": "Olivia Jiang",
+    "firstName": "Olivia",
+    "comments": "Olivia is wonderful.\nOlivia is kind, sincere, and is a joy to have in class.\n\nShe is neat and studious and a strong learner.\nI am very proud of her effort and consistent work.\n\nKeep it up Olivia.\nKeep growing stronger and stronger and stronger.\n\n",
+    "grades": {
+      "Problem Solving": "A-",
+      "Logical Reasoning": "A-",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 95,
+    "gradeLevel": 5,
+    "fullName": "Jamin Weng",
+    "firstName": "Jamin",
+    "comments": "Jamin is wonderful.\nJamin is kind, sincere, and is a joy to have in class.\n\nHe is neat and studious and a strong learner.\nI am very proud of his effort and consistent work.\n\nKeep it up Jamin.\nKeep growing stronger and stronger and stronger.\n\n",
+    "grades": {
+      "Problem Solving": "A",
+      "Logical Reasoning": "A",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 91,
+    "gradeLevel": 5,
+    "fullName": "Daphne Ye",
+    "firstName": "Daphne",
+    "comments": "Daphne is wonderful.\nDaphne is kind, sincere, and is a joy to have in class.\n\nShe is neat and studious and a strong learner.\nI am very proud of her effort and consistent work.\n\nKeep it up Daphne.\nKeep growing stronger and stronger and stronger.\n\n",
+    "grades": {
+      "Problem Solving": "A",
+      "Logical Reasoning": "A-",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 85,
+    "gradeLevel": 5,
+    "fullName": "Emerson Cheng",
+    "firstName": "Emerson",
+    "comments": "Emerson is wonderful.\nEmerson is kind, sincere, and is a joy to have in class.\n\nEmerson has not been doing very well this semester. We have been learning fractions and it is a little bit hard for Emerson.\n\nBut Emerson has a very good attitude.\nI hope Emerson will believe in herself that it is all going to make sense.\nAll he needs is a little more practice.\n\n",
+    "grades": {
+      "Problem Solving": "B",
+      "Logical Reasoning": "B",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "B"
+    },
+    "title": "Spring Exam 1"
+  },
+  {
+    "score": 94,
+    "gradeLevel": 5,
+    "fullName": "Owen",
+    "firstName": "Owen",
+    "comments": "Owen is wonderful.\nOwen is kind, sincere, and is a joy to have in class.\n\nOwen is strong at math. He picks up new ideas quickly and has a good feeling for numbers.\nBut Owen has a big weakness: His work is messy.\n\nThis messiness often leads to careless mistakes.\n\nTry to be a little bit neater Owen. \nYou will make less careless mistakes. You will see big improvements in your math.\n\n",
+    "grades": {
+      "Problem Solving": "A-",
+      "Logical Reasoning": "A",
+      "Attendance": "A",
+      "Class Participation": "A",
+      "Homework Completion": "A",
+      "Overall Performance": "A-"
+    },
+    "title": "Spring Exam 1"
+  }
+]

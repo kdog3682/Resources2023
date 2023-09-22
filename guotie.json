@@ -1,0 +1,412 @@
+[
+  {
+    "error": {
+      "type": "TypeError",
+      "message": "points is not iterable"
+    },
+    "input": "rotateTriangleVertexNoMatrix(...points(0, 0, 3, 0, 0, 3), 0, 90)"
+  },
+  {
+    "success": [
+      [
+        null,
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        null,
+        null
+      ]
+    ],
+    "input": "flipTriangleVerticalWithMatrix(points(0, 0, 4, 0, 1, 1, Array))"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "result is not defined"
+    },
+    "input": "result"
+  },
+  {
+    "success": [
+      [
+        null,
+        null
+      ],
+      [
+        null,
+        null
+      ]
+    ],
+    "input": "matrixMultiplication(...toMatrix(\"0120 11-20\"))"
+  },
+  {
+    "success": [
+      [
+        0,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "input": "matrixMultiplication(unitShear, unitRotation)"
+  },
+  {
+    "success": [
+      [
+        1,
+        1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "input": "matrixMultiplication(unitRotation, unitShear)"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "question is not defined"
+    },
+    "input": "question"
+  },
+  {
+    "input": "builder.box()"
+  },
+  {
+    "input": "builder.box(10, 20)"
+  },
+  {
+    "input": "builder.javascript(javascriptcirclestring)"
+  },
+  {
+    "success": "<!DOCTYPE html><html lang=\"en\">\n    <body>\n        <svg viewBox=\"0 0 200 200\" unit=\"pt\"\n            style=\"width: 200pt; height: 200pt;\"\n        >\n            <pattern id=\"pattern-1\"\n                patternUnits=\"userSpaceOnUse\"\n                width=\"10\" height=\"10\"\n            >\n                <rect x=\"0\" y=\"0\" width=\"10\" height=\"10\"\n                    fill=\"#f00\"\n                />\n                </rect>\n                <line x1=\"0\" y1=\"10\" x2=\"10\" y2=\"0\"\n                    stroke=\"#fff\" stroke-width=\"2\"\n                    transform=\"rotate(180 5 5)\"\n                />\n                </line>\n            \n            </pattern>\n            <path fill=\"url(#pattern-1)\"\n                d=\"M200,100 A100,100 0 0,0 100,0 L100,100 Z\"\n            >\n            </path>\n            <pattern id=\"pattern-2\"\n                patternUnits=\"userSpaceOnUse\"\n                width=\"10\" height=\"10\"\n            >\n                <rect x=\"0\" y=\"0\" width=\"10\" height=\"10\"\n                    fill=\"#0f0\"\n                />\n                </rect>\n                <line x1=\"0\" y1=\"10\" x2=\"10\" y2=\"0\"\n                    stroke=\"#fff\" stroke-width=\"2\"\n                    transform=\"rotate(45 5 5)\"\n                />\n                </line>\n            \n            </pattern>\n            <path fill=\"url(#pattern-2)\"\n                d=\"M100,200 A100,100 0 0,0 200,100 L100,100 Z\"\n            >\n            </path>\n            <pattern id=\"pattern-3\"\n                patternUnits=\"userSpaceOnUse\"\n                width=\"10\" height=\"10\"\n            >\n                <rect x=\"0\" y=\"0\" width=\"10\" height=\"10\"\n                    fill=\"#00f\"\n                />\n                </rect>\n                <line x1=\"0\" y1=\"10\" x2=\"10\" y2=\"0\"\n                    stroke=\"#fff\" stroke-width=\"2\"\n                    transform=\"rotate(180 5 5)\"\n                />\n                </line>\n            \n            </pattern>\n            <path fill=\"url(#pattern-3)\"\n                d=\"M0,100.00000000000001 A100,100 0 0,0 100,200 L100,100 Z\"\n            >\n            </path>\n            <path fill=\"#ff0\"\n                d=\"M99.99999999999999,0 A100,100 0 0,0 0,100.00000000000001 L100,100 Z\"\n            >\n            </path>\n        \n        </svg>\n    </body>\n</html>",
+    "input": "pichart()"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "aliases is not defined"
+    },
+    "input": "{aliases}"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "colors is not defined"
+    },
+    "input": "{colors}"
+  },
+  {
+    "input": "debugComponent(VColorButton)"
+  },
+  {
+    "input": "debugComponent(VFoobar)"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "html is not defined"
+    },
+    "input": "html.import('vue')"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "html is not defined"
+    },
+    "input": "html.import('style.css')"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "html is not defined"
+    },
+    "input": "html.import('compiled.js')"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "js is not defined"
+    },
+    "input": "js.component(VFoobar)"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "html is not defined"
+    },
+    "input": "html.toString()"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "SVGLine is not defined"
+    },
+    "input": "stringify(SVGLine({width: '100%'}))"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "bbb is not defined"
+    },
+    "input": "uid(bbb, ccc)"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "dom is not defined"
+    },
+    "input": "uid(dom.activeElement)"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "dom is not defined"
+    },
+    "input": "uid(dom.activeElement.getAncestors())"
+  },
+  {
+    "success": "1.006",
+    "input": "fixFloatingPoint('1.006')"
+  },
+  {
+    "input": "closestDecimalApproximation(1980, 1)"
+  },
+  {
+    "input": "foo_april16_12pm"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "g is not defined"
+    },
+    "input": "g()"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "g is not defined"
+    },
+    "input": "g()"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "g is not defined"
+    },
+    "input": "g()"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "g is not defined"
+    },
+    "input": "g()"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "g is not defined"
+    },
+    "input": "g()"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "a is not defined"
+    },
+    "input": "{a, d, e}"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "a is not defined"
+    },
+    "input": "'got it', {a, d, e}"
+  },
+  {
+    "success": [
+      6.5,
+      8
+    ],
+    "input": "getClosestMultiplicativePair(52, 1)"
+  },
+  {
+    "success": 1980,
+    "input": "44 * 45"
+  },
+  {
+    "success": {
+      "data": [
+        1,
+        0,
+        3,
+        2,
+        4
+      ],
+      "question": "myNumbers[x] + myNumbers[y] = 1\nWhat could the values of x and y be?",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "input": "generateCodeArithmetic([0, 1,2,3,4])"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "x is not defined"
+    },
+    "input": "insert2(x, -0, 'aaaaffffffffffff')"
+  },
+  {
+    "success": true,
+    "input": "-0 === 0"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "x is not defined"
+    },
+    "input": "x"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "x is not defined"
+    },
+    "input": "insert2(x, 0, 'fish')"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "x is not defined"
+    },
+    "input": "insert2(x, 0, 'fisha')"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "x is not defined"
+    },
+    "input": "insert2(x, 1, 'fishy')"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "x is not defined"
+    },
+    "input": "insert2(x, -2, 'fishyyyy')"
+  },
+  {
+    "error": {
+      "type": "TypeError",
+      "message": "Cannot read properties of undefined (reading 'length')"
+    },
+    "input": "mashupMultiplicationGrid()"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "t is not defined"
+    },
+    "input": "t.setColumnHeaders(['ch2'])"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "t is not defined"
+    },
+    "input": "t.setRowHeaders(['rh1'])"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "t is not defined"
+    },
+    "input": "t.insertColumn([1], 1)"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "t is not defined"
+    },
+    "input": "t.insertColumn([2], 0)"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "t is not defined"
+    },
+    "input": "t.insertRow([2], 0)"
+  },
+  {
+    "error": {
+      "type": "ReferenceError",
+      "message": "t is not defined"
+    },
+    "input": "t"
+  },
+  {
+    "success": ".row-container {\n    display: flex;\n}\n\n.row-child-item {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n\n.column-container {\n    display: flex;\n    flex-direction: column;\n}\n\n.column-child-item {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n\n.box {\n    width: 50pt;\n    height: 50pt;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n\n",
+    "input": "cssPage(str1681740551)"
+  },
+  {
+    "input": "editjsbin()"
+  },
+  {
+    "success": "<div class=\"row-container\">\n    <div style=\"position: relative;\">\n        <div style=\"z-index: 1; width: 100%;\n            height: 100%; background: transparent;\n            position: absolute;\">\n            <div class=\"box\">1</div>\n        \n        </div>\n        <svg style=\"z-index: -1; width: 100%;\n            height: 100%; position: absolute;\n            background: white;\">\n        </svg>\n    </div>\n    <div style=\"position: relative;\">\n        <div style=\"z-index: 1; width: 100%;\n            height: 100%; background: transparent;\n            position: absolute;\">\n            <div class=\"box\">2</div>\n        \n        </div>\n        <svg style=\"z-index: -1; width: 100%;\n            height: 100%; position: absolute;\n            background: pink;\">\n        </svg>\n    </div>\n    <div style=\"position: relative;\">\n        <div style=\"z-index: 1; width: 100%;\n            height: 100%; background: transparent;\n            position: absolute;\">\n            <div class=\"box\">3</div>\n        \n        </div>\n        <svg style=\"z-index: -1; width: 100%;\n            height: 100%; position: absolute;\n            background: black;\">\n        </svg>\n    </div>\n</div>",
+    "input": "foo1681736786()"
+  },
+  {
+    "success": {
+      "width": "3pt",
+      "font-weight": "bold"
+    },
+    "input": "objectToStyleObject({width: 3, bold: true})"
+  },
+  {
+    "error": {
+      "type": "TypeError",
+      "message": "Cannot read properties of undefined (reading 'trim')"
+    },
+    "input": "emGuidedMultiplication(123, 34)"
+  },
+  {
+    "success": {
+      "a,1undefined": "a",
+      "b,2undefined": "a",
+      "c,3undefined": "a"
+    },
+    "input": "reduce({a:1, b:2, c:3}, (k, v) => [k + v, 'a'])"
+  },
+  {
+    "success": "true",
+    "input": "true.toString()"
+  },
+  {
+    "success": "false",
+    "input": "false.toString()"
+  },
+  {
+    "input": "debugComponent(VGuidedMultiplication)"
+  },
+  {
+    "input": "console.logg(gmGroups.call({value: '234*31456', size: 18, showZeroes: true}))"
+  },
+  {
+    "ignore": true,
+    "input": "clip(mashupFruitDemo())"
+  },
+  {
+    "ignore": true,
+    "input": "clip(fa(/case ['\"](.*?)['\"]/g, cssReduceKeyToFunction.toString()))"
+  }
+]
